@@ -1,0 +1,127 @@
+// this file was generated from Dark place.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=6 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=436 sample=../Audio/Dark place/Dark place.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=273 sample=../Audio/Dark place/Dark place_0001.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=207 sample=../Audio/Dark place/Dark place_0002.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=429 sample=../Audio/Dark place/Dark place_0003.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=201 end=514684 sample=../Audio/Dark place/Dark place_0004.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=558 end=525845 sample=../Audio/Dark place/Dark place_0005.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=441 sample=../Audio/Dark place/Dark place_0006.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=378 sample=../Audio/Dark place/Dark place_0007.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=562 sample=../Audio/Dark place/Dark place_0008.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=201 end=517376 sample=../Audio/Dark place/Dark place_0009.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=269 end=526543 sample=../Audio/Dark place/Dark place_0010.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=458 sample=../Audio/Dark place/Dark place_0011.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=415 end=1765186 sample=../Audio/Dark place/Dark place_0012.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 end=518695 sample=../Audio/Dark place/Dark place_0013.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=162 end=523186 sample=../Audio/Dark place/Dark place_0014.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=588 sample=../Audio/Dark place/Dark place_0015.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=461 sample=../Audio/Dark place/Dark place_0016.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=355 end=529024 sample=../Audio/Dark place/Dark place_0017.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=433 sample=../Audio/Dark place/Dark place_0018.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=565 end=529024 sample=../Audio/Dark place/Dark place_0019.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=475 sample=../Audio/Dark place/Dark place_0020.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=564 sample=../Audio/Dark place/Dark place_0021.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=301 end=527180 sample=../Audio/Dark place/Dark place_0022.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=465 end=519887 sample=../Audio/Dark place/Dark place_0023.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=465 end=528004 sample=../Audio/Dark place/Dark place_0024.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=170 end=512128 sample=../Audio/Dark place/Dark place_0025.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=198 sample=../Audio/Dark place/Dark place_0026.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=621 sample=../Audio/Dark place/Dark place_0027.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=360 sample=../Audio/Dark place/Dark place_0028.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=597 sample=../Audio/Dark place/Dark place_0029.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=550 end=519296 sample=../Audio/Dark place/Dark place_0030.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=534 sample=../Audio/Dark place/Dark place_0031.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=624 sample=../Audio/Dark place/Dark place_0032.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=180 sample=../Audio/Dark place/Dark place_0033.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=446 sample=../Audio/Dark place/Dark place_0034.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=477 end=517655 sample=../Audio/Dark place/Dark place_0035.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=642 end=530130 sample=../Audio/Dark place/Dark place_0036.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=342 end=515755 sample=../Audio/Dark place/Dark place_0037.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=388 end=528711 sample=../Audio/Dark place/Dark place_0038.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=604 sample=../Audio/Dark place/Dark place_0039.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=528 end=523944 sample=../Audio/Dark place/Dark place_0040.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=152 end=528417 sample=../Audio/Dark place/Dark place_0041.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=531 end=518912 sample=../Audio/Dark place/Dark place_0042.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=234 sample=../Audio/Dark place/Dark place_0043.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=623 end=515220 sample=../Audio/Dark place/Dark place_0044.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=195 sample=../Audio/Dark place/Dark place_0045.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=553 sample=../Audio/Dark place/Dark place_0046.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=169 sample=../Audio/Dark place/Dark place_0047.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=172 end=527488 sample=../Audio/Dark place/Dark place_0048.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=562 end=518149 sample=../Audio/Dark place/Dark place_0049.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=609 end=529024 sample=../Audio/Dark place/Dark place_0050.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=463 sample=../Audio/Dark place/Dark place_0051.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=287 end=527897 sample=../Audio/Dark place/Dark place_0052.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=305 end=520960 sample=../Audio/Dark place/Dark place_0053.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=560 sample=../Audio/Dark place/Dark place_0054.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=226 sample=../Audio/Dark place/Dark place_0055.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=176 end=516656 sample=../Audio/Dark place/Dark place_0056.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=422 end=526732 sample=../Audio/Dark place/Dark place_0057.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=438 sample=../Audio/Dark place/Dark place_0058.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=603 sample=../Audio/Dark place/Dark place_0059.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=609 end=517264 sample=../Audio/Dark place/Dark place_0060.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=602 sample=../Audio/Dark place/Dark place_0061.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=536 sample=../Audio/Dark place/Dark place_0062.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=568 sample=../Audio/Dark place/Dark place_0063.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=499 end=530827 sample=../Audio/Dark place/Dark place_0064.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=535 sample=../Audio/Dark place/Dark place_0065.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=538 sample=../Audio/Dark place/Dark place_0066.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=548 sample=../Audio/Dark place/Dark place_0067.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=548 end=522790 sample=../Audio/Dark place/Dark place_0068.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=621 sample=../Audio/Dark place/Dark place_0069.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=332 end=1764608 sample=../Audio/Dark place/Dark place_0070.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=38 end=524201 sample=../Audio/Dark place/Dark place_0071.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=169 end=520320 sample=../Audio/Dark place/Dark place_0072.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=203 sample=../Audio/Dark place/Dark place_0073.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=354 sample=../Audio/Dark place/Dark place_0074.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=144 end=527362 sample=../Audio/Dark place/Dark place_0075.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=543 end=514560 sample=../Audio/Dark place/Dark place_0076.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=178 sample=../Audio/Dark place/Dark place_0077.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=305 end=518656 sample=../Audio/Dark place/Dark place_0078.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=235 sample=../Audio/Dark place/Dark place_0079.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=612 sample=../Audio/Dark place/Dark place_0080.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=42 sample=../Audio/Dark place/Dark place_0081.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=214 sample=../Audio/Dark place/Dark place_0082.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=328 end=526275 sample=../Audio/Dark place/Dark place_0083.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=310 end=512649 sample=../Audio/Dark place/Dark place_0084.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=561 sample=../Audio/Dark place/Dark place_0085.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=461 sample=../Audio/Dark place/Dark place_0086.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=480 end=519433 sample=../Audio/Dark place/Dark place_0087.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=628 end=529563 sample=../Audio/Dark place/Dark place_0088.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=433 sample=../Audio/Dark place/Dark place_0089.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=623 sample=../Audio/Dark place/Dark place_0090.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=465 sample=../Audio/Dark place/Dark place_0091.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=535 end=524183 sample=../Audio/Dark place/Dark place_0092.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=240 sample=../Audio/Dark place/Dark place_0093.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=224 sample=../Audio/Dark place/Dark place_0094.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=463 end=446464 sample=../Audio/Dark place/Dark place_0095.aif
+<group>lokey=72 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=579 end=442794 sample=../Audio/Dark place/Dark place_0096.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 offset=475 end=443264 sample=../Audio/Dark place/Dark place_0097.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 offset=334 end=443776 sample=../Audio/Dark place/Dark place_0098.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 offset=324 sample=../Audio/Dark place/Dark place_0099.aif

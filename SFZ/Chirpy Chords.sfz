@@ -1,0 +1,76 @@
+// this file was generated from Chirpy Chords.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=220 end=597632 sample=../Audio/Chirpy Chords/48C2-9O1C.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=234 end=587393 sample=../Audio/Chirpy Chords/49C#2-RSQR.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=587394 sample=../Audio/Chirpy Chords/50D2-DNQP.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=225 end=587535 sample=../Audio/Chirpy Chords/51D#2-R0FU.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=238 end=597376 sample=../Audio/Chirpy Chords/52E2-BPP9.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=588200 sample=../Audio/Chirpy Chords/53F2-NWNH.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=236 sample=../Audio/Chirpy Chords/54F#2-1A4F.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=245 end=588425 sample=../Audio/Chirpy Chords/55G2-GT3V.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=238 end=588197 sample=../Audio/Chirpy Chords/56G#2-7FUY.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=248 end=588065 sample=../Audio/Chirpy Chords/57A2-63A3.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=236 end=587780 sample=../Audio/Chirpy Chords/58A#2-0SUY.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=224 end=587810 sample=../Audio/Chirpy Chords/59B2-SF8H.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=247 end=596864 sample=../Audio/Chirpy Chords/60C3-SMUS.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=235 end=597888 sample=../Audio/Chirpy Chords/61C#3-9R7W.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=227 sample=../Audio/Chirpy Chords/62D3-MD77.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=214 end=588165 sample=../Audio/Chirpy Chords/63D#3-UP7N.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=234 end=588048 sample=../Audio/Chirpy Chords/64E3-W54U.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=207 end=587684 sample=../Audio/Chirpy Chords/65F3-COMQ.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=232 end=587520 sample=../Audio/Chirpy Chords/66F#3-6C4J.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=587526 sample=../Audio/Chirpy Chords/67G3-K46K.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=224 end=587520 sample=../Audio/Chirpy Chords/68G#3-YWDV.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=597504 sample=../Audio/Chirpy Chords/69A3-N3GH.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=210 sample=../Audio/Chirpy Chords/70A#3-67C4.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=236 end=587658 sample=../Audio/Chirpy Chords/71B3-G80E.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=232 end=587794 sample=../Audio/Chirpy Chords/72C4-5859.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=224 end=587267 sample=../Audio/Chirpy Chords/73C#4-PG3F.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=232 end=588449 sample=../Audio/Chirpy Chords/74D4-IDV8.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=205 end=597120 sample=../Audio/Chirpy Chords/75D#4-BF5O.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=240 end=587804 sample=../Audio/Chirpy Chords/76E4-DV25.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=228 sample=../Audio/Chirpy Chords/77F4-38ZD.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=217 end=588037 sample=../Audio/Chirpy Chords/78F#4-R42X.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=245 end=587392 sample=../Audio/Chirpy Chords/79G4-1B45.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=208 end=587009 sample=../Audio/Chirpy Chords/80G#4-89MB.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=247 end=585856 sample=../Audio/Chirpy Chords/81A4-EH53.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=252 end=595456 sample=../Audio/Chirpy Chords/82A#4-B1UP.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=585482 sample=../Audio/Chirpy Chords/83B4-GA79.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=585235 sample=../Audio/Chirpy Chords/84C5-S4FR.aif

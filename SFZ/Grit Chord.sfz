@@ -1,0 +1,76 @@
+// this file was generated from Grit Chord.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=6 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277635 loop_end=429331 sample=../Audio/Grit Chord/(2013926 224243)/36C1-MQ2L.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286178 loop_end=456087 sample=../Audio/Grit Chord/(2013926 224243)/37C#1-S9J9.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324548 loop_end=474131 sample=../Audio/Grit Chord/(2013926 224243)/38D1-W5B9.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=359002 loop_end=410087 sample=../Audio/Grit Chord/(2013926 224243)/39D#1-VW2V.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=292695 loop_end=445210 sample=../Audio/Grit Chord/(2013926 224243)/40E1-QCU5.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267539 loop_end=466114 sample=../Audio/Grit Chord/(2013926 224243)/41F1-CQCX.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267375 loop_end=414701 sample=../Audio/Grit Chord/(2013926 224243)/42F#1-1IMX.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=380548 loop_end=479124 sample=../Audio/Grit Chord/(2013926 224243)/43G1-MSSU.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313599 loop_end=364639 sample=../Audio/Grit Chord/(2013926 224243)/44G#1-AH5D.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299862 loop_end=450238 sample=../Audio/Grit Chord/(2013926 224243)/45A1-YQ61.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356725 loop_end=407817 sample=../Audio/Grit Chord/(2013926 224243)/46A#1-788S.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=376773 loop_end=427144 sample=../Audio/Grit Chord/(2013926 224243)/47B1-9ZKT.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344731 loop_end=396264 sample=../Audio/Grit Chord/(2013926 224243)/48C2-A7MI.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356002 loop_end=406589 sample=../Audio/Grit Chord/(2013926 224243)/49C#2-LGQA.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=389275 loop_end=440629 sample=../Audio/Grit Chord/(2013926 224243)/50D2-5OVY.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328665 loop_end=480078 sample=../Audio/Grit Chord/(2013926 224243)/51D#2-WWDR.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279870 loop_end=430813 sample=../Audio/Grit Chord/(2013926 224243)/52E2-5EAA.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269547 loop_end=471145 sample=../Audio/Grit Chord/(2013926 224243)/53F2-F6YG.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=326373 loop_end=478008 sample=../Audio/Grit Chord/(2013926 224243)/54F#2-T5TE.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276788 loop_end=479271 sample=../Audio/Grit Chord/(2013926 224243)/55G2-L277.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302642 loop_end=352979 sample=../Audio/Grit Chord/(2013926 224243)/56G#2-6P06.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282646 loop_end=433033 sample=../Audio/Grit Chord/(2013926 224243)/57A2-0NK9.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=297124 loop_end=447558 sample=../Audio/Grit Chord/(2013926 224243)/58A#2-BD80.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311750 loop_end=481624 sample=../Audio/Grit Chord/(2013926 224243)/59B2-ZRB3.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=363764 loop_end=413829 sample=../Audio/Grit Chord/(2013926 224243)/60C3-CC30.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323537 loop_end=373669 sample=../Audio/Grit Chord/(2013926 224243)/61C#3-SRKX.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283882 loop_end=333905 sample=../Audio/Grit Chord/(2013926 224243)/62D3-AK5Z.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=298766 loop_end=450655 sample=../Audio/Grit Chord/(2013926 224243)/63D#3-W7VO.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286372 loop_end=338572 sample=../Audio/Grit Chord/(2013926 224243)/64E3-4VLI.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=301223 loop_end=470199 sample=../Audio/Grit Chord/(2013926 224243)/65F3-3A17.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265897 loop_end=417895 sample=../Audio/Grit Chord/(2013926 224243)/66F#3-NN49.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303415 loop_end=472217 sample=../Audio/Grit Chord/(2013926 224243)/67G3-WU3G.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270979 loop_end=338537 sample=../Audio/Grit Chord/(2013926 224243)/68G#3-X4DZ.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303717 loop_end=456760 sample=../Audio/Grit Chord/(2013926 224243)/69A3-AO73.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=417989 loop_end=468241 sample=../Audio/Grit Chord/(2013926 224243)/70A#3-MIU9.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356665 loop_end=424187 sample=../Audio/Grit Chord/(2013926 224243)/71B3-1Y00.wav
+<group>lokey=72 hikey=109 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303145 loop_end=471078 sample=../Audio/Grit Chord/(2013926 224243)/72C4-J1UN.wav

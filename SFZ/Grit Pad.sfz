@@ -1,0 +1,76 @@
+// this file was generated from Grit Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=4 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=368730 loop_end=449637 sample=../Audio/Grit Pad/(2013926 22549)/36C1-X5RY.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271152 loop_end=353884 sample=../Audio/Grit Pad/(2013926 22549)/37C#1-882H.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303106 loop_end=386025 sample=../Audio/Grit Pad/(2013926 22549)/38D1-99WF.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282472 loop_end=335757 sample=../Audio/Grit Pad/(2013926 22549)/39D#1-IPP8.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305033 loop_end=359675 sample=../Audio/Grit Pad/(2013926 22549)/40E1-QR07.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=364688 loop_end=446541 sample=../Audio/Grit Pad/(2013926 22549)/41F1-WWL3.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=398552 loop_end=481522 sample=../Audio/Grit Pad/(2013926 22549)/42F#1-II8D.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=372027 loop_end=453929 sample=../Audio/Grit Pad/(2013926 22549)/43G1-B51H.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314369 loop_end=368777 sample=../Audio/Grit Pad/(2013926 22549)/44G#1-F4SX.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265918 loop_end=318082 sample=../Audio/Grit Pad/(2013926 22549)/45A1-219L.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=372029 loop_end=455286 sample=../Audio/Grit Pad/(2013926 22549)/46A#1-F3OT.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=412985 loop_end=467323 sample=../Audio/Grit Pad/(2013926 22549)/47B1-ZXHJ.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=384957 loop_end=437548 sample=../Audio/Grit Pad/(2013926 22549)/48C2-AH2H.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276393 loop_end=358486 sample=../Audio/Grit Pad/(2013926 22549)/49C#2-YMEA.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=386195 loop_end=469105 sample=../Audio/Grit Pad/(2013926 22549)/50D2-DECU.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=312665 loop_end=364829 sample=../Audio/Grit Pad/(2013926 22549)/51D#2-I73Z.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344893 loop_end=480304 sample=../Audio/Grit Pad/(2013926 22549)/52E2-OL60.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=352659 loop_end=434498 sample=../Audio/Grit Pad/(2013926 22549)/53F2-GZDB.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=393337 loop_end=445778 sample=../Audio/Grit Pad/(2013926 22549)/54F#2-N849.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296311 loop_end=480413 sample=../Audio/Grit Pad/(2013926 22549)/55G2-6TAM.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313491 loop_end=480443 sample=../Audio/Grit Pad/(2013926 22549)/56G#2-9KX0.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=379223 loop_end=464220 sample=../Audio/Grit Pad/(2013926 22549)/57A2-XUJC.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=389468 loop_end=473116 sample=../Audio/Grit Pad/(2013926 22549)/58A#2-3368.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329068 loop_end=410862 sample=../Audio/Grit Pad/(2013926 22549)/59B2-2V87.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=382065 loop_end=434348 sample=../Audio/Grit Pad/(2013926 22549)/60C3-XEMW.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351618 loop_end=402542 sample=../Audio/Grit Pad/(2013926 22549)/61C#3-BXTM.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=306395 loop_end=456934 sample=../Audio/Grit Pad/(2013926 22549)/62D3-6ZNS.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270925 loop_end=322838 sample=../Audio/Grit Pad/(2013926 22549)/63D#3-CYPV.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=359757 loop_end=409808 sample=../Audio/Grit Pad/(2013926 22549)/64E3-N2WD.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=347420 loop_end=481556 sample=../Audio/Grit Pad/(2013926 22549)/65F3-Z9IT.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=336036 loop_end=470254 sample=../Audio/Grit Pad/(2013926 22549)/66F#3-DVOW.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265321 loop_end=414777 sample=../Audio/Grit Pad/(2013926 22549)/67G3-42H4.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269773 loop_end=353878 sample=../Audio/Grit Pad/(2013926 22549)/68G#3-PQM9.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=363923 loop_end=447712 sample=../Audio/Grit Pad/(2013926 22549)/69A3-HU59.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=413012 loop_end=463163 sample=../Audio/Grit Pad/(2013926 22549)/70A#3-9NCO.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=381191 loop_end=465466 sample=../Audio/Grit Pad/(2013926 22549)/71B3-2A06.wav
+<group>lokey=72 hikey=114 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=409943 loop_end=460181 sample=../Audio/Grit Pad/(2013926 22549)/72C4-POES.wav

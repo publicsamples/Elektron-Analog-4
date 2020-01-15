@@ -1,0 +1,177 @@
+// this file was generated from Big News.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=6 hikey=60 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=82464 loop_end=182170 sample=../Audio/Big News/(2014225 03212)/60C3-XDK3.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=58941 loop_end=404910 sample=../Audio/Big News/(2014225 03212)/60C3-K18M.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=126128 loop_end=428603 sample=../Audio/Big News/(2014225 03212)/60C3-92U9.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=105605 loop_end=410068 sample=../Audio/Big News/(2014225 03212)/60C3-NOVM.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=74234 loop_end=334232 sample=../Audio/Big News/(2014225 03212)/60C3-NPSK.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=90278 loop_end=435263 sample=../Audio/Big News/(2014225 03212)/60C3-FSB3.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=82735 loop_end=181912 sample=../Audio/Big News/(2014225 03212)/61C#3-F3RH.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=15933 loop_end=297647 sample=../Audio/Big News/(2014225 03212)/61C#3-2687.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=162193 loop_end=420874 sample=../Audio/Big News/(2014225 03212)/61C#3-89IF.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=109653 loop_end=412326 sample=../Audio/Big News/(2014225 03212)/61C#3-WNY7.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=40447 loop_end=301107 sample=../Audio/Big News/(2014225 03212)/61C#3-ZKZ0.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=101400 loop_end=405970 sample=../Audio/Big News/(2014225 03212)/61C#3-HL0W.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=49693 loop_end=149455 sample=../Audio/Big News/(2014225 03212)/62D3-2XFS.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=152926 loop_end=280877 sample=../Audio/Big News/(2014225 03212)/62D3-GM4F.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=77745 loop_end=379720 sample=../Audio/Big News/(2014225 03212)/62D3-RPG0.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=44168 loop_end=346161 sample=../Audio/Big News/(2014225 03212)/62D3-F4FM.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=63657 loop_end=280815 sample=../Audio/Big News/(2014225 03212)/62D3-LENG.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=8070 loop_end=225228 sample=../Audio/Big News/(2014225 03212)/62D3-QE86.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=8177 loop_end=107407 sample=../Audio/Big News/(2014225 03212)/63D#3-3LL9.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=73462 loop_end=173105 sample=../Audio/Big News/(2014225 03212)/63D#3-2P91.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=36506 loop_end=338482 sample=../Audio/Big News/(2014225 03212)/63D#3-M045.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=119079 loop_end=421079 sample=../Audio/Big News/(2014225 03212)/63D#3-YYSN.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=213234 loop_end=429553 sample=../Audio/Big News/(2014225 03212)/63D#3-37CF.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131364 loop_end=346508 sample=../Audio/Big News/(2014225 03212)/63D#3-ZED5.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=17056 loop_end=413429 sample=../Audio/Big News/(2014225 03212)/64E3-IGRV.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=293172 loop_end=381567 sample=../Audio/Big News/(2014225 03212)/64E3-X8Y8.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=76862 loop_end=205309 sample=../Audio/Big News/(2014225 03212)/64E3-T7BG.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=140663 loop_end=356616 sample=../Audio/Big News/(2014225 03212)/64E3-W1AT.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=189927 loop_end=405888 sample=../Audio/Big News/(2014225 03212)/64E3-YIH4.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=213097 loop_end=429057 sample=../Audio/Big News/(2014225 03212)/64E3-242B.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=330745 loop_end=430018 sample=../Audio/Big News/(2014225 03212)/65F3-4LQI.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=184115 loop_end=313734 sample=../Audio/Big News/(2014225 03212)/65F3-K4WY.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=139709 loop_end=355660 sample=../Audio/Big News/(2014225 03212)/65F3-FO45.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=117045 loop_end=290607 sample=../Audio/Big News/(2014225 03212)/65F3-O6AD.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=206373 loop_end=423842 sample=../Audio/Big News/(2014225 03212)/65F3-LRBR.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=6962 loop_end=222924 sample=../Audio/Big News/(2014225 03212)/65F3-6PWG.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=297904 loop_end=397248 sample=../Audio/Big News/(2014225 03212)/66F#3-KJJN.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=32673 loop_end=421825 sample=../Audio/Big News/(2014225 03212)/66F#3-0DUY.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=206240 loop_end=351473 sample=../Audio/Big News/(2014225 03212)/66F#3-8AQ5.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=150953 loop_end=281129 sample=../Audio/Big News/(2014225 03212)/66F#3-99NU.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=126032 loop_end=342750 sample=../Audio/Big News/(2014225 03212)/66F#3-B1MP.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=107445 loop_end=322781 sample=../Audio/Big News/(2014225 03212)/66F#3-RD5G.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=297729 loop_end=397218 sample=../Audio/Big News/(2014225 03212)/67G3-OSU4.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=2255 loop_end=421747 sample=../Audio/Big News/(2014225 03212)/67G3-VT5S.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=59036 loop_end=404604 sample=../Audio/Big News/(2014225 03212)/67G3-B0FR.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=22722 loop_end=239433 sample=../Audio/Big News/(2014225 03212)/67G3-16AN.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=51797 loop_end=354916 sample=../Audio/Big News/(2014225 03212)/67G3-S1YG.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=205753 loop_end=422476 sample=../Audio/Big News/(2014225 03212)/67G3-72RX.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=231419 loop_end=330730 sample=../Audio/Big News/(2014225 03212)/68G#3-R78B.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=41912 loop_end=214594 sample=../Audio/Big News/(2014225 03212)/68G#3-QHNJ.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=58801 loop_end=405443 sample=../Audio/Big News/(2014225 03212)/68G#3-VZDF.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=215022 loop_end=431061 sample=../Audio/Big News/(2014225 03212)/68G#3-B8E6.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=59104 loop_end=404453 sample=../Audio/Big News/(2014225 03212)/68G#3-NTES.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=132969 loop_end=436220 sample=../Audio/Big News/(2014225 03212)/68G#3-63GH.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=198495 loop_end=421734 sample=../Audio/Big News/(2014225 03212)/69A3-NO72.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=285141 loop_end=430077 sample=../Audio/Big News/(2014225 03212)/69A3-V4C3.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=82315 loop_end=298254 sample=../Audio/Big News/(2014225 03212)/69A3-I2U4.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=213115 loop_end=429520 sample=../Audio/Big News/(2014225 03212)/69A3-3JGY.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=34306 loop_end=379547 sample=../Audio/Big News/(2014225 03212)/69A3-L9YX.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=86237 loop_end=431470 sample=../Audio/Big News/(2014225 03212)/69A3-SGJ6.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=198480 loop_end=421887 sample=../Audio/Big News/(2014225 03212)/70A#3-DARH.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=223219 loop_end=372520 sample=../Audio/Big News/(2014225 03212)/70A#3-LKLB.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=157394 loop_end=372607 sample=../Audio/Big News/(2014225 03212)/70A#3-4J32.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=149412 loop_end=364618 sample=../Audio/Big News/(2014225 03212)/70A#3-N98V.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=96664 loop_end=399753 sample=../Audio/Big News/(2014225 03212)/70A#3-LGQB.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4697 loop_end=350999 sample=../Audio/Big News/(2014225 03212)/70A#3-5EN0.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=58342 loop_end=281145 sample=../Audio/Big News/(2014225 03212)/71B3-IDGI.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=223182 loop_end=322515 sample=../Audio/Big News/(2014225 03212)/71B3-3DJS.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=255176 loop_end=384288 sample=../Audio/Big News/(2014225 03212)/71B3-XYEL.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=102570 loop_end=318538 sample=../Audio/Big News/(2014225 03212)/71B3-B4R9.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=152260 loop_end=281370 sample=../Audio/Big News/(2014225 03212)/71B3-TCAC.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=67763 loop_end=283727 sample=../Audio/Big News/(2014225 03212)/71B3-Q9I4.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=181923 loop_end=405168 sample=../Audio/Big News/(2014225 03212)/72C4-NV5U.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=190308 loop_end=413432 sample=../Audio/Big News/(2014225 03212)/72C4-JEHR.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=70561 loop_end=200539 sample=../Audio/Big News/(2014225 03212)/72C4-GNQ9.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=27044 loop_end=243056 sample=../Audio/Big News/(2014225 03212)/72C4-N0OU.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=122498 loop_end=424982 sample=../Audio/Big News/(2014225 03212)/72C4-HBAV.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=217356 loop_end=433368 sample=../Audio/Big News/(2014225 03212)/72C4-W0JE.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=8158 loop_end=231416 sample=../Audio/Big News/(2014225 03212)/73C#4-8H7Z.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=256322 loop_end=429996 sample=../Audio/Big News/(2014225 03212)/73C#4-X8YA.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=206543 loop_end=422857 sample=../Audio/Big News/(2014225 03212)/73C#4-PR8H.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=66681 loop_end=197359 sample=../Audio/Big News/(2014225 03212)/73C#4-H016.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=206865 loop_end=337182 sample=../Audio/Big News/(2014225 03212)/73C#4-M7Y0.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=130659 loop_end=346711 sample=../Audio/Big News/(2014225 03212)/73C#4-HZUO.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=24534 loop_end=247808 sample=../Audio/Big News/(2014225 03212)/74D4-BPSS.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=123896 loop_end=297730 sample=../Audio/Big News/(2014225 03212)/74D4-59VB.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=182007 loop_end=397912 sample=../Audio/Big News/(2014225 03212)/74D4-9BHD.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=194056 loop_end=409969 sample=../Audio/Big News/(2014225 03212)/74D4-E198.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=198560 loop_end=414413 sample=../Audio/Big News/(2014225 03212)/74D4-IY9V.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=189502 loop_end=405801 sample=../Audio/Big News/(2014225 03212)/74D4-CROJ.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=82768 loop_end=306044 sample=../Audio/Big News/(2014225 03212)/75D#4-TCYD.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=49565 loop_end=223135 sample=../Audio/Big News/(2014225 03212)/75D#4-UIFU.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=197140 loop_end=326853 sample=../Audio/Big News/(2014225 03212)/75D#4-KO3W.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=3535 loop_end=133276 sample=../Audio/Big News/(2014225 03212)/75D#4-3BKN.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=78371 loop_end=208105 sample=../Audio/Big News/(2014225 03212)/75D#4-Z164.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224070 loop_end=352923 sample=../Audio/Big News/(2014225 03212)/75D#4-KD98.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=322470 loop_end=421827 sample=../Audio/Big News/(2014225 03212)/76E4-JTN6.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=99323 loop_end=198419 sample=../Audio/Big News/(2014225 03212)/76E4-O7Y2.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=107376 loop_end=323332 sample=../Audio/Big News/(2014225 03212)/76E4-YDTZ.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=107101 loop_end=323074 sample=../Audio/Big News/(2014225 03212)/76E4-ZONH.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=57590 loop_end=186446 sample=../Audio/Big News/(2014225 03212)/76E4-ALNK.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=572 loop_end=215723 sample=../Audio/Big News/(2014225 03212)/76E4-06UB.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=74476 loop_end=174036 sample=../Audio/Big News/(2014225 03212)/77F4-D5RV.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=283 loop_end=173661 sample=../Audio/Big News/(2014225 03212)/77F4-KWC6.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=22852 loop_end=238817 sample=../Audio/Big News/(2014225 03212)/77F4-XBXZ.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=99922 loop_end=315874 sample=../Audio/Big News/(2014225 03212)/77F4-N1G8.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=498 loop_end=216453 sample=../Audio/Big News/(2014225 03212)/77F4-05KN.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66195 loop_end=195402 sample=../Audio/Big News/(2014225 03212)/77F4-4VEO.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=82665 loop_end=305862 sample=../Audio/Big News/(2014225 03212)/78F#4-SDAL.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=49581 loop_end=223227 sample=../Audio/Big News/(2014225 03212)/78F#4-KITB.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=74696 loop_end=290720 sample=../Audio/Big News/(2014225 03212)/78F#4-6Z0P.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=205407 loop_end=421401 sample=../Audio/Big News/(2014225 03212)/78F#4-DQ06.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=74720 loop_end=420188 sample=../Audio/Big News/(2014225 03212)/78F#4-TVMA.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197751 loop_end=413760 sample=../Audio/Big News/(2014225 03212)/78F#4-HQ9D.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=132003 loop_end=305356 sample=../Audio/Big News/(2014225 03212)/79G4-O32X.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=107166 loop_end=206790 sample=../Audio/Big News/(2014225 03212)/79G4-W8L5.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=5774 loop_end=221869 sample=../Audio/Big News/(2014225 03212)/79G4-V59Q.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=217347 loop_end=432403 sample=../Audio/Big News/(2014225 03212)/79G4-NPZK.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=78702 loop_end=424061 sample=../Audio/Big News/(2014225 03212)/79G4-WDRO.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=2689 loop_end=218987 sample=../Audio/Big News/(2014225 03212)/79G4-LVEU.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=74747 loop_end=421880 sample=../Audio/Big News/(2014225 03212)/80G#4-8YKD.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=82936 loop_end=181943 sample=../Audio/Big News/(2014225 03212)/80G#4-O0UV.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=50133 loop_end=266163 sample=../Audio/Big News/(2014225 03212)/80G#4-XJ8S.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=60541 loop_end=407190 sample=../Audio/Big News/(2014225 03212)/80G#4-UF2D.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=124643 loop_end=340707 sample=../Audio/Big News/(2014225 03212)/80G#4-UYDX.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=35924 loop_end=251963 sample=../Audio/Big News/(2014225 03212)/80G#4-RWOM.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=248586 loop_end=421877 sample=../Audio/Big News/(2014225 03212)/81A4-MMPQ.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=12080 loop_end=111274 sample=../Audio/Big News/(2014225 03212)/81A4-4ARZ.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=300853 loop_end=430530 sample=../Audio/Big News/(2014225 03212)/81A4-7ERJ.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=36687 loop_end=382478 sample=../Audio/Big News/(2014225 03212)/81A4-76QH.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=55267 loop_end=271238 sample=../Audio/Big News/(2014225 03212)/81A4-I6B2.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72491 loop_end=288714 sample=../Audio/Big News/(2014225 03212)/81A4-FKVQ.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=8187 loop_end=231416 sample=../Audio/Big News/(2014225 03212)/82A#4-G55P.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=24567 loop_end=421868 sample=../Audio/Big News/(2014225 03212)/82A#4-QAZG.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=302016 loop_end=431444 sample=../Audio/Big News/(2014225 03212)/82A#4-7DA0.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=206828 loop_end=422586 sample=../Audio/Big News/(2014225 03212)/82A#4-N716.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=58809 loop_end=274832 sample=../Audio/Big News/(2014225 03212)/82A#4-RPV7.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77 loop_end=433040 sample=../Audio/Big News/(2014225 03212)/82A#4-OFL1.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=74380 loop_end=223220 sample=../Audio/Big News/(2014225 03212)/83B4-JRLO.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=49572 loop_end=421748 sample=../Audio/Big News/(2014225 03212)/83B4-V087.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=762 loop_end=173267 sample=../Audio/Big News/(2014225 03212)/83B4-HFG7.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=742 loop_end=216975 sample=../Audio/Big News/(2014225 03212)/83B4-9GG8.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=25121 loop_end=241330 sample=../Audio/Big News/(2014225 03212)/83B4-PWVE.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=159599 loop_end=375802 sample=../Audio/Big News/(2014225 03212)/83B4-PPDX.aif
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=019 amp_velcurve_019=1 loop_mode=loop_sustain loop_start=305950 loop_end=405263 sample=../Audio/Big News/(2014225 03212)/84C5-MS4J.aif
+	<region> lovel=020 hivel=038 amp_velcurve_038=1 loop_mode=loop_sustain loop_start=49663 loop_end=421690 sample=../Audio/Big News/(2014225 03212)/84C5-PYQ4.aif
+	<region> lovel=039 hivel=059 amp_velcurve_059=1 loop_mode=loop_sustain loop_start=200886 loop_end=417098 sample=../Audio/Big News/(2014225 03212)/84C5-WE8E.aif
+	<region> lovel=060 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=182032 loop_end=398019 sample=../Audio/Big News/(2014225 03212)/84C5-UT7C.aif
+	<region> lovel=080 hivel=099 amp_velcurve_099=1 loop_mode=loop_sustain loop_start=176107 loop_end=392056 sample=../Audio/Big News/(2014225 03212)/84C5-MH3D.aif
+	<region> lovel=100 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=51618 loop_end=397637 sample=../Audio/Big News/(2014225 03212)/84C5-VSQE.aif

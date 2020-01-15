@@ -1,0 +1,44 @@
+// this file was generated from a1.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=134325 loop_end=274604 sample=../Audio/a1/(201315 1759)/C1a1-36-127-L6M6.aif
+<group>lokey=37 hikey=39 pitch_keycenter=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147635 loop_end=358577 sample=../Audio/a1/(201315 1759)/C#1a1-39-127-JSZ2.aif
+<group>lokey=40 hikey=42 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211679 loop_end=350937 sample=../Audio/a1/(201315 1759)/E1a1-42-127-0SBP.aif
+<group>lokey=43 hikey=45 pitch_keycenter=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=97534 loop_end=308475 sample=../Audio/a1/(201315 1759)/G1a1-45-127-VRS3.aif
+<group>lokey=46 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=214149 loop_end=355101 sample=../Audio/a1/(201315 1759)/A#1a1-48-127-OA48.aif
+<group>lokey=49 hikey=51 pitch_keycenter=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=81106 loop_end=292603 sample=../Audio/a1/(201315 1759)/C#2a1-51-127-XCYK.aif
+<group>lokey=52 hikey=54 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=56563 loop_end=338374 sample=../Audio/a1/(201315 1759)/E2a1-54-127-DSWM.aif
+<group>lokey=55 hikey=57 pitch_keycenter=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=76095 loop_end=357582 sample=../Audio/a1/(201315 1759)/G2a1-57-127-E6TO.aif
+<group>lokey=58 hikey=60 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=14380 loop_end=295934 sample=../Audio/a1/(201315 1759)/A#2a1-60-127-GS54.aif
+<group>lokey=61 hikey=63 pitch_keycenter=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77652 loop_end=359268 sample=../Audio/a1/(201315 1759)/C#3a1-63-127-2D1C.aif
+<group>lokey=64 hikey=66 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=50013 loop_end=331632 sample=../Audio/a1/(201315 1759)/E3a1-66-127-XSUX.aif
+<group>lokey=67 hikey=69 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34691 loop_end=316387 sample=../Audio/a1/(201315 1759)/G3a1-69-127-8TM4.aif
+<group>lokey=70 hikey=72 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=65498 loop_end=347061 sample=../Audio/a1/(201315 1759)/A#3a1-72-127-K01Q.aif
+<group>lokey=73 hikey=75 pitch_keycenter=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=48699 loop_end=330611 sample=../Audio/a1/(201315 1759)/C#4a1-75-127-9BZZ.aif
+<group>lokey=76 hikey=78 pitch_keycenter=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=67896 loop_end=349506 sample=../Audio/a1/(201315 1759)/E4a1-78-127-RKGW.aif
+<group>lokey=79 hikey=81 pitch_keycenter=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=67933 loop_end=349675 sample=../Audio/a1/(201315 1759)/G4a1-81-127-3ZRD.aif
+<group>lokey=82 hikey=84 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=59306 loop_end=340920 sample=../Audio/a1/(201315 1759)/A#4a1-84-127-V23C.aif
+<group>lokey=85 hikey=87 pitch_keycenter=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=62865 loop_end=344623 sample=../Audio/a1/(201315 1759)/C#5a1-87-127-X4V8.aif
+<group>lokey=88 hikey=90 pitch_keycenter=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34003 loop_end=315567 sample=../Audio/a1/(201315 1759)/E5a1-90-127-WKE6.aif
+<group>lokey=91 hikey=93 pitch_keycenter=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71640 loop_end=353268 sample=../Audio/a1/(201315 1759)/G5a1-93-127-P790.aif
+<group>lokey=94 hikey=96 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=62099 loop_end=343747 sample=../Audio/a1/(201315 1759)/A#5a1-96-127-G6YU.aif

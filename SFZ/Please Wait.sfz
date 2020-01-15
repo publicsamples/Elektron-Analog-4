@@ -1,0 +1,100 @@
+// this file was generated from Please Wait.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=205 end=1444335 sample=../Audio/Please Wait/36C1-APJR.aif
+<group> key=37 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=228 end=1444769 sample=../Audio/Please Wait/37C#1-8MEI.aif
+<group> key=38 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=221 end=1444131 sample=../Audio/Please Wait/38D1-16GF.aif
+<group> key=39 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=219 end=1444482 sample=../Audio/Please Wait/39D#1-JQMU.aif
+<group> key=40 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=232 end=1444642 sample=../Audio/Please Wait/40E1-XF8X.aif
+<group> key=41 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=230 end=1445027 sample=../Audio/Please Wait/41F1-PYZF.aif
+<group> key=42 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=230 end=1444631 sample=../Audio/Please Wait/42F#1-O3AX.aif
+<group> key=43 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=1453696 sample=../Audio/Please Wait/43G1-AEU2.aif
+<group> key=44 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=211 end=1444366 sample=../Audio/Please Wait/44G#1-3JFK.aif
+<group> key=45 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=227 end=1444123 sample=../Audio/Please Wait/45A1-MYWY.aif
+<group> key=46 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=231 end=1444656 sample=../Audio/Please Wait/46A#1-O8AL.aif
+<group> key=47 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=242 end=1444648 sample=../Audio/Please Wait/47B1-BOSE.aif
+<group> key=48 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=244 end=1444119 sample=../Audio/Please Wait/48C2-ZO7J.aif
+<group> key=49 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=248 end=1444098 sample=../Audio/Please Wait/49C#2-YO8M.aif
+<group> key=50 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=227 sample=../Audio/Please Wait/50D2-DX8I.aif
+<group> key=51 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=224 end=1444610 sample=../Audio/Please Wait/51D#2-BDCN.aif
+<group> key=52 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=234 end=1472909 sample=../Audio/Please Wait/52E2-TFPS.aif
+<group> key=53 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=247 end=1472313 sample=../Audio/Please Wait/53F2-NFMS.aif
+<group> key=54 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=246 end=1473280 sample=../Audio/Please Wait/54F#2-ZM58.aif
+<group> key=55 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=235 sample=../Audio/Please Wait/55G2-O575.aif
+<group> key=56 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=211 end=1473163 sample=../Audio/Please Wait/56G#2-41IZ.aif
+<group> key=57 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=252 sample=../Audio/Please Wait/57A2-ETVH.aif
+<group> key=58 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=242 end=1473152 sample=../Audio/Please Wait/58A#2-2UF3.aif
+<group> key=59 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=236 end=1473152 sample=../Audio/Please Wait/59B2-GLCF.aif
+<group> key=60 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=252 end=1472513 sample=../Audio/Please Wait/60C3-1XXX.aif
+<group> key=61 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=252 end=1482112 sample=../Audio/Please Wait/61C#3-9R31.aif
+<group> key=62 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=1472899 sample=../Audio/Please Wait/62D3-LCCX.aif
+<group> key=63 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=246 end=1472384 sample=../Audio/Please Wait/63D#3-FQAE.aif
+<group> key=64 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=245 end=1473280 sample=../Audio/Please Wait/64E3-M5LP.aif
+<group> key=65 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=229 end=1472645 sample=../Audio/Please Wait/65F3-M5IS.aif
+<group> key=66 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=227 end=1472512 sample=../Audio/Please Wait/66F#3-4MNV.aif
+<group> key=67 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=227 end=1471488 sample=../Audio/Please Wait/67G3-FYTC.aif
+<group> key=68 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=238 end=1472384 sample=../Audio/Please Wait/68G#3-FEZX.aif
+<group> key=69 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=209 end=1472256 sample=../Audio/Please Wait/69A3-D64A.aif
+<group> key=70 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=223 end=1472384 sample=../Audio/Please Wait/70A#3-THY0.aif
+<group> key=71 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=1472897 sample=../Audio/Please Wait/71B3-1BLT.aif
+<group> key=72 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=251 end=1482880 sample=../Audio/Please Wait/72C4-QMFO.aif
+<group> key=73 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=241 end=1472640 sample=../Audio/Please Wait/73C#4-E8NL.aif
+<group> key=74 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=239 end=1472640 sample=../Audio/Please Wait/74D4-1UJ6.aif
+<group> key=75 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=255 end=1472256 sample=../Audio/Please Wait/75D#4-7CZQ.aif
+<group> key=76 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=252 end=1473024 sample=../Audio/Please Wait/76E4-97LH.aif
+<group> key=77 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=245 end=1472386 sample=../Audio/Please Wait/77F4-5QM4.aif
+<group> key=78 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=250 end=1472256 sample=../Audio/Please Wait/78F#4-R44Q.aif
+<group> key=79 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=255 end=1472640 sample=../Audio/Please Wait/79G4-OGLR.aif
+<group> key=80 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=233 end=1472000 sample=../Audio/Please Wait/80G#4-0F70.aif
+<group> key=81 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=1470977 sample=../Audio/Please Wait/81A4-9JKW.aif
+<group> key=82 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=249 end=1472768 sample=../Audio/Please Wait/82A#4-8QQJ.aif
+<group> key=83 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=234 end=1473024 sample=../Audio/Please Wait/83B4-HCAP.aif
+<group>lokey=84 hikey=119 pitch_keycenter=84 pan=-38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=254 end=1471104 sample=../Audio/Please Wait/84C5-SW30.aif

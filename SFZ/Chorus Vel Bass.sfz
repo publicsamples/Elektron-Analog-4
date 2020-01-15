@@ -1,0 +1,76 @@
+// this file was generated from Chorus Vel Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=12 hikey=36 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=152 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass.aif
+<group>lokey=37 hikey=37 pitch_keycenter=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=169 end=18304 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0001.aif
+<group>lokey=38 hikey=38 pitch_keycenter=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=448 end=18172 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0002.aif
+<group>lokey=39 hikey=39 pitch_keycenter=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=491 end=17538 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0003.aif
+<group>lokey=40 hikey=40 pitch_keycenter=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=348 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0004.aif
+<group>lokey=41 hikey=41 pitch_keycenter=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=255 end=17235 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0005.aif
+<group>lokey=42 hikey=42 pitch_keycenter=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=297 end=17408 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0006.aif
+<group>lokey=43 hikey=43 pitch_keycenter=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=453 end=16642 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0007.aif
+<group>lokey=44 hikey=44 pitch_keycenter=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=241 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0008.aif
+<group>lokey=45 hikey=45 pitch_keycenter=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=525 end=17520 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0009.aif
+<group>lokey=46 hikey=46 pitch_keycenter=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=279 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0010.aif
+<group>lokey=47 hikey=47 pitch_keycenter=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=488 end=17154 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0011.aif
+<group>lokey=48 hikey=48 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=170 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0012.aif
+<group>lokey=49 hikey=49 pitch_keycenter=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=296 end=17283 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0013.aif
+<group>lokey=50 hikey=50 pitch_keycenter=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=392 end=17625 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0014.aif
+<group>lokey=51 hikey=51 pitch_keycenter=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=222 end=16640 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0015.aif
+<group>lokey=52 hikey=52 pitch_keycenter=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=552 end=17107 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0016.aif
+<group>lokey=53 hikey=53 pitch_keycenter=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=165 end=16904 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0017.aif
+<group>lokey=54 hikey=54 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=251 end=17069 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0018.aif
+<group>lokey=55 hikey=55 pitch_keycenter=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=179 end=16762 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0019.aif
+<group>lokey=56 hikey=56 pitch_keycenter=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=327 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0020.aif
+<group>lokey=57 hikey=57 pitch_keycenter=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=506 end=16415 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0021.aif
+<group>lokey=58 hikey=58 pitch_keycenter=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=231 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0022.aif
+<group>lokey=59 hikey=59 pitch_keycenter=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=597 end=17472 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0023.aif
+<group>lokey=60 hikey=60 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=539 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0024.aif
+<group>lokey=61 hikey=61 pitch_keycenter=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=207 end=16996 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0025.aif
+<group>lokey=62 hikey=62 pitch_keycenter=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=445 end=16462 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0026.aif
+<group>lokey=63 hikey=63 pitch_keycenter=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=475 end=16986 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0027.aif
+<group>lokey=64 hikey=64 pitch_keycenter=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=201 end=16089 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0028.aif
+<group>lokey=65 hikey=65 pitch_keycenter=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=533 end=17046 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0029.aif
+<group>lokey=66 hikey=66 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=436 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0030.aif
+<group>lokey=67 hikey=67 pitch_keycenter=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=185 end=15873 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0031.aif
+<group>lokey=68 hikey=68 pitch_keycenter=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=506 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0032.aif
+<group>lokey=69 hikey=69 pitch_keycenter=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=625 end=16329 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0033.aif
+<group>lokey=70 hikey=70 pitch_keycenter=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=245 end=15651 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0034.aif
+<group>lokey=71 hikey=71 pitch_keycenter=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=369 end=16360 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0035.aif
+<group>lokey=72 hikey=116 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=455 end=16299 sample=../Audio/Chorus Vel Bass/Chorus Vel Bass_0036.aif

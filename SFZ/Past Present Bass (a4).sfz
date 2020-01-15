@@ -1,0 +1,335 @@
+// this file was generated from Past Present Bass (a4).exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=329 end=123478 sample=../Audio/Past Present Bass (a4)/36C1-Y61K.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=588 end=121950 sample=../Audio/Past Present Bass (a4)/36C1-JPIE.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=654 end=120920 sample=../Audio/Past Present Bass (a4)/36C1-7KNC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=747 end=121394 sample=../Audio/Past Present Bass (a4)/36C1-HSKY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=332 sample=../Audio/Past Present Bass (a4)/36C1-HBEY.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=343 sample=../Audio/Past Present Bass (a4)/36C1-FK6D.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=432 end=122200 sample=../Audio/Past Present Bass (a4)/36C1-QN5Z.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=547 end=122991 sample=../Audio/Past Present Bass (a4)/36C1-X5WJ.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=565 end=122651 sample=../Audio/Past Present Bass (a4)/37C#1-PPK7.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=551 end=122637 sample=../Audio/Past Present Bass (a4)/37C#1-F7AK.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=606 sample=../Audio/Past Present Bass (a4)/37C#1-Z03U.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=409 sample=../Audio/Past Present Bass (a4)/37C#1-N1MK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=161 sample=../Audio/Past Present Bass (a4)/37C#1-ORNW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=450 end=122255 sample=../Audio/Past Present Bass (a4)/37C#1-56O5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=602 end=123711 sample=../Audio/Past Present Bass (a4)/37C#1-O6LY.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=708 end=123318 sample=../Audio/Past Present Bass (a4)/37C#1-68UY.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=720 sample=../Audio/Past Present Bass (a4)/38D1-GMX2.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=344 end=121415 sample=../Audio/Past Present Bass (a4)/38D1-CXDW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=550 sample=../Audio/Past Present Bass (a4)/38D1-SBSG.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=221 end=121190 sample=../Audio/Past Present Bass (a4)/38D1-9FB4.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=563 end=121890 sample=../Audio/Past Present Bass (a4)/38D1-W8B1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=397 end=123650 sample=../Audio/Past Present Bass (a4)/38D1-905D.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=540 end=121770 sample=../Audio/Past Present Bass (a4)/38D1-IGJL.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=642 end=122229 sample=../Audio/Past Present Bass (a4)/38D1-TECI.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=417 end=122141 sample=../Audio/Past Present Bass (a4)/39D#1-UDXP.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=519 end=121805 sample=../Audio/Past Present Bass (a4)/39D#1-09S7.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=196 end=123208 sample=../Audio/Past Present Bass (a4)/39D#1-J5KZ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=218 end=121150 sample=../Audio/Past Present Bass (a4)/39D#1-GWME.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=473 end=121842 sample=../Audio/Past Present Bass (a4)/39D#1-IQ3P.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=550 end=121500 sample=../Audio/Past Present Bass (a4)/39D#1-SRNN.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=513 end=121879 sample=../Audio/Past Present Bass (a4)/39D#1-KM6G.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=247 end=121232 sample=../Audio/Past Present Bass (a4)/39D#1-B7D2.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=760 end=122157 sample=../Audio/Past Present Bass (a4)/40E1-ASQN.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=557 end=122726 sample=../Audio/Past Present Bass (a4)/40E1-9YXM.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=395 sample=../Audio/Past Present Bass (a4)/40E1-Y1ET.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=318 end=122365 sample=../Audio/Past Present Bass (a4)/40E1-6IJF.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=410 end=122936 sample=../Audio/Past Present Bass (a4)/40E1-JNWK.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=720 end=122497 sample=../Audio/Past Present Bass (a4)/40E1-CRKP.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=298 end=122080 sample=../Audio/Past Present Bass (a4)/40E1-MRX8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=785 end=122168 sample=../Audio/Past Present Bass (a4)/40E1-9NXQ.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=277 end=121971 sample=../Audio/Past Present Bass (a4)/41F1-UQG1.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=333 end=122476 sample=../Audio/Past Present Bass (a4)/41F1-6SOE.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=226 end=121945 sample=../Audio/Past Present Bass (a4)/41F1-TDFP.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=413 end=121942 sample=../Audio/Past Present Bass (a4)/41F1-LLPX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=625 end=122394 sample=../Audio/Past Present Bass (a4)/41F1-ZO2O.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=376 end=122401 sample=../Audio/Past Present Bass (a4)/41F1-SVYI.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=276 end=122313 sample=../Audio/Past Present Bass (a4)/41F1-Y4E1.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=173 end=120806 sample=../Audio/Past Present Bass (a4)/41F1-F8YZ.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=429 end=121183 sample=../Audio/Past Present Bass (a4)/42F#1-XPDG.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=377 sample=../Audio/Past Present Bass (a4)/42F#1-O0P1.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=366 end=120982 sample=../Audio/Past Present Bass (a4)/42F#1-NOBA.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=517 end=122253 sample=../Audio/Past Present Bass (a4)/42F#1-LZTQ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=734 end=123004 sample=../Audio/Past Present Bass (a4)/42F#1-BRJ1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=286 sample=../Audio/Past Present Bass (a4)/42F#1-GJMK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=360 end=122877 sample=../Audio/Past Present Bass (a4)/42F#1-TTUJ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=248 end=120141 sample=../Audio/Past Present Bass (a4)/42F#1-OIXA.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=701 end=121968 sample=../Audio/Past Present Bass (a4)/43G1-2DGU.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=449 end=122912 sample=../Audio/Past Present Bass (a4)/43G1-WZZJ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=720 end=120872 sample=../Audio/Past Present Bass (a4)/43G1-VLDD.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=274 end=122951 sample=../Audio/Past Present Bass (a4)/43G1-5MXT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=189 end=121901 sample=../Audio/Past Present Bass (a4)/43G1-1KL1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=409 end=122497 sample=../Audio/Past Present Bass (a4)/43G1-YB3Z.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=328 end=123565 sample=../Audio/Past Present Bass (a4)/43G1-7CFD.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=274 end=122979 sample=../Audio/Past Present Bass (a4)/43G1-WFTJ.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=169 end=120473 sample=../Audio/Past Present Bass (a4)/44G#1-CR4H.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=600 end=123564 sample=../Audio/Past Present Bass (a4)/44G#1-AWV5.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=735 end=121051 sample=../Audio/Past Present Bass (a4)/44G#1-W3PJ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=299 end=120386 sample=../Audio/Past Present Bass (a4)/44G#1-9PJ6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=308 end=120628 sample=../Audio/Past Present Bass (a4)/44G#1-CN6C.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=352 end=120342 sample=../Audio/Past Present Bass (a4)/44G#1-HRO4.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=412 end=122860 sample=../Audio/Past Present Bass (a4)/44G#1-L5GQ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=418 end=121121 sample=../Audio/Past Present Bass (a4)/44G#1-O70Y.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=524 end=122504 sample=../Audio/Past Present Bass (a4)/45A1-JLH4.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=641 end=119975 sample=../Audio/Past Present Bass (a4)/45A1-Q33N.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=765 end=121977 sample=../Audio/Past Present Bass (a4)/45A1-M2HM.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=725 end=120459 sample=../Audio/Past Present Bass (a4)/45A1-HRE8.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=660 end=122402 sample=../Audio/Past Present Bass (a4)/45A1-VMTD.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=698 end=119970 sample=../Audio/Past Present Bass (a4)/45A1-DKXQ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=671 end=121914 sample=../Audio/Past Present Bass (a4)/45A1-AAAV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=395 end=121456 sample=../Audio/Past Present Bass (a4)/45A1-I77R.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=420 end=120514 sample=../Audio/Past Present Bass (a4)/46A#1-JZ1D.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=288 end=120538 sample=../Audio/Past Present Bass (a4)/46A#1-Q6R5.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=413 end=119472 sample=../Audio/Past Present Bass (a4)/46A#1-WFH2.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=666 end=120122 sample=../Audio/Past Present Bass (a4)/46A#1-YDOK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=307 end=119399 sample=../Audio/Past Present Bass (a4)/46A#1-78LS.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=295 end=119041 sample=../Audio/Past Present Bass (a4)/46A#1-SDJB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=683 end=119904 sample=../Audio/Past Present Bass (a4)/46A#1-W45Y.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=399 end=121868 sample=../Audio/Past Present Bass (a4)/46A#1-PT69.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=371 end=119326 sample=../Audio/Past Present Bass (a4)/47B1-9WKK.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=353 end=120683 sample=../Audio/Past Present Bass (a4)/47B1-IBLH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=354 end=120409 sample=../Audio/Past Present Bass (a4)/47B1-N7RT.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=743 end=121834 sample=../Audio/Past Present Bass (a4)/47B1-12JH.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=612 end=123125 sample=../Audio/Past Present Bass (a4)/47B1-QRY7.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=488 end=121528 sample=../Audio/Past Present Bass (a4)/47B1-MH2H.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=556 sample=../Audio/Past Present Bass (a4)/47B1-XGQF.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=405 end=119912 sample=../Audio/Past Present Bass (a4)/47B1-3ATV.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=493 end=123552 sample=../Audio/Past Present Bass (a4)/48C2-DBFN.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=560 end=124002 sample=../Audio/Past Present Bass (a4)/48C2-8M80.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=172 end=119666 sample=../Audio/Past Present Bass (a4)/48C2-CPJ4.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=302 end=120324 sample=../Audio/Past Present Bass (a4)/48C2-KIM3.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=193 end=120128 sample=../Audio/Past Present Bass (a4)/48C2-I1FM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=245 end=119412 sample=../Audio/Past Present Bass (a4)/48C2-XCDK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=393 sample=../Audio/Past Present Bass (a4)/48C2-8OM8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=343 end=119993 sample=../Audio/Past Present Bass (a4)/48C2-4II9.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=526 end=121735 sample=../Audio/Past Present Bass (a4)/49C#2-A4OG.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=284 end=122676 sample=../Audio/Past Present Bass (a4)/49C#2-NU61.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=573 end=120693 sample=../Audio/Past Present Bass (a4)/49C#2-4REP.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=420 end=122195 sample=../Audio/Past Present Bass (a4)/49C#2-RHJS.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=665 end=121428 sample=../Audio/Past Present Bass (a4)/49C#2-JLRA.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=597 end=123585 sample=../Audio/Past Present Bass (a4)/49C#2-J51O.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=226 end=120732 sample=../Audio/Past Present Bass (a4)/49C#2-PSW2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=260 end=121888 sample=../Audio/Past Present Bass (a4)/49C#2-D5IT.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=417 end=122063 sample=../Audio/Past Present Bass (a4)/50D2-2ADT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=410 end=123042 sample=../Audio/Past Present Bass (a4)/50D2-TIFO.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=571 end=121201 sample=../Audio/Past Present Bass (a4)/50D2-4DPD.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=331 end=120777 sample=../Audio/Past Present Bass (a4)/50D2-J3ES.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=386 end=121611 sample=../Audio/Past Present Bass (a4)/50D2-22MH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=602 end=121351 sample=../Audio/Past Present Bass (a4)/50D2-EZ4L.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=689 end=123140 sample=../Audio/Past Present Bass (a4)/50D2-T046.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=359 end=122957 sample=../Audio/Past Present Bass (a4)/50D2-DIP9.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=652 end=122726 sample=../Audio/Past Present Bass (a4)/51D#2-M0W5.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=549 end=122298 sample=../Audio/Past Present Bass (a4)/51D#2-VS75.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=201 end=123101 sample=../Audio/Past Present Bass (a4)/51D#2-X26A.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=254 end=121947 sample=../Audio/Past Present Bass (a4)/51D#2-4N2W.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=287 end=122725 sample=../Audio/Past Present Bass (a4)/51D#2-NSA1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=694 end=123822 sample=../Audio/Past Present Bass (a4)/51D#2-PQGD.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=327 end=122181 sample=../Audio/Past Present Bass (a4)/51D#2-KPM5.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=150 end=121742 sample=../Audio/Past Present Bass (a4)/51D#2-8J5O.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=763 sample=../Audio/Past Present Bass (a4)/52E2-SBXM.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=479 end=123250 sample=../Audio/Past Present Bass (a4)/52E2-FY5F.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=496 end=122585 sample=../Audio/Past Present Bass (a4)/52E2-XH52.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=705 end=122428 sample=../Audio/Past Present Bass (a4)/52E2-3QEZ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=519 end=123279 sample=../Audio/Past Present Bass (a4)/52E2-MQZ2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=610 end=122612 sample=../Audio/Past Present Bass (a4)/52E2-O548.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=553 end=122957 sample=../Audio/Past Present Bass (a4)/52E2-CCP7.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=342 sample=../Audio/Past Present Bass (a4)/52E2-KL8K.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=430 end=122549 sample=../Audio/Past Present Bass (a4)/53F2-558B.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=188 end=122540 sample=../Audio/Past Present Bass (a4)/53F2-0E6W.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=576 end=121322 sample=../Audio/Past Present Bass (a4)/53F2-IVFY.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=761 end=122793 sample=../Audio/Past Present Bass (a4)/53F2-38U1.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=504 end=122762 sample=../Audio/Past Present Bass (a4)/53F2-DR7W.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=767 end=123228 sample=../Audio/Past Present Bass (a4)/53F2-G2NM.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=505 end=123176 sample=../Audio/Past Present Bass (a4)/53F2-K0GZ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=426 end=121659 sample=../Audio/Past Present Bass (a4)/53F2-4936.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=397 end=122751 sample=../Audio/Past Present Bass (a4)/54F#2-K7HX.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=573 end=121718 sample=../Audio/Past Present Bass (a4)/54F#2-ZOD1.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=438 end=121851 sample=../Audio/Past Present Bass (a4)/54F#2-TG2K.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=582 end=121729 sample=../Audio/Past Present Bass (a4)/54F#2-JK2D.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=523 end=122874 sample=../Audio/Past Present Bass (a4)/54F#2-SIOC.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=655 end=122963 sample=../Audio/Past Present Bass (a4)/54F#2-7YE9.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=572 end=122969 sample=../Audio/Past Present Bass (a4)/54F#2-HB5Y.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=322 end=121911 sample=../Audio/Past Present Bass (a4)/54F#2-UA70.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=629 end=122214 sample=../Audio/Past Present Bass (a4)/55G2-U1H3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=325 end=121303 sample=../Audio/Past Present Bass (a4)/55G2-ZYOP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=482 end=122986 sample=../Audio/Past Present Bass (a4)/55G2-I40C.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=384 end=122507 sample=../Audio/Past Present Bass (a4)/55G2-8O1S.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=473 end=122408 sample=../Audio/Past Present Bass (a4)/55G2-6VD2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=220 end=121849 sample=../Audio/Past Present Bass (a4)/55G2-904U.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=361 end=121242 sample=../Audio/Past Present Bass (a4)/55G2-HMWN.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=318 end=121506 sample=../Audio/Past Present Bass (a4)/55G2-O2QA.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=200 end=122046 sample=../Audio/Past Present Bass (a4)/56G#2-WI73.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=256 sample=../Audio/Past Present Bass (a4)/56G#2-LAD7.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=583 end=123297 sample=../Audio/Past Present Bass (a4)/56G#2-P2S6.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=696 end=122171 sample=../Audio/Past Present Bass (a4)/56G#2-05M4.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=703 end=122120 sample=../Audio/Past Present Bass (a4)/56G#2-X8YE.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=376 end=122930 sample=../Audio/Past Present Bass (a4)/56G#2-UZG1.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=155 end=122159 sample=../Audio/Past Present Bass (a4)/56G#2-89IL.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=495 end=122068 sample=../Audio/Past Present Bass (a4)/56G#2-1LSO.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=298 end=121499 sample=../Audio/Past Present Bass (a4)/57A2-8Y0B.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=597 end=122552 sample=../Audio/Past Present Bass (a4)/57A2-IBHB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=322 end=121771 sample=../Audio/Past Present Bass (a4)/57A2-0H6B.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=425 end=122625 sample=../Audio/Past Present Bass (a4)/57A2-ZOOE.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=228 end=121293 sample=../Audio/Past Present Bass (a4)/57A2-I278.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=496 end=122667 sample=../Audio/Past Present Bass (a4)/57A2-MYSK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=403 end=121671 sample=../Audio/Past Present Bass (a4)/57A2-BY2Y.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=616 end=121995 sample=../Audio/Past Present Bass (a4)/57A2-3PNA.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=674 end=121693 sample=../Audio/Past Present Bass (a4)/58A#2-NDFH.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=386 end=122265 sample=../Audio/Past Present Bass (a4)/58A#2-VY5T.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=627 end=121017 sample=../Audio/Past Present Bass (a4)/58A#2-WAE5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=531 end=122951 sample=../Audio/Past Present Bass (a4)/58A#2-ZF4X.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=506 end=122764 sample=../Audio/Past Present Bass (a4)/58A#2-O4PK.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=306 end=121489 sample=../Audio/Past Present Bass (a4)/58A#2-WCZF.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=138 end=121476 sample=../Audio/Past Present Bass (a4)/58A#2-CT8C.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=748 end=123089 sample=../Audio/Past Present Bass (a4)/58A#2-IOZR.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=395 end=120872 sample=../Audio/Past Present Bass (a4)/59B2-WGWS.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=281 sample=../Audio/Past Present Bass (a4)/59B2-H9O0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=722 end=122521 sample=../Audio/Past Present Bass (a4)/59B2-GQUZ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=378 end=122131 sample=../Audio/Past Present Bass (a4)/59B2-8S6L.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=412 end=121320 sample=../Audio/Past Present Bass (a4)/59B2-VQ0Q.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=570 end=121650 sample=../Audio/Past Present Bass (a4)/59B2-BNRM.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=324 end=122460 sample=../Audio/Past Present Bass (a4)/59B2-ORRY.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=355 end=121469 sample=../Audio/Past Present Bass (a4)/59B2-YR7Y.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=535 end=121533 sample=../Audio/Past Present Bass (a4)/60C3-8ZF5.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=310 end=121527 sample=../Audio/Past Present Bass (a4)/60C3-0WXA.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=733 end=121875 sample=../Audio/Past Present Bass (a4)/60C3-QFNW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=293 end=121659 sample=../Audio/Past Present Bass (a4)/60C3-4NZX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=285 end=121099 sample=../Audio/Past Present Bass (a4)/60C3-YKFK.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=310 sample=../Audio/Past Present Bass (a4)/60C3-IFRY.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=497 end=121713 sample=../Audio/Past Present Bass (a4)/60C3-076G.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=639 end=121510 sample=../Audio/Past Present Bass (a4)/60C3-18W1.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=182 end=120386 sample=../Audio/Past Present Bass (a4)/61C#3-XHIP.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=641 end=121261 sample=../Audio/Past Present Bass (a4)/61C#3-81SB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=476 end=121117 sample=../Audio/Past Present Bass (a4)/61C#3-VFXR.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=618 sample=../Audio/Past Present Bass (a4)/61C#3-2WZK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=563 end=120333 sample=../Audio/Past Present Bass (a4)/61C#3-BBYP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=512 end=121648 sample=../Audio/Past Present Bass (a4)/61C#3-YNCD.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=688 end=121420 sample=../Audio/Past Present Bass (a4)/61C#3-KEPT.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=494 end=120969 sample=../Audio/Past Present Bass (a4)/61C#3-G5L8.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=528 end=120959 sample=../Audio/Past Present Bass (a4)/62D3-C90W.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=492 end=120714 sample=../Audio/Past Present Bass (a4)/62D3-IVSF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=158 sample=../Audio/Past Present Bass (a4)/62D3-4DNA.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=642 sample=../Audio/Past Present Bass (a4)/62D3-ASWK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=423 end=121769 sample=../Audio/Past Present Bass (a4)/62D3-RG8V.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=337 end=120780 sample=../Audio/Past Present Bass (a4)/62D3-118K.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=230 end=120802 sample=../Audio/Past Present Bass (a4)/62D3-MGG9.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=513 end=121208 sample=../Audio/Past Present Bass (a4)/62D3-3J26.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=505 end=120844 sample=../Audio/Past Present Bass (a4)/63D#3-5EHF.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=243 end=120371 sample=../Audio/Past Present Bass (a4)/63D#3-0STX.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=414 end=120947 sample=../Audio/Past Present Bass (a4)/63D#3-E94J.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=673 sample=../Audio/Past Present Bass (a4)/63D#3-TXJ2.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=269 end=120759 sample=../Audio/Past Present Bass (a4)/63D#3-F9NY.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=646 end=120456 sample=../Audio/Past Present Bass (a4)/63D#3-B78C.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=514 sample=../Audio/Past Present Bass (a4)/63D#3-8OQN.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=512 end=120985 sample=../Audio/Past Present Bass (a4)/63D#3-BBTO.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=392 sample=../Audio/Past Present Bass (a4)/64E3-HNYZ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=754 end=120527 sample=../Audio/Past Present Bass (a4)/64E3-SM85.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=676 end=121128 sample=../Audio/Past Present Bass (a4)/64E3-T5SO.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=480 sample=../Audio/Past Present Bass (a4)/64E3-LZKB.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=233 end=120451 sample=../Audio/Past Present Bass (a4)/64E3-IE34.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=412 end=120576 sample=../Audio/Past Present Bass (a4)/64E3-L4FA.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=439 sample=../Audio/Past Present Bass (a4)/64E3-NGJD.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=363 end=120814 sample=../Audio/Past Present Bass (a4)/64E3-U5M6.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=338 end=119207 sample=../Audio/Past Present Bass (a4)/65F3-2GY4.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=376 end=118534 sample=../Audio/Past Present Bass (a4)/65F3-NVVT.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=616 end=119840 sample=../Audio/Past Present Bass (a4)/65F3-GQQ8.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=428 sample=../Audio/Past Present Bass (a4)/65F3-3X0D.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=542 end=120514 sample=../Audio/Past Present Bass (a4)/65F3-1COF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=229 end=120453 sample=../Audio/Past Present Bass (a4)/65F3-0KX8.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=387 end=120299 sample=../Audio/Past Present Bass (a4)/65F3-SC4W.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=631 end=119053 sample=../Audio/Past Present Bass (a4)/65F3-XUFY.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=142 end=118199 sample=../Audio/Past Present Bass (a4)/66F#3-3VP8.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=517 end=118406 sample=../Audio/Past Present Bass (a4)/66F#3-CHTQ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=710 end=119706 sample=../Audio/Past Present Bass (a4)/66F#3-R4J4.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=267 end=119494 sample=../Audio/Past Present Bass (a4)/66F#3-XDHP.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=416 sample=../Audio/Past Present Bass (a4)/66F#3-G6SL.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=706 end=118652 sample=../Audio/Past Present Bass (a4)/66F#3-IQW0.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=590 end=118528 sample=../Audio/Past Present Bass (a4)/66F#3-92IQ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=453 end=120105 sample=../Audio/Past Present Bass (a4)/66F#3-HU81.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=265 end=118155 sample=../Audio/Past Present Bass (a4)/67G3-W960.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=462 end=117734 sample=../Audio/Past Present Bass (a4)/67G3-T21K.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=271 end=118573 sample=../Audio/Past Present Bass (a4)/67G3-PXZL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=452 end=118621 sample=../Audio/Past Present Bass (a4)/67G3-A6UN.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=569 end=118450 sample=../Audio/Past Present Bass (a4)/67G3-DOVW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=383 end=118511 sample=../Audio/Past Present Bass (a4)/67G3-ACUV.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=652 end=117808 sample=../Audio/Past Present Bass (a4)/67G3-1CF7.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=477 end=118957 sample=../Audio/Past Present Bass (a4)/67G3-Z8WZ.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=389 end=118455 sample=../Audio/Past Present Bass (a4)/68G#3-LBAM.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=405 end=117335 sample=../Audio/Past Present Bass (a4)/68G#3-DQT6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=664 end=117296 sample=../Audio/Past Present Bass (a4)/68G#3-H6MR.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=413 end=118297 sample=../Audio/Past Present Bass (a4)/68G#3-R3CN.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=420 end=119646 sample=../Audio/Past Present Bass (a4)/68G#3-TI5O.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=512 end=117198 sample=../Audio/Past Present Bass (a4)/68G#3-ZJ6F.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=337 end=117252 sample=../Audio/Past Present Bass (a4)/68G#3-OXSS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=578 end=118053 sample=../Audio/Past Present Bass (a4)/68G#3-C6XA.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=681 end=117115 sample=../Audio/Past Present Bass (a4)/69A3-EJ45.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=251 end=116913 sample=../Audio/Past Present Bass (a4)/69A3-L3OT.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=165 end=116369 sample=../Audio/Past Present Bass (a4)/69A3-SFBE.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=255 end=116646 sample=../Audio/Past Present Bass (a4)/69A3-9SCV.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=294 end=117265 sample=../Audio/Past Present Bass (a4)/69A3-2ZQJ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=617 sample=../Audio/Past Present Bass (a4)/69A3-GEZJ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=299 end=116712 sample=../Audio/Past Present Bass (a4)/69A3-OVYO.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=130 end=115849 sample=../Audio/Past Present Bass (a4)/69A3-Y7B4.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=307 sample=../Audio/Past Present Bass (a4)/70A#3-NCCH.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=532 end=115004 sample=../Audio/Past Present Bass (a4)/70A#3-YYRB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=719 end=116143 sample=../Audio/Past Present Bass (a4)/70A#3-CFDX.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=290 end=116235 sample=../Audio/Past Present Bass (a4)/70A#3-L2L6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=584 sample=../Audio/Past Present Bass (a4)/70A#3-9EQA.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=597 end=116563 sample=../Audio/Past Present Bass (a4)/70A#3-EC3D.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=568 end=115221 sample=../Audio/Past Present Bass (a4)/70A#3-UBBG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=546 end=116641 sample=../Audio/Past Present Bass (a4)/70A#3-5H1S.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=530 end=114644 sample=../Audio/Past Present Bass (a4)/71B3-2VSG.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=650 end=115070 sample=../Audio/Past Present Bass (a4)/71B3-0NXT.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=433 end=116477 sample=../Audio/Past Present Bass (a4)/71B3-5CKG.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=404 end=114353 sample=../Audio/Past Present Bass (a4)/71B3-3K2F.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=645 end=116262 sample=../Audio/Past Present Bass (a4)/71B3-304Q.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=507 end=114734 sample=../Audio/Past Present Bass (a4)/71B3-ZA42.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=610 end=115448 sample=../Audio/Past Present Bass (a4)/71B3-W8SH.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=265 end=113673 sample=../Audio/Past Present Bass (a4)/71B3-LMVZ.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=171 end=113272 sample=../Audio/Past Present Bass (a4)/72C4-UMAZ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=416 end=113390 sample=../Audio/Past Present Bass (a4)/72C4-ZZ6U.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=281 end=114295 sample=../Audio/Past Present Bass (a4)/72C4-WXLK.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=636 end=115552 sample=../Audio/Past Present Bass (a4)/72C4-4PIO.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=506 sample=../Audio/Past Present Bass (a4)/72C4-WENW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=369 end=112901 sample=../Audio/Past Present Bass (a4)/72C4-9G3W.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=616 end=115526 sample=../Audio/Past Present Bass (a4)/72C4-H4X3.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=326 end=114076 sample=../Audio/Past Present Bass (a4)/72C4-5ASN.wav

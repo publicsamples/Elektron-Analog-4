@@ -1,0 +1,175 @@
+// this file was generated from Arp Groove (Variable).exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=241 end=727102 sample=../Audio/Arp Groove 144/36C1-3Z6F.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=218 end=732104 sample=../Audio/Arp Groove 144/36C1-IETG.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=220 end=753110 sample=../Audio/Arp Groove 144/36C1-RR7A.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=234 end=750701 sample=../Audio/Arp Groove 144/36C1-HXVA.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=230 end=729216 sample=../Audio/Arp Groove 144/37C#1-HQ3G.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=205 end=734539 sample=../Audio/Arp Groove 144/37C#1-UDPI.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=234 end=743561 sample=../Audio/Arp Groove 144/37C#1-XDYI.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=245 end=761578 sample=../Audio/Arp Groove 144/37C#1-516T.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=234 end=727444 sample=../Audio/Arp Groove 144/38D1-RRP2.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=225 end=747806 sample=../Audio/Arp Groove 144/38D1-D9HW.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=230 end=755520 sample=../Audio/Arp Groove 144/38D1-9IW6.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=221 end=766193 sample=../Audio/Arp Groove 144/38D1-N34G.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=254 end=722772 sample=../Audio/Arp Groove 144/39D#1-UGMB.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=234 end=736514 sample=../Audio/Arp Groove 144/39D#1-M2PK.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=227 sample=../Audio/Arp Groove 144/39D#1-3JZF.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=246 end=748452 sample=../Audio/Arp Groove 144/39D#1-00RM.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=000 hivel=059 amp_velcurve_059=1 offset=238 end=730321 sample=../Audio/Arp Groove 144/40E1-X4SL.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=206 sample=../Audio/Arp Groove 144/40E1-WSFF.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=256 sample=../Audio/Arp Groove 144/40E1-GQ5B.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=234 end=719575 sample=../Audio/Arp Groove 144/41F1-P9EC.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=223 end=733046 sample=../Audio/Arp Groove 144/41F1-434T.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=220 end=747172 sample=../Audio/Arp Groove 144/41F1-XTHU.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=216 end=747550 sample=../Audio/Arp Groove 144/41F1-95RC.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=206 sample=../Audio/Arp Groove 144/42F#1-VXN2.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=221 end=747959 sample=../Audio/Arp Groove 144/42F#1-K3ZF.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=250 end=755942 sample=../Audio/Arp Groove 144/42F#1-Z94I.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=225 end=760593 sample=../Audio/Arp Groove 144/42F#1-1UNI.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=233 end=745499 sample=../Audio/Arp Groove 144/43G1-HUTS.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=233 end=746812 sample=../Audio/Arp Groove 144/43G1-E1C8.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=225 end=753041 sample=../Audio/Arp Groove 144/43G1-VRZZ.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=244 end=770304 sample=../Audio/Arp Groove 144/43G1-VR7L.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=226 end=746752 sample=../Audio/Arp Groove 144/44G#1-7R53.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=258 end=750605 sample=../Audio/Arp Groove 144/44G#1-IGVK.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=208 end=756400 sample=../Audio/Arp Groove 144/44G#1-HHOS.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=230 end=771074 sample=../Audio/Arp Groove 144/44G#1-YM96.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=227 end=747264 sample=../Audio/Arp Groove 144/45A1-YDUN.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=221 end=750931 sample=../Audio/Arp Groove 144/45A1-5YC7.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=213 end=757511 sample=../Audio/Arp Groove 144/45A1-NQOI.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=220 end=767682 sample=../Audio/Arp Groove 144/45A1-FCR6.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=000 hivel=059 amp_velcurve_059=1 offset=224 end=734143 sample=../Audio/Arp Groove 144/46A#1-MQ2K.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=254 end=747142 sample=../Audio/Arp Groove 144/46A#1-9AG7.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=223 end=757551 sample=../Audio/Arp Groove 144/46A#1-LFLZ.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=224 sample=../Audio/Arp Groove 144/47B1-NJ26.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=234 end=742984 sample=../Audio/Arp Groove 144/47B1-3HTS.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=233 end=749105 sample=../Audio/Arp Groove 144/47B1-02OC.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=246 end=758363 sample=../Audio/Arp Groove 144/47B1-NKE3.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=222 end=746941 sample=../Audio/Arp Groove 144/48C2-ZX46.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=225 end=747984 sample=../Audio/Arp Groove 144/48C2-8VCI.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=228 end=755427 sample=../Audio/Arp Groove 144/48C2-CSI0.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=216 end=764629 sample=../Audio/Arp Groove 144/48C2-ZWD8.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=209 end=745600 sample=../Audio/Arp Groove 144/49C#2-KOLU.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=225 end=747264 sample=../Audio/Arp Groove 144/49C#2-QEAR.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=224 end=752526 sample=../Audio/Arp Groove 144/49C#2-4JCJ.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=242 end=766398 sample=../Audio/Arp Groove 144/49C#2-BBKW.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=232 end=744960 sample=../Audio/Arp Groove 144/50D2-42QH.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=213 sample=../Audio/Arp Groove 144/50D2-BFNY.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=220 end=757332 sample=../Audio/Arp Groove 144/50D2-3XXE.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=235 end=772284 sample=../Audio/Arp Groove 144/50D2-YO15.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=242 end=746240 sample=../Audio/Arp Groove 144/51D#2-UHB4.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=219 end=751310 sample=../Audio/Arp Groove 144/51D#2-7F9Q.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=236 end=755336 sample=../Audio/Arp Groove 144/51D#2-MO23.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=224 end=766461 sample=../Audio/Arp Groove 144/51D#2-QB00.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=225 sample=../Audio/Arp Groove 144/52E2-G6US.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=235 end=761088 sample=../Audio/Arp Groove 144/52E2-GCH1.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=214 end=773376 sample=../Audio/Arp Groove 144/52E2-AIHQ.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=231 end=783872 sample=../Audio/Arp Groove 144/52E2-UCPT.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=209 sample=../Audio/Arp Groove 144/53F2-8SOU.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=227 end=755457 sample=../Audio/Arp Groove 144/53F2-WZF5.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=259 end=773632 sample=../Audio/Arp Groove 144/53F2-UW2D.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=238 end=771821 sample=../Audio/Arp Groove 144/53F2-RJP5.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=223 end=759808 sample=../Audio/Arp Groove 144/54F#2-7V1Z.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=254 end=751949 sample=../Audio/Arp Groove 144/54F#2-T0G1.aif
+	<region> lovel=060 hivel=127 amp_velcurve_127=1 offset=245 end=775408 sample=../Audio/Arp Groove 144/54F#2-0BJK.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=237 sample=../Audio/Arp Groove 144/55G2-PI14.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=233 end=747414 sample=../Audio/Arp Groove 144/55G2-R32I.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=224 end=761992 sample=../Audio/Arp Groove 144/55G2-3C5Z.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=231 end=770507 sample=../Audio/Arp Groove 144/55G2-K32W.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=000 hivel=059 amp_velcurve_059=1 offset=221 end=764928 sample=../Audio/Arp Groove 144/56G#2-S8S3.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=225 end=761668 sample=../Audio/Arp Groove 144/56G#2-KLDJ.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=230 end=770774 sample=../Audio/Arp Groove 144/56G#2-A78F.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=236 end=718709 sample=../Audio/Arp Groove 144/57A2-B39L.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=238 sample=../Audio/Arp Groove 144/57A2-XIGN.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=239 end=761968 sample=../Audio/Arp Groove 144/57A2-BB15.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=216 end=765638 sample=../Audio/Arp Groove 144/57A2-3FHY.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=233 end=723588 sample=../Audio/Arp Groove 144/58A#2-FM3U.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=209 end=746562 sample=../Audio/Arp Groove 144/58A#2-4T57.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=223 end=756870 sample=../Audio/Arp Groove 144/58A#2-8SAB.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=227 end=761454 sample=../Audio/Arp Groove 144/58A#2-O3A5.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=000 hivel=059 amp_velcurve_059=1 offset=229 end=765568 sample=../Audio/Arp Groove 144/59B2-JBHK.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=232 sample=../Audio/Arp Groove 144/59B2-QRG0.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=234 end=775423 sample=../Audio/Arp Groove 144/59B2-G68I.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=229 end=744120 sample=../Audio/Arp Groove 144/60C3-2DGX.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=242 end=747521 sample=../Audio/Arp Groove 144/60C3-AMW0.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=237 end=760376 sample=../Audio/Arp Groove 144/60C3-8IDB.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=234 end=772429 sample=../Audio/Arp Groove 144/60C3-96G5.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=000 hivel=059 amp_velcurve_059=1 offset=250 end=744917 sample=../Audio/Arp Groove 144/61C#3-SV55.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=233 end=757966 sample=../Audio/Arp Groove 144/61C#3-GG2W.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=248 end=766773 sample=../Audio/Arp Groove 144/61C#3-ZSG8.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=226 end=741828 sample=../Audio/Arp Groove 144/62D3-S8G6.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=223 end=751341 sample=../Audio/Arp Groove 144/62D3-E6GZ.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=233 end=758867 sample=../Audio/Arp Groove 144/62D3-CHKT.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=215 end=761563 sample=../Audio/Arp Groove 144/62D3-H843.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=224 end=740610 sample=../Audio/Arp Groove 144/63D#3-KOL3.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=227 end=746291 sample=../Audio/Arp Groove 144/63D#3-JWW8.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=221 end=756183 sample=../Audio/Arp Groove 144/63D#3-G9M9.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=243 end=751779 sample=../Audio/Arp Groove 144/63D#3-4YQK.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=218 end=723716 sample=../Audio/Arp Groove 144/64E3-OGCW.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=251 end=742596 sample=../Audio/Arp Groove 144/64E3-6NNB.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=219 end=751946 sample=../Audio/Arp Groove 144/64E3-UCDD.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=248 end=760494 sample=../Audio/Arp Groove 144/64E3-0JV6.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=216 end=745344 sample=../Audio/Arp Groove 144/65F3-DZPA.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=249 end=741811 sample=../Audio/Arp Groove 144/65F3-BWFI.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=238 end=751663 sample=../Audio/Arp Groove 144/65F3-FXF8.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=229 end=776576 sample=../Audio/Arp Groove 144/65F3-JWE0.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=209 end=724736 sample=../Audio/Arp Groove 144/66F#3-VJCJ.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=209 end=739799 sample=../Audio/Arp Groove 144/66F#3-XLBS.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=219 end=755604 sample=../Audio/Arp Groove 144/66F#3-NUBC.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=238 end=762621 sample=../Audio/Arp Groove 144/66F#3-2VPY.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=000 hivel=059 amp_velcurve_059=1 offset=221 end=728448 sample=../Audio/Arp Groove 144/67G3-05KA.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=249 end=755361 sample=../Audio/Arp Groove 144/67G3-2AS4.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=243 end=751222 sample=../Audio/Arp Groove 144/67G3-CGEL.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=221 end=725504 sample=../Audio/Arp Groove 144/68G#3-CV5N.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=231 end=741458 sample=../Audio/Arp Groove 144/68G#3-E9FM.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=248 end=765811 sample=../Audio/Arp Groove 144/68G#3-JVWU.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=234 end=770888 sample=../Audio/Arp Groove 144/68G#3-NLBH.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=211 end=736513 sample=../Audio/Arp Groove 144/69A3-8OS1.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=236 end=745819 sample=../Audio/Arp Groove 144/69A3-KXYQ.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=233 end=767360 sample=../Audio/Arp Groove 144/69A3-4CV1.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=230 end=766042 sample=../Audio/Arp Groove 144/69A3-22WU.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=213 end=753408 sample=../Audio/Arp Groove 144/70A#3-1GK8.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=242 end=747899 sample=../Audio/Arp Groove 144/70A#3-GGTH.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=223 end=755831 sample=../Audio/Arp Groove 144/70A#3-JE9X.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=235 end=765175 sample=../Audio/Arp Groove 144/70A#3-9HLF.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 offset=252 sample=../Audio/Arp Groove 144/71B3-Q8EI.aif
+	<region> lovel=031 hivel=059 amp_velcurve_059=1 offset=227 end=755367 sample=../Audio/Arp Groove 144/71B3-TIDN.aif
+	<region> lovel=060 hivel=097 amp_velcurve_097=1 offset=206 end=763261 sample=../Audio/Arp Groove 144/71B3-3UDR.aif
+	<region> lovel=098 hivel=127 amp_velcurve_127=1 offset=208 end=773859 sample=../Audio/Arp Groove 144/71B3-1GL6.aif

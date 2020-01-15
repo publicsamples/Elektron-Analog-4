@@ -1,0 +1,187 @@
+// this file was generated from Stacker.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=330 end=54144 sample=../Audio/Stacker/Stacker.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=513 end=56393 sample=../Audio/Stacker/Stacker_0001.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=330 end=56884 sample=../Audio/Stacker/Stacker_0002.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=639 end=57093 sample=../Audio/Stacker/Stacker_0003.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=654 end=56571 sample=../Audio/Stacker/Stacker_0004.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=227 sample=../Audio/Stacker/Stacker_0005.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=409 end=55936 sample=../Audio/Stacker/Stacker_0006.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=528 end=57344 sample=../Audio/Stacker/Stacker_0007.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=291 end=56452 sample=../Audio/Stacker/Stacker_0008.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=499 end=55936 sample=../Audio/Stacker/Stacker_0009.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=637 end=56960 sample=../Audio/Stacker/Stacker_0010.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=594 end=57472 sample=../Audio/Stacker/Stacker_0011.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=255 end=54107 sample=../Audio/Stacker/Stacker_0012.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=299 end=56962 sample=../Audio/Stacker/Stacker_0013.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=148 end=57124 sample=../Audio/Stacker/Stacker_0014.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=557 end=57728 sample=../Audio/Stacker/Stacker_0015.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=483 end=53382 sample=../Audio/Stacker/Stacker_0016.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=471 end=57856 sample=../Audio/Stacker/Stacker_0017.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=507 end=56704 sample=../Audio/Stacker/Stacker_0018.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=152 end=57088 sample=../Audio/Stacker/Stacker_0019.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=318 end=55808 sample=../Audio/Stacker/Stacker_0020.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=181 end=57344 sample=../Audio/Stacker/Stacker_0021.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=348 end=57472 sample=../Audio/Stacker/Stacker_0022.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=174 end=57600 sample=../Audio/Stacker/Stacker_0023.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=265 end=55108 sample=../Audio/Stacker/Stacker_0024.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=296 end=57534 sample=../Audio/Stacker/Stacker_0025.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=357 end=57467 sample=../Audio/Stacker/Stacker_0026.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=166 end=57857 sample=../Audio/Stacker/Stacker_0027.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=558 end=54788 sample=../Audio/Stacker/Stacker_0028.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=278 end=56856 sample=../Audio/Stacker/Stacker_0029.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=658 end=57984 sample=../Audio/Stacker/Stacker_0030.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=305 end=57365 sample=../Audio/Stacker/Stacker_0031.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=414 end=56958 sample=../Audio/Stacker/Stacker_0032.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=588 end=57962 sample=../Audio/Stacker/Stacker_0033.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=224 end=57376 sample=../Audio/Stacker/Stacker_0034.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=479 end=57732 sample=../Audio/Stacker/Stacker_0035.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=334 end=58122 sample=../Audio/Stacker/Stacker_0036.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=237 end=57641 sample=../Audio/Stacker/Stacker_0037.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=628 end=57545 sample=../Audio/Stacker/Stacker_0038.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=224 end=58112 sample=../Audio/Stacker/Stacker_0039.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=227 end=57090 sample=../Audio/Stacker/Stacker_0040.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=215 end=57509 sample=../Audio/Stacker/Stacker_0041.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=555 sample=../Audio/Stacker/Stacker_0042.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=209 end=57234 sample=../Audio/Stacker/Stacker_0043.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=488 end=58765 sample=../Audio/Stacker/Stacker_0044.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=491 end=58798 sample=../Audio/Stacker/Stacker_0045.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=150 end=58385 sample=../Audio/Stacker/Stacker_0046.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=647 end=57600 sample=../Audio/Stacker/Stacker_0047.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=192 end=58318 sample=../Audio/Stacker/Stacker_0048.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=179 end=58606 sample=../Audio/Stacker/Stacker_0049.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=489 end=59008 sample=../Audio/Stacker/Stacker_0050.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=555 end=56579 sample=../Audio/Stacker/Stacker_0051.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=228 end=59057 sample=../Audio/Stacker/Stacker_0052.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=602 end=58294 sample=../Audio/Stacker/Stacker_0053.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=315 end=59271 sample=../Audio/Stacker/Stacker_0054.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=146 end=58438 sample=../Audio/Stacker/Stacker_0055.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=209 end=58118 sample=../Audio/Stacker/Stacker_0056.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=625 end=58865 sample=../Audio/Stacker/Stacker_0057.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=494 sample=../Audio/Stacker/Stacker_0058.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=665 end=59392 sample=../Audio/Stacker/Stacker_0059.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=349 end=58189 sample=../Audio/Stacker/Stacker_0060.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=481 end=58764 sample=../Audio/Stacker/Stacker_0061.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=283 end=58996 sample=../Audio/Stacker/Stacker_0062.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=273 sample=../Audio/Stacker/Stacker_0063.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=309 end=58722 sample=../Audio/Stacker/Stacker_0064.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=340 end=59082 sample=../Audio/Stacker/Stacker_0065.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=317 end=59010 sample=../Audio/Stacker/Stacker_0066.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=530 end=59269 sample=../Audio/Stacker/Stacker_0067.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=509 end=58082 sample=../Audio/Stacker/Stacker_0068.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=383 end=58731 sample=../Audio/Stacker/Stacker_0069.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=293 end=58989 sample=../Audio/Stacker/Stacker_0070.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=594 end=59391 sample=../Audio/Stacker/Stacker_0071.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=309 end=57984 sample=../Audio/Stacker/Stacker_0072.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=663 end=59003 sample=../Audio/Stacker/Stacker_0073.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=177 end=58719 sample=../Audio/Stacker/Stacker_0074.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=204 end=58169 sample=../Audio/Stacker/Stacker_0075.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=235 end=58695 sample=../Audio/Stacker/Stacker_0076.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=561 end=58886 sample=../Audio/Stacker/Stacker_0077.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=552 end=57472 sample=../Audio/Stacker/Stacker_0078.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=377 end=58914 sample=../Audio/Stacker/Stacker_0079.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=314 end=57823 sample=../Audio/Stacker/Stacker_0080.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=163 end=58491 sample=../Audio/Stacker/Stacker_0081.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=571 end=59001 sample=../Audio/Stacker/Stacker_0082.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=483 end=58969 sample=../Audio/Stacker/Stacker_0083.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=662 sample=../Audio/Stacker/Stacker_0084.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=420 sample=../Audio/Stacker/Stacker_0085.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=280 end=57729 sample=../Audio/Stacker/Stacker_0086.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=462 end=58240 sample=../Audio/Stacker/Stacker_0087.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=230 end=57854 sample=../Audio/Stacker/Stacker_0088.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=334 end=57728 sample=../Audio/Stacker/Stacker_0089.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=463 end=58652 sample=../Audio/Stacker/Stacker_0090.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=206 end=58624 sample=../Audio/Stacker/Stacker_0091.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=579 end=55897 sample=../Audio/Stacker/Stacker_0092.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=300 end=58587 sample=../Audio/Stacker/Stacker_0093.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=664 end=57729 sample=../Audio/Stacker/Stacker_0094.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=489 end=58819 sample=../Audio/Stacker/Stacker_0095.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=564 end=56774 sample=../Audio/Stacker/Stacker_0096.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=458 end=53523 sample=../Audio/Stacker/Stacker_0097.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=536 end=57986 sample=../Audio/Stacker/Stacker_0098.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=215 end=57742 sample=../Audio/Stacker/Stacker_0099.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=234 sample=../Audio/Stacker/Stacker_0100.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=277 end=57984 sample=../Audio/Stacker/Stacker_0101.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=627 end=57890 sample=../Audio/Stacker/Stacker_0102.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=159 end=58240 sample=../Audio/Stacker/Stacker_0103.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=137 end=54989 sample=../Audio/Stacker/Stacker_0104.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=511 sample=../Audio/Stacker/Stacker_0105.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=445 end=58918 sample=../Audio/Stacker/Stacker_0106.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=482 end=58368 sample=../Audio/Stacker/Stacker_0107.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=560 end=53908 sample=../Audio/Stacker/Stacker_0108.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=183 end=56576 sample=../Audio/Stacker/Stacker_0109.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=526 end=57956 sample=../Audio/Stacker/Stacker_0110.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=251 end=58257 sample=../Audio/Stacker/Stacker_0111.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=430 end=55680 sample=../Audio/Stacker/Stacker_0112.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=616 end=57899 sample=../Audio/Stacker/Stacker_0113.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=576 end=58496 sample=../Audio/Stacker/Stacker_0114.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=520 end=58783 sample=../Audio/Stacker/Stacker_0115.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=570 end=56193 sample=../Audio/Stacker/Stacker_0116.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=601 end=58518 sample=../Audio/Stacker/Stacker_0117.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=260 end=57807 sample=../Audio/Stacker/Stacker_0118.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=263 end=57490 sample=../Audio/Stacker/Stacker_0119.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=601 end=52941 sample=../Audio/Stacker/Stacker_0120.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=353 end=56249 sample=../Audio/Stacker/Stacker_0121.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=632 end=58241 sample=../Audio/Stacker/Stacker_0122.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=186 end=58659 sample=../Audio/Stacker/Stacker_0123.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=335 end=53635 sample=../Audio/Stacker/Stacker_0124.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=421 end=49792 sample=../Audio/Stacker/Stacker_0125.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=494 end=56636 sample=../Audio/Stacker/Stacker_0126.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=563 end=58772 sample=../Audio/Stacker/Stacker_0127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=524 end=48000 sample=../Audio/Stacker/Stacker_0128.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=313 end=57602 sample=../Audio/Stacker/Stacker_0129.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=471 end=57507 sample=../Audio/Stacker/Stacker_0130.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=297 end=56576 sample=../Audio/Stacker/Stacker_0131.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=523 end=51072 sample=../Audio/Stacker/Stacker_0132.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=417 end=55558 sample=../Audio/Stacker/Stacker_0133.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=551 end=57892 sample=../Audio/Stacker/Stacker_0134.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=235 end=57857 sample=../Audio/Stacker/Stacker_0135.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=613 end=47015 sample=../Audio/Stacker/Stacker_0136.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=252 sample=../Audio/Stacker/Stacker_0137.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=608 end=56320 sample=../Audio/Stacker/Stacker_0138.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=211 end=57619 sample=../Audio/Stacker/Stacker_0139.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=490 end=50304 sample=../Audio/Stacker/Stacker_0140.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=257 end=58036 sample=../Audio/Stacker/Stacker_0141.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=217 end=58496 sample=../Audio/Stacker/Stacker_0142.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=137 end=58240 sample=../Audio/Stacker/Stacker_0143.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=232 end=49280 sample=../Audio/Stacker/Stacker_0144.aif
+	<region> lovel=009 hivel=019 amp_velcurve_019=1 offset=604 end=55052 sample=../Audio/Stacker/Stacker_0145.aif
+	<region> lovel=020 hivel=030 amp_velcurve_030=1 offset=490 end=56576 sample=../Audio/Stacker/Stacker_0146.aif
+	<region> lovel=031 hivel=127 amp_velcurve_127=1 offset=405 end=58240 sample=../Audio/Stacker/Stacker_0147.aif

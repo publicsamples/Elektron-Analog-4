@@ -1,0 +1,127 @@
+// this file was generated from A4 big MW 120.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=5 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=390483 loop_end=549251 sample=../Audio/A4 big 100/(2013112 151224)/C1A4 big 100-36-15-L0EU.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=350639 loop_end=509405 sample=../Audio/A4 big 100/(2013112 151224)/C1A4 big 100-36-44-D9CX.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=417111 loop_end=536022 sample=../Audio/A4 big 100/(2013112 151224)/C1A4 big 100-36-82-BWAO.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=390285 loop_end=509399 sample=../Audio/A4 big 100/(2013112 151224)/C1A4 big 100-36-127-JFLG.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=430137 loop_end=549200 sample=../Audio/A4 big 100/(2013112 151224)/C#1A4 big 100-37-15-91HC.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377115 loop_end=535949 sample=../Audio/A4 big 100/(2013112 151224)/C#1A4 big 100-37-44-P78I.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=350618 loop_end=509404 sample=../Audio/A4 big 100/(2013112 151224)/C#1A4 big 100-37-82-NDIN.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=390416 loop_end=549115 sample=../Audio/A4 big 100/(2013112 151224)/C#1A4 big 100-37-127-KSAT.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=377080 loop_end=535968 sample=../Audio/A4 big 100/(2013112 151224)/D1A4 big 100-38-15-H83W.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=350661 loop_end=549113 sample=../Audio/A4 big 100/(2013112 151224)/D1A4 big 100-38-44-DFTW.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=348787 loop_end=508175 sample=../Audio/A4 big 100/(2013112 151224)/D1A4 big 100-38-82-CCM3.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=377052 loop_end=535961 sample=../Audio/A4 big 100/(2013112 151224)/D1A4 big 100-38-127-FFOZ.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=390404 loop_end=549109 sample=../Audio/A4 big 100/(2013112 151224)/D#1A4 big 100-39-15-PKUC.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377186 loop_end=535979 sample=../Audio/A4 big 100/(2013112 151224)/D#1A4 big 100-39-44-G945.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=390352 loop_end=549117 sample=../Audio/A4 big 100/(2013112 151224)/D#1A4 big 100-39-82-IU2Y.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=308760 loop_end=508235 sample=../Audio/A4 big 100/(2013112 151224)/D#1A4 big 100-39-127-3APM.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=375491 loop_end=534003 sample=../Audio/A4 big 100/(2013112 151224)/E1A4 big 100-40-15-HUUD.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=337254 loop_end=535702 sample=../Audio/A4 big 100/(2013112 151224)/E1A4 big 100-40-44-2V0N.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=309228 loop_end=468047 sample=../Audio/A4 big 100/(2013112 151224)/E1A4 big 100-40-82-IV86.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=429110 loop_end=508582 sample=../Audio/A4 big 100/(2013112 151224)/E1A4 big 100-40-127-MLZL.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=377108 loop_end=535840 sample=../Audio/A4 big 100/(2013112 151224)/F1A4 big 100-41-15-UN9R.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=376825 loop_end=535589 sample=../Audio/A4 big 100/(2013112 151224)/F1A4 big 100-41-44-UPLZ.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=309537 loop_end=508219 sample=../Audio/A4 big 100/(2013112 151224)/F1A4 big 100-41-82-T5CD.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309959 loop_end=508282 sample=../Audio/A4 big 100/(2013112 151224)/F1A4 big 100-41-127-07JB.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=337367 loop_end=535754 sample=../Audio/A4 big 100/(2013112 151224)/F#1A4 big 100-42-15-FKLS.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=349375 loop_end=508269 sample=../Audio/A4 big 100/(2013112 151224)/F#1A4 big 100-42-44-DKWA.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=350618 loop_end=509382 sample=../Audio/A4 big 100/(2013112 151224)/F#1A4 big 100-42-82-5FOH.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310743 loop_end=390243 sample=../Audio/A4 big 100/(2013112 151224)/F#1A4 big 100-42-127-TTYF.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=377285 loop_end=535871 sample=../Audio/A4 big 100/(2013112 151224)/G1A4 big 100-43-15-K1QJ.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=350637 loop_end=509394 sample=../Audio/A4 big 100/(2013112 151224)/G1A4 big 100-43-44-F4Y6.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=350669 loop_end=509212 sample=../Audio/A4 big 100/(2013112 151224)/G1A4 big 100-43-82-R8X2.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=390149 loop_end=509373 sample=../Audio/A4 big 100/(2013112 151224)/G1A4 big 100-43-127-OW39.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=390455 loop_end=549220 sample=../Audio/A4 big 100/(2013112 151224)/G#1A4 big 100-44-15-M2P5.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377107 loop_end=535874 sample=../Audio/A4 big 100/(2013112 151224)/G#1A4 big 100-44-44-9WEO.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=350449 loop_end=509315 sample=../Audio/A4 big 100/(2013112 151224)/G#1A4 big 100-44-82-B3Y4.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=416943 loop_end=535866 sample=../Audio/A4 big 100/(2013112 151224)/G#1A4 big 100-44-127-EJM3.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=390418 loop_end=549070 sample=../Audio/A4 big 100/(2013112 151224)/A1A4 big 100-45-15-5OQ5.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377281 loop_end=535850 sample=../Audio/A4 big 100/(2013112 151224)/A1A4 big 100-45-44-JRKM.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=350623 loop_end=549066 sample=../Audio/A4 big 100/(2013112 151224)/A1A4 big 100-45-82-5UXH.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=348955 loop_end=468073 sample=../Audio/A4 big 100/(2013112 151224)/A1A4 big 100-45-127-N1T9.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=375510 loop_end=534231 sample=../Audio/A4 big 100/(2013112 151224)/A#1A4 big 100-46-15-8YLR.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=337269 loop_end=495998 sample=../Audio/A4 big 100/(2013112 151224)/A#1A4 big 100-46-44-P1BD.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=337338 loop_end=535680 sample=../Audio/A4 big 100/(2013112 151224)/A#1A4 big 100-46-82-S8OK.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=416762 loop_end=535853 sample=../Audio/A4 big 100/(2013112 151224)/A#1A4 big 100-46-127-R9UH.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=377128 loop_end=535990 sample=../Audio/A4 big 100/(2013112 151224)/B1A4 big 100-47-15-HFRF.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=337367 loop_end=535816 sample=../Audio/A4 big 100/(2013112 151224)/B1A4 big 100-47-44-CIP1.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=350649 loop_end=549190 sample=../Audio/A4 big 100/(2013112 151224)/B1A4 big 100-47-82-VPKT.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310658 loop_end=509082 sample=../Audio/A4 big 100/(2013112 151224)/B1A4 big 100-47-127-2W3F.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=370109 loop_end=528862 sample=../Audio/A4 big 100/(2013112 151224)/C2A4 big 100-48-15-3UXA.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377056 loop_end=535871 sample=../Audio/A4 big 100/(2013112 151224)/C2A4 big 100-48-44-ON15.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=377068 loop_end=535839 sample=../Audio/A4 big 100/(2013112 151224)/C2A4 big 100-48-82-53BS.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=349593 loop_end=467482 sample=../Audio/A4 big 100/(2013112 151224)/C2A4 big 100-48-127-4SW8.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=331110 loop_end=489559 sample=../Audio/A4 big 100/(2013112 151224)/C#2A4 big 100-49-15-FSTR.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=416809 loop_end=535876 sample=../Audio/A4 big 100/(2013112 151224)/C#2A4 big 100-49-44-7EH3.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=350677 loop_end=549093 sample=../Audio/A4 big 100/(2013112 151224)/C#2A4 big 100-49-82-TVVJ.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=390316 loop_end=549116 sample=../Audio/A4 big 100/(2013112 151224)/C#2A4 big 100-49-127-KXI8.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=377038 loop_end=535912 sample=../Audio/A4 big 100/(2013112 151224)/D2A4 big 100-50-15-V83K.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377301 loop_end=535819 sample=../Audio/A4 big 100/(2013112 151224)/D2A4 big 100-50-44-WKYB.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=349660 loop_end=467687 sample=../Audio/A4 big 100/(2013112 151224)/D2A4 big 100-50-82-XKDG.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=377137 loop_end=535862 sample=../Audio/A4 big 100/(2013112 151224)/D2A4 big 100-50-127-I404.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=344046 loop_end=463244 sample=../Audio/A4 big 100/(2013112 151224)/D#2A4 big 100-51-15-VT8G.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=390364 loop_end=549253 sample=../Audio/A4 big 100/(2013112 151224)/D#2A4 big 100-51-44-4ET2.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=375378 loop_end=534169 sample=../Audio/A4 big 100/(2013112 151224)/D#2A4 big 100-51-82-RLN0.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309125 loop_end=428465 sample=../Audio/A4 big 100/(2013112 151224)/D#2A4 big 100-51-127-8CIT.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=344165 loop_end=542747 sample=../Audio/A4 big 100/(2013112 151224)/E2A4 big 100-52-15-S2BI.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=337367 loop_end=536011 sample=../Audio/A4 big 100/(2013112 151224)/E2A4 big 100-52-44-49CV.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=428629 loop_end=547545 sample=../Audio/A4 big 100/(2013112 151224)/E2A4 big 100-52-82-AEJB.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=349611 loop_end=547439 sample=../Audio/A4 big 100/(2013112 151224)/E2A4 big 100-52-127-WTO4.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=416803 loop_end=535932 sample=../Audio/A4 big 100/(2013112 151224)/F2A4 big 100-53-15-6X24.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377263 loop_end=535955 sample=../Audio/A4 big 100/(2013112 151224)/F2A4 big 100-53-44-3DMU.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=350658 loop_end=509384 sample=../Audio/A4 big 100/(2013112 151224)/F2A4 big 100-53-82-C4Y0.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=337357 loop_end=535884 sample=../Audio/A4 big 100/(2013112 151224)/F2A4 big 100-53-127-CYZ8.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=377221 loop_end=535869 sample=../Audio/A4 big 100/(2013112 151224)/F#2A4 big 100-54-15-AE9L.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377280 loop_end=535943 sample=../Audio/A4 big 100/(2013112 151224)/F#2A4 big 100-54-44-7BKF.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=337353 loop_end=535945 sample=../Audio/A4 big 100/(2013112 151224)/F#2A4 big 100-54-82-TZYU.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=342936 loop_end=421417 sample=../Audio/A4 big 100/(2013112 151224)/F#2A4 big 100-54-127-55MH.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=350622 loop_end=509384 sample=../Audio/A4 big 100/(2013112 151224)/G2A4 big 100-55-15-C2PP.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377252 loop_end=535807 sample=../Audio/A4 big 100/(2013112 151224)/G2A4 big 100-55-44-J4CK.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=428912 loop_end=547990 sample=../Audio/A4 big 100/(2013112 151224)/G2A4 big 100-55-82-4R3R.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309206 loop_end=389136 sample=../Audio/A4 big 100/(2013112 151224)/G2A4 big 100-55-127-BXVI.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=337357 loop_end=535768 sample=../Audio/A4 big 100/(2013112 151224)/G#2A4 big 100-56-15-FT8O.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377146 loop_end=535866 sample=../Audio/A4 big 100/(2013112 151224)/G#2A4 big 100-56-44-WA6D.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=350589 loop_end=509399 sample=../Audio/A4 big 100/(2013112 151224)/G#2A4 big 100-56-82-YRPF.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350627 loop_end=549111 sample=../Audio/A4 big 100/(2013112 151224)/G#2A4 big 100-56-127-75X6.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=337357 loop_end=496088 sample=../Audio/A4 big 100/(2013112 151224)/A2A4 big 100-57-15-84PZ.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=308818 loop_end=467453 sample=../Audio/A4 big 100/(2013112 151224)/A2A4 big 100-57-44-2TIA.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=382639 loop_end=540259 sample=../Audio/A4 big 100/(2013112 151224)/A2A4 big 100-57-82-TU1A.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=417225 loop_end=535878 sample=../Audio/A4 big 100/(2013112 151224)/A2A4 big 100-57-127-FS88.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=337367 loop_end=535873 sample=../Audio/A4 big 100/(2013112 151224)/A#2A4 big 100-58-15-M72N.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=337343 loop_end=496077 sample=../Audio/A4 big 100/(2013112 151224)/A#2A4 big 100-58-44-V8JE.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=337367 loop_end=496078 sample=../Audio/A4 big 100/(2013112 151224)/A#2A4 big 100-58-82-XYVR.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350661 loop_end=509398 sample=../Audio/A4 big 100/(2013112 151224)/A#2A4 big 100-58-127-JGRR.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=377081 loop_end=535854 sample=../Audio/A4 big 100/(2013112 151224)/B2A4 big 100-59-15-MCL5.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=377068 loop_end=535839 sample=../Audio/A4 big 100/(2013112 151224)/B2A4 big 100-59-44-F4VK.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=310729 loop_end=509181 sample=../Audio/A4 big 100/(2013112 151224)/B2A4 big 100-59-82-R23F.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=423383 loop_end=503030 sample=../Audio/A4 big 100/(2013112 151224)/B2A4 big 100-59-127-NVLT.aif
+<group>lokey=60 hikey=94 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 loop_mode=loop_sustain loop_start=377227 loop_end=535981 sample=../Audio/A4 big 100/(2013112 151224)/C3A4 big 100-60-15-4UOC.aif
+	<region> lovel=016 hivel=044 amp_velcurve_044=1 loop_mode=loop_sustain loop_start=337347 loop_end=536030 sample=../Audio/A4 big 100/(2013112 151224)/C3A4 big 100-60-44-YCP3.aif
+	<region> lovel=045 hivel=082 amp_velcurve_082=1 loop_mode=loop_sustain loop_start=377116 loop_end=535930 sample=../Audio/A4 big 100/(2013112 151224)/C3A4 big 100-60-82-NZ8P.aif
+	<region> lovel=083 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=337350 loop_end=535921 sample=../Audio/A4 big 100/(2013112 151224)/C3A4 big 100-60-127-0QW1.aif

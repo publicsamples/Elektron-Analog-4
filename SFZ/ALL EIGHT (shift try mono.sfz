@@ -1,0 +1,76 @@
+// this file was generated from ALL EIGHT (shift try mono.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=27442 loop_end=175795 sample=../Audio/ALL EIGHT/(2014222 21531)/48C2-S1ZI.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141262 loop_end=288921 sample=../Audio/ALL EIGHT/(2014222 21531)/49C#2-U5SI.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77361 loop_end=363949 sample=../Audio/ALL EIGHT/(2014222 21531)/50D2-R596.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=65263 loop_end=203384 sample=../Audio/ALL EIGHT/(2014222 21531)/51D#2-LMRB.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=206031 loop_end=353721 sample=../Audio/ALL EIGHT/(2014222 21531)/52E2-R6P0.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15487 loop_end=170053 sample=../Audio/ALL EIGHT/(2014222 21531)/53F2-U5F5.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=12109 loop_end=337452 sample=../Audio/ALL EIGHT/(2014222 21531)/54F#2-6I6Y.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52863 loop_end=259943 sample=../Audio/ALL EIGHT/(2014222 21531)/55G2-BHGC.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=171544 loop_end=349251 sample=../Audio/ALL EIGHT/(2014222 21531)/56G#2-D3F5.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=42408 loop_end=358472 sample=../Audio/ALL EIGHT/(2014222 21531)/57A2-JLX7.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=31260 loop_end=357600 sample=../Audio/ALL EIGHT/(2014222 21531)/58A#2-LBR0.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=146254 loop_end=313731 sample=../Audio/ALL EIGHT/(2014222 21531)/59B2-2FTK.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=111960 loop_end=275104 sample=../Audio/ALL EIGHT/(2014222 21531)/60C3-V8OM.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=18243 loop_end=358153 sample=../Audio/ALL EIGHT/(2014222 21531)/61C#3-UQ1I.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=134522 loop_end=243501 sample=../Audio/ALL EIGHT/(2014222 21531)/62D3-Q1QA.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=47169 loop_end=125981 sample=../Audio/ALL EIGHT/(2014222 21531)/63D#3-BH7S.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=21372 loop_end=356931 sample=../Audio/ALL EIGHT/(2014222 21531)/64E3-8K7B.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=114988 loop_end=359199 sample=../Audio/ALL EIGHT/(2014222 21531)/65F3-7O30.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=114066 loop_end=191570 sample=../Audio/ALL EIGHT/(2014222 21531)/66F#3-ELDJ.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=102070 loop_end=260042 sample=../Audio/ALL EIGHT/(2014222 21531)/67G3-72MP.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=30821 loop_end=357504 sample=../Audio/ALL EIGHT/(2014222 21531)/68G#3-U8GR.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=125585 loop_end=203974 sample=../Audio/ALL EIGHT/(2014222 21531)/69A3-BQIW.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=139768 loop_end=218674 sample=../Audio/ALL EIGHT/(2014222 21531)/70A#3-TGSG.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=135991 loop_end=293883 sample=../Audio/ALL EIGHT/(2014222 21531)/71B3-84OU.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=177338 loop_end=339858 sample=../Audio/ALL EIGHT/(2014222 21531)/72C4-MT7C.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=145307 loop_end=303459 sample=../Audio/ALL EIGHT/(2014222 21531)/73C#4-X9Y1.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=206535 loop_end=362730 sample=../Audio/ALL EIGHT/(2014222 21531)/74D4-OGZ2.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=179077 loop_end=337841 sample=../Audio/ALL EIGHT/(2014222 21531)/75D#4-WE2P.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=205826 loop_end=284928 sample=../Audio/ALL EIGHT/(2014222 21531)/76E4-VPR4.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=168114 loop_end=325728 sample=../Audio/ALL EIGHT/(2014222 21531)/77F4-REWA.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4292 loop_end=163789 sample=../Audio/ALL EIGHT/(2014222 21531)/78F#4-6S0J.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=112833 loop_end=279357 sample=../Audio/ALL EIGHT/(2014222 21531)/79G4-60UN.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=207425 loop_end=325720 sample=../Audio/ALL EIGHT/(2014222 21531)/80G#4-TQ8Z.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=30821 loop_end=356373 sample=../Audio/ALL EIGHT/(2014222 21531)/81A4-XFL7.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=574 loop_end=79581 sample=../Audio/ALL EIGHT/(2014222 21531)/82A#4-YII4.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=96650 loop_end=193940 sample=../Audio/ALL EIGHT/(2014222 21531)/83B4-NXX8.aif
+<group>lokey=84 hikey=123 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=49106 loop_end=130822 sample=../Audio/ALL EIGHT/(2014222 21531)/84C5-F9HM.aif

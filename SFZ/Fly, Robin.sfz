@@ -1,0 +1,394 @@
+// this file was generated from Fly, Robin.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1703 sample=../Audio/Fly, Robin/C1Fly, Robin-36-127_0003.aif
+<group>lokey=0 hikey=36 pitch_keycenter=36 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1663 sample=../Audio/Fly, Robin/C1Fly, Robin-36-127_0002.aif
+<group>lokey=0 hikey=36 pitch_keycenter=36 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1374 sample=../Audio/Fly, Robin/C1Fly, Robin-36-127_0001.aif
+<group>lokey=0 hikey=36 pitch_keycenter=36 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1419 sample=../Audio/Fly, Robin/C1Fly, Robin-36-127.aif
+<group> key=37 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1134 sample=../Audio/Fly, Robin/C#1Fly, Robin-37-127_0003.aif
+<group> key=37 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2150 sample=../Audio/Fly, Robin/C#1Fly, Robin-37-127_0002.aif
+<group> key=37 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1787 sample=../Audio/Fly, Robin/C#1Fly, Robin-37-127_0001.aif
+<group> key=37 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1279 sample=../Audio/Fly, Robin/C#1Fly, Robin-37-127.aif
+<group> key=38 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1912 sample=../Audio/Fly, Robin/D1Fly, Robin-38-127_0003.aif
+<group> key=38 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1398 sample=../Audio/Fly, Robin/D1Fly, Robin-38-127_0002.aif
+<group> key=38 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1797 sample=../Audio/Fly, Robin/D1Fly, Robin-38-127_0001.aif
+<group> key=38 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2090 sample=../Audio/Fly, Robin/D1Fly, Robin-38-127.aif
+<group> key=39 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1527 sample=../Audio/Fly, Robin/D#1Fly, Robin-39-127_0003.aif
+<group> key=39 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1857 sample=../Audio/Fly, Robin/D#1Fly, Robin-39-127_0002.aif
+<group> key=39 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1789 sample=../Audio/Fly, Robin/D#1Fly, Robin-39-127_0001.aif
+<group> key=39 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1863 sample=../Audio/Fly, Robin/D#1Fly, Robin-39-127.aif
+<group> key=40 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1535 sample=../Audio/Fly, Robin/E1Fly, Robin-40-127_0003.aif
+<group> key=40 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1596 sample=../Audio/Fly, Robin/E1Fly, Robin-40-127_0002.aif
+<group> key=40 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1540 sample=../Audio/Fly, Robin/E1Fly, Robin-40-127_0001.aif
+<group> key=40 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2046 sample=../Audio/Fly, Robin/E1Fly, Robin-40-127.aif
+<group> key=41 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2485 sample=../Audio/Fly, Robin/F1Fly, Robin-41-127_0003.aif
+<group> key=41 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1871 sample=../Audio/Fly, Robin/F1Fly, Robin-41-127_0002.aif
+<group> key=41 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1432 sample=../Audio/Fly, Robin/F1Fly, Robin-41-127_0001.aif
+<group> key=41 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1587 sample=../Audio/Fly, Robin/F1Fly, Robin-41-127.aif
+<group> key=42 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2303 sample=../Audio/Fly, Robin/F#1Fly, Robin-42-127_0003.aif
+<group> key=42 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1564 sample=../Audio/Fly, Robin/F#1Fly, Robin-42-127_0002.aif
+<group> key=42 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2017 sample=../Audio/Fly, Robin/F#1Fly, Robin-42-127_0001.aif
+<group> key=42 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1583 sample=../Audio/Fly, Robin/F#1Fly, Robin-42-127.aif
+<group> key=43 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1637 sample=../Audio/Fly, Robin/G1Fly, Robin-43-127_0003.aif
+<group> key=43 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2047 sample=../Audio/Fly, Robin/G1Fly, Robin-43-127_0002.aif
+<group> key=43 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1407 sample=../Audio/Fly, Robin/G1Fly, Robin-43-127_0001.aif
+<group> key=43 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1402 sample=../Audio/Fly, Robin/G1Fly, Robin-43-127.aif
+<group> key=44 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2040 sample=../Audio/Fly, Robin/G#1Fly, Robin-44-127_0003.aif
+<group> key=44 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1641 sample=../Audio/Fly, Robin/G#1Fly, Robin-44-127_0002.aif
+<group> key=44 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1525 sample=../Audio/Fly, Robin/G#1Fly, Robin-44-127_0001.aif
+<group> key=44 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1738 sample=../Audio/Fly, Robin/G#1Fly, Robin-44-127.aif
+<group> key=45 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1832 sample=../Audio/Fly, Robin/A1Fly, Robin-45-127_0003.aif
+<group> key=45 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1943 sample=../Audio/Fly, Robin/A1Fly, Robin-45-127_0002.aif
+<group> key=45 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1279 sample=../Audio/Fly, Robin/A1Fly, Robin-45-127_0001.aif
+<group> key=45 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1247 sample=../Audio/Fly, Robin/A1Fly, Robin-45-127.aif
+<group> key=46 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1505 sample=../Audio/Fly, Robin/A#1Fly, Robin-46-127_0003.aif
+<group> key=46 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2225 sample=../Audio/Fly, Robin/A#1Fly, Robin-46-127_0002.aif
+<group> key=46 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1690 sample=../Audio/Fly, Robin/A#1Fly, Robin-46-127_0001.aif
+<group> key=46 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1742 sample=../Audio/Fly, Robin/A#1Fly, Robin-46-127.aif
+<group> key=47 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1907 sample=../Audio/Fly, Robin/B1Fly, Robin-47-127_0003.aif
+<group> key=47 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1387 sample=../Audio/Fly, Robin/B1Fly, Robin-47-127_0002.aif
+<group> key=47 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2001 sample=../Audio/Fly, Robin/B1Fly, Robin-47-127_0001.aif
+<group> key=47 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2088 sample=../Audio/Fly, Robin/B1Fly, Robin-47-127.aif
+<group> key=48 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1262 sample=../Audio/Fly, Robin/C2Fly, Robin-48-127_0003.aif
+<group> key=48 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1673 sample=../Audio/Fly, Robin/C2Fly, Robin-48-127_0002.aif
+<group> key=48 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1802 sample=../Audio/Fly, Robin/C2Fly, Robin-48-127_0001.aif
+<group> key=48 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1690 sample=../Audio/Fly, Robin/C2Fly, Robin-48-127.aif
+<group> key=49 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1279 sample=../Audio/Fly, Robin/C#2Fly, Robin-49-127_0003.aif
+<group> key=49 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2109 sample=../Audio/Fly, Robin/C#2Fly, Robin-49-127_0002.aif
+<group> key=49 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1791 sample=../Audio/Fly, Robin/C#2Fly, Robin-49-127_0001.aif
+<group> key=49 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1606 sample=../Audio/Fly, Robin/C#2Fly, Robin-49-127.aif
+<group> key=50 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1590 sample=../Audio/Fly, Robin/D2Fly, Robin-50-127_0003.aif
+<group> key=50 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1104 sample=../Audio/Fly, Robin/D2Fly, Robin-50-127_0002.aif
+<group> key=50 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1894 sample=../Audio/Fly, Robin/D2Fly, Robin-50-127_0001.aif
+<group> key=50 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1340 sample=../Audio/Fly, Robin/D2Fly, Robin-50-127.aif
+<group> key=51 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1257 sample=../Audio/Fly, Robin/D#2Fly, Robin-51-127_0003.aif
+<group> key=51 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1725 sample=../Audio/Fly, Robin/D#2Fly, Robin-51-127_0002.aif
+<group> key=51 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1367 sample=../Audio/Fly, Robin/D#2Fly, Robin-51-127_0001.aif
+<group> key=51 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1673 sample=../Audio/Fly, Robin/D#2Fly, Robin-51-127.aif
+<group> key=52 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1215 sample=../Audio/Fly, Robin/E2Fly, Robin-52-127_0003.aif
+<group> key=52 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2107 sample=../Audio/Fly, Robin/E2Fly, Robin-52-127_0002.aif
+<group> key=52 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1789 sample=../Audio/Fly, Robin/E2Fly, Robin-52-127_0001.aif
+<group> key=52 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1202 sample=../Audio/Fly, Robin/E2Fly, Robin-52-127.aif
+<group> key=53 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1524 sample=../Audio/Fly, Robin/F2Fly, Robin-53-127_0003.aif
+<group> key=53 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1628 sample=../Audio/Fly, Robin/F2Fly, Robin-53-127_0002.aif
+<group> key=53 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1740 sample=../Audio/Fly, Robin/F2Fly, Robin-53-127_0001.aif
+<group> key=53 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1666 sample=../Audio/Fly, Robin/F2Fly, Robin-53-127.aif
+<group> key=54 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2029 sample=../Audio/Fly, Robin/F#2Fly, Robin-54-127_0003.aif
+<group> key=54 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2035 sample=../Audio/Fly, Robin/F#2Fly, Robin-54-127_0002.aif
+<group> key=54 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1221 sample=../Audio/Fly, Robin/F#2Fly, Robin-54-127_0001.aif
+<group> key=54 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1754 sample=../Audio/Fly, Robin/F#2Fly, Robin-54-127.aif
+<group> key=55 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1090 sample=../Audio/Fly, Robin/G2Fly, Robin-55-127_0003.aif
+<group> key=55 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1146 sample=../Audio/Fly, Robin/G2Fly, Robin-55-127_0002.aif
+<group> key=55 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1781 sample=../Audio/Fly, Robin/G2Fly, Robin-55-127_0001.aif
+<group> key=55 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1498 sample=../Audio/Fly, Robin/G2Fly, Robin-55-127.aif
+<group> key=56 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1055 sample=../Audio/Fly, Robin/G#2Fly, Robin-56-127_0003.aif
+<group> key=56 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1201 sample=../Audio/Fly, Robin/G#2Fly, Robin-56-127_0002.aif
+<group> key=56 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1184 sample=../Audio/Fly, Robin/G#2Fly, Robin-56-127_0001.aif
+<group> key=56 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1272 sample=../Audio/Fly, Robin/G#2Fly, Robin-56-127.aif
+<group> key=57 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1782 sample=../Audio/Fly, Robin/A2Fly, Robin-57-127_0003.aif
+<group> key=57 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1113 sample=../Audio/Fly, Robin/A2Fly, Robin-57-127_0002.aif
+<group> key=57 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1355 sample=../Audio/Fly, Robin/A2Fly, Robin-57-127_0001.aif
+<group> key=57 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2015 sample=../Audio/Fly, Robin/A2Fly, Robin-57-127.aif
+<group> key=58 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1139 sample=../Audio/Fly, Robin/A#2Fly, Robin-58-127_0003.aif
+<group> key=58 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1696 sample=../Audio/Fly, Robin/A#2Fly, Robin-58-127_0002.aif
+<group> key=58 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1907 sample=../Audio/Fly, Robin/A#2Fly, Robin-58-127_0001.aif
+<group> key=58 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1269 sample=../Audio/Fly, Robin/A#2Fly, Robin-58-127.aif
+<group> key=59 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1064 sample=../Audio/Fly, Robin/B2Fly, Robin-59-127_0003.aif
+<group> key=59 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1542 sample=../Audio/Fly, Robin/B2Fly, Robin-59-127_0002.aif
+<group> key=59 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1718 sample=../Audio/Fly, Robin/B2Fly, Robin-59-127_0001.aif
+<group> key=59 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1263 sample=../Audio/Fly, Robin/B2Fly, Robin-59-127.aif
+<group> key=60 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1555 sample=../Audio/Fly, Robin/C3Fly, Robin-60-127_0003.aif
+<group> key=60 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1637 sample=../Audio/Fly, Robin/C3Fly, Robin-60-127_0002.aif
+<group> key=60 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1110 sample=../Audio/Fly, Robin/C3Fly, Robin-60-127_0001.aif
+<group> key=60 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1688 sample=../Audio/Fly, Robin/C3Fly, Robin-60-127.aif
+<group> key=61 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1680 sample=../Audio/Fly, Robin/C#3Fly, Robin-61-127_0003.aif
+<group> key=61 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1205 sample=../Audio/Fly, Robin/C#3Fly, Robin-61-127_0002.aif
+<group> key=61 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1785 sample=../Audio/Fly, Robin/C#3Fly, Robin-61-127_0001.aif
+<group> key=61 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1816 sample=../Audio/Fly, Robin/C#3Fly, Robin-61-127.aif
+<group> key=62 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1075 sample=../Audio/Fly, Robin/D3Fly, Robin-62-127_0003.aif
+<group> key=62 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1775 sample=../Audio/Fly, Robin/D3Fly, Robin-62-127_0002.aif
+<group> key=62 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1644 sample=../Audio/Fly, Robin/D3Fly, Robin-62-127_0001.aif
+<group> key=62 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1703 sample=../Audio/Fly, Robin/D3Fly, Robin-62-127.aif
+<group> key=63 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1663 sample=../Audio/Fly, Robin/D#3Fly, Robin-63-127_0003.aif
+<group> key=63 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1537 sample=../Audio/Fly, Robin/D#3Fly, Robin-63-127_0002.aif
+<group> key=63 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1627 sample=../Audio/Fly, Robin/D#3Fly, Robin-63-127_0001.aif
+<group> key=63 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1391 sample=../Audio/Fly, Robin/D#3Fly, Robin-63-127.aif
+<group> key=64 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1621 sample=../Audio/Fly, Robin/E3Fly, Robin-64-127_0003.aif
+<group> key=64 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1528 sample=../Audio/Fly, Robin/E3Fly, Robin-64-127_0002.aif
+<group> key=64 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1258 sample=../Audio/Fly, Robin/E3Fly, Robin-64-127_0001.aif
+<group> key=64 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1317 sample=../Audio/Fly, Robin/E3Fly, Robin-64-127.aif
+<group> key=65 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1114 sample=../Audio/Fly, Robin/F3Fly, Robin-65-127_0003.aif
+<group> key=65 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1151 sample=../Audio/Fly, Robin/F3Fly, Robin-65-127_0002.aif
+<group> key=65 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1791 sample=../Audio/Fly, Robin/F3Fly, Robin-65-127_0001.aif
+<group> key=65 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1188 sample=../Audio/Fly, Robin/F3Fly, Robin-65-127.aif
+<group> key=66 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1781 sample=../Audio/Fly, Robin/F#3Fly, Robin-66-127_0003.aif
+<group> key=66 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1547 sample=../Audio/Fly, Robin/F#3Fly, Robin-66-127_0002.aif
+<group> key=66 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1083 sample=../Audio/Fly, Robin/F#3Fly, Robin-66-127_0001.aif
+<group> key=66 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1115 sample=../Audio/Fly, Robin/F#3Fly, Robin-66-127.aif
+<group> key=67 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1108 sample=../Audio/Fly, Robin/G3Fly, Robin-67-127_0003.aif
+<group> key=67 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1663 sample=../Audio/Fly, Robin/G3Fly, Robin-67-127_0002.aif
+<group> key=67 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1791 sample=../Audio/Fly, Robin/G3Fly, Robin-67-127_0001.aif
+<group> key=67 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1321 sample=../Audio/Fly, Robin/G3Fly, Robin-67-127.aif
+<group> key=68 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1138 sample=../Audio/Fly, Robin/G#3Fly, Robin-68-127_0003.aif
+<group> key=68 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1214 sample=../Audio/Fly, Robin/G#3Fly, Robin-68-127_0002.aif
+<group> key=68 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1680 sample=../Audio/Fly, Robin/G#3Fly, Robin-68-127_0001.aif
+<group> key=68 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1212 sample=../Audio/Fly, Robin/G#3Fly, Robin-68-127.aif
+<group> key=69 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1156 sample=../Audio/Fly, Robin/A3Fly, Robin-69-127_0003.aif
+<group> key=69 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1631 sample=../Audio/Fly, Robin/A3Fly, Robin-69-127_0002.aif
+<group> key=69 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1150 sample=../Audio/Fly, Robin/A3Fly, Robin-69-127_0001.aif
+<group> key=69 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1651 sample=../Audio/Fly, Robin/A3Fly, Robin-69-127.aif
+<group> key=70 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1791 sample=../Audio/Fly, Robin/A#3Fly, Robin-70-127_0003.aif
+<group> key=70 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1791 sample=../Audio/Fly, Robin/A#3Fly, Robin-70-127_0002.aif
+<group> key=70 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1835 sample=../Audio/Fly, Robin/A#3Fly, Robin-70-127_0001.aif
+<group> key=70 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1758 sample=../Audio/Fly, Robin/A#3Fly, Robin-70-127.aif
+<group> key=71 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1255 sample=../Audio/Fly, Robin/B3Fly, Robin-71-127_0003.aif
+<group> key=71 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1215 sample=../Audio/Fly, Robin/B3Fly, Robin-71-127_0002.aif
+<group> key=71 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1179 sample=../Audio/Fly, Robin/B3Fly, Robin-71-127_0001.aif
+<group> key=71 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1238 sample=../Audio/Fly, Robin/B3Fly, Robin-71-127.aif
+<group> key=72 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1388 sample=../Audio/Fly, Robin/C4Fly, Robin-72-127_0003.aif
+<group> key=72 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1387 sample=../Audio/Fly, Robin/C4Fly, Robin-72-127_0002.aif
+<group> key=72 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1596 sample=../Audio/Fly, Robin/C4Fly, Robin-72-127_0001.aif
+<group> key=72 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1740 sample=../Audio/Fly, Robin/C4Fly, Robin-72-127.aif
+<group> key=73 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1086 sample=../Audio/Fly, Robin/C#4Fly, Robin-73-127_0003.aif
+<group> key=73 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1107 sample=../Audio/Fly, Robin/C#4Fly, Robin-73-127_0002.aif
+<group> key=73 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1113 sample=../Audio/Fly, Robin/C#4Fly, Robin-73-127_0001.aif
+<group> key=73 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1607 sample=../Audio/Fly, Robin/C#4Fly, Robin-73-127.aif
+<group> key=74 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1186 sample=../Audio/Fly, Robin/D4Fly, Robin-74-127_0003.aif
+<group> key=74 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1151 sample=../Audio/Fly, Robin/D4Fly, Robin-74-127_0002.aif
+<group> key=74 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1259 sample=../Audio/Fly, Robin/D4Fly, Robin-74-127_0001.aif
+<group> key=74 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1754 sample=../Audio/Fly, Robin/D4Fly, Robin-74-127.aif
+<group> key=75 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1107 sample=../Audio/Fly, Robin/D#4Fly, Robin-75-127_0003.aif
+<group> key=75 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1709 sample=../Audio/Fly, Robin/D#4Fly, Robin-75-127_0002.aif
+<group> key=75 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1736 sample=../Audio/Fly, Robin/D#4Fly, Robin-75-127_0001.aif
+<group> key=75 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1625 sample=../Audio/Fly, Robin/D#4Fly, Robin-75-127.aif
+<group> key=76 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1086 sample=../Audio/Fly, Robin/E4Fly, Robin-76-127_0003.aif
+<group> key=76 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1144 sample=../Audio/Fly, Robin/E4Fly, Robin-76-127_0002.aif
+<group> key=76 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1650 sample=../Audio/Fly, Robin/E4Fly, Robin-76-127_0001.aif
+<group> key=76 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1656 sample=../Audio/Fly, Robin/E4Fly, Robin-76-127.aif
+<group> key=77 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1787 sample=../Audio/Fly, Robin/F4Fly, Robin-77-127_0003.aif
+<group> key=77 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1648 sample=../Audio/Fly, Robin/F4Fly, Robin-77-127_0002.aif
+<group> key=77 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1663 sample=../Audio/Fly, Robin/F4Fly, Robin-77-127_0001.aif
+<group> key=77 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1134 sample=../Audio/Fly, Robin/F4Fly, Robin-77-127.aif
+<group> key=78 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1660 sample=../Audio/Fly, Robin/F#4Fly, Robin-78-127_0003.aif
+<group> key=78 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1757 sample=../Audio/Fly, Robin/F#4Fly, Robin-78-127_0002.aif
+<group> key=78 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1663 sample=../Audio/Fly, Robin/F#4Fly, Robin-78-127_0001.aif
+<group> key=78 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1629 sample=../Audio/Fly, Robin/F#4Fly, Robin-78-127.aif
+<group> key=79 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1135 sample=../Audio/Fly, Robin/G4Fly, Robin-79-127_0003.aif
+<group> key=79 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1121 sample=../Audio/Fly, Robin/G4Fly, Robin-79-127_0002.aif
+<group> key=79 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1096 sample=../Audio/Fly, Robin/G4Fly, Robin-79-127_0001.aif
+<group> key=79 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1149 sample=../Audio/Fly, Robin/G4Fly, Robin-79-127.aif
+<group> key=80 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1635 sample=../Audio/Fly, Robin/G#4Fly, Robin-80-127_0003.aif
+<group> key=80 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1138 sample=../Audio/Fly, Robin/G#4Fly, Robin-80-127_0002.aif
+<group> key=80 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1643 sample=../Audio/Fly, Robin/G#4Fly, Robin-80-127_0001.aif
+<group> key=80 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1746 sample=../Audio/Fly, Robin/G#4Fly, Robin-80-127.aif
+<group> key=81 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1745 sample=../Audio/Fly, Robin/A4Fly, Robin-81-127_0003.aif
+<group> key=81 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1205 sample=../Audio/Fly, Robin/A4Fly, Robin-81-127_0002.aif
+<group> key=81 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1092 sample=../Audio/Fly, Robin/A4Fly, Robin-81-127_0001.aif
+<group> key=81 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1108 sample=../Audio/Fly, Robin/A4Fly, Robin-81-127.aif
+<group> key=82 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1656 sample=../Audio/Fly, Robin/A#4Fly, Robin-82-127_0003.aif
+<group> key=82 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1229 sample=../Audio/Fly, Robin/A#4Fly, Robin-82-127_0002.aif
+<group> key=82 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1663 sample=../Audio/Fly, Robin/A#4Fly, Robin-82-127_0001.aif
+<group> key=82 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1116 sample=../Audio/Fly, Robin/A#4Fly, Robin-82-127.aif
+<group> key=83 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1150 sample=../Audio/Fly, Robin/B4Fly, Robin-83-127_0003.aif
+<group> key=83 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1151 sample=../Audio/Fly, Robin/B4Fly, Robin-83-127_0002.aif
+<group> key=83 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1616 sample=../Audio/Fly, Robin/B4Fly, Robin-83-127_0001.aif
+<group> key=83 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1612 sample=../Audio/Fly, Robin/B4Fly, Robin-83-127.aif
+<group>lokey=84 hikey=113 pitch_keycenter=84 seq_length=4 seq_position=1 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1781 sample=../Audio/Fly, Robin/C5Fly, Robin-84-127_0003.aif
+<group>lokey=84 hikey=113 pitch_keycenter=84 seq_length=4 seq_position=2 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1257 sample=../Audio/Fly, Robin/C5Fly, Robin-84-127_0002.aif
+<group>lokey=84 hikey=113 pitch_keycenter=84 seq_length=4 seq_position=3 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1234 sample=../Audio/Fly, Robin/C5Fly, Robin-84-127_0001.aif
+<group>lokey=84 hikey=113 pitch_keycenter=84 seq_length=4 seq_position=4 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1276 sample=../Audio/Fly, Robin/C5Fly, Robin-84-127.aif

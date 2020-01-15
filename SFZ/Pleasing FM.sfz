@@ -1,0 +1,124 @@
+// this file was generated from Pleasing FM.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=700 end=151105 sample=../Audio/Pleasing FM/0-QN2Z.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=584 end=150849 sample=../Audio/Pleasing FM/0-Z0UJ.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=600 end=151217 sample=../Audio/Pleasing FM/0-HQLS.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=469 end=151117 sample=../Audio/Pleasing FM/0-UE54.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=544 end=150789 sample=../Audio/Pleasing FM/0-27SI.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=490 end=150453 sample=../Audio/Pleasing FM/0-KNS0.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=370 sample=../Audio/Pleasing FM/0-FXKR.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=745 end=150832 sample=../Audio/Pleasing FM/0-7EGZ.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=518 sample=../Audio/Pleasing FM/0-G3TE.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=556 sample=../Audio/Pleasing FM/0-BBJ0.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=513 end=150423 sample=../Audio/Pleasing FM/0-5FJ6.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=615 end=150826 sample=../Audio/Pleasing FM/0-AEFF.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=408 end=150663 sample=../Audio/Pleasing FM/0-TTI3.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=576 end=150744 sample=../Audio/Pleasing FM/0-BSY9.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=371 end=151402 sample=../Audio/Pleasing FM/0-MLWM.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=635 end=151024 sample=../Audio/Pleasing FM/0-NI5R.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=388 end=151438 sample=../Audio/Pleasing FM/0-AJLI.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=731 end=150765 sample=../Audio/Pleasing FM/0-4XX9.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=581 end=151337 sample=../Audio/Pleasing FM/0-M8MR.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=494 end=151146 sample=../Audio/Pleasing FM/0-9IQN.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=649 end=150961 sample=../Audio/Pleasing FM/0-2PGO.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=559 end=151071 sample=../Audio/Pleasing FM/0-A9AG.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=814 end=151371 sample=../Audio/Pleasing FM/0-TT4B.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=626 end=151471 sample=../Audio/Pleasing FM/0-7VHD.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=398 end=150653 sample=../Audio/Pleasing FM/0-135V.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=690 end=150866 sample=../Audio/Pleasing FM/0-ZILM.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=450 end=151083 sample=../Audio/Pleasing FM/0-L0X2.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=753 end=151538 sample=../Audio/Pleasing FM/0-V40E.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=417 end=151301 sample=../Audio/Pleasing FM/0-RF1S.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=661 end=150777 sample=../Audio/Pleasing FM/0-J7JO.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=150678 sample=../Audio/Pleasing FM/0-5FK4.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=570 end=151152 sample=../Audio/Pleasing FM/0-5023.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=555 sample=../Audio/Pleasing FM/0-LBPN.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=559 end=151073 sample=../Audio/Pleasing FM/0-LA96.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=381 end=151030 sample=../Audio/Pleasing FM/0-W201.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=634 end=150934 sample=../Audio/Pleasing FM/0-G9KE.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=473 end=150709 sample=../Audio/Pleasing FM/0-NBWY.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=650 end=150467 sample=../Audio/Pleasing FM/0-8M6U.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=421 sample=../Audio/Pleasing FM/0-U0X7.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=688 end=151231 sample=../Audio/Pleasing FM/0-DWRD.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=594 end=150567 sample=../Audio/Pleasing FM/0-5SI9.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=755 end=150729 sample=../Audio/Pleasing FM/0-HOT7.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=683 end=151190 sample=../Audio/Pleasing FM/0-P519.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=677 sample=../Audio/Pleasing FM/0-9WDO.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=579 sample=../Audio/Pleasing FM/0-WPS1.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=459 end=150896 sample=../Audio/Pleasing FM/0-EI63.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=446 end=151014 sample=../Audio/Pleasing FM/0-ZUSY.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=851 end=151261 sample=../Audio/Pleasing FM/0-94H3.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=785 end=151071 sample=../Audio/Pleasing FM/0-2YDA.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=652 end=151001 sample=../Audio/Pleasing FM/0-PAJC.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=438 sample=../Audio/Pleasing FM/0-D3X9.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=417 end=150802 sample=../Audio/Pleasing FM/0-NYA1.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=433 end=150621 sample=../Audio/Pleasing FM/0-QCJ7.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=609 end=151222 sample=../Audio/Pleasing FM/0-TBQU.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=690 end=151291 sample=../Audio/Pleasing FM/0-CSPN.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=760 end=151173 sample=../Audio/Pleasing FM/0-TBH6.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=581 end=151123 sample=../Audio/Pleasing FM/0-3DFT.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=440 end=151406 sample=../Audio/Pleasing FM/0-PX3D.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=345 end=150588 sample=../Audio/Pleasing FM/0-JTT3.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=537 sample=../Audio/Pleasing FM/0-XTSZ.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=710 end=151665 sample=../Audio/Pleasing FM/0-S672.aif

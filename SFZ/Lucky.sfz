@@ -1,0 +1,100 @@
+// this file was generated from Lucky.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=5 hikey=36 pitch_keycenter=36 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=534806 loop_end=638029 sample=../Audio/Lucky/(2014223 172429)/Lucky-8XSX.aif
+<group> key=37 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=396204 loop_end=589775 sample=../Audio/Lucky/(2014223 172429)/Lucky-WPMY.aif
+<group> key=38 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=579628 loop_end=640146 sample=../Audio/Lucky/(2014223 172429)/Lucky-B3C1.aif
+<group> key=39 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=440453 loop_end=511271 sample=../Audio/Lucky/(2014223 172429)/Lucky-FXVC.aif
+<group> key=40 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=389415 loop_end=528443 sample=../Audio/Lucky/(2014223 172429)/Lucky-9U2U.aif
+<group> key=41 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=521471 loop_end=581790 sample=../Audio/Lucky/(2014223 172429)/Lucky-15YL.aif
+<group> key=42 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=380863 loop_end=638440 sample=../Audio/Lucky/(2014223 172429)/Lucky-BJR2.aif
+<group> key=43 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=478544 loop_end=634000 sample=../Audio/Lucky/(2014223 172429)/Lucky-JJCC.aif
+<group> key=44 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=439063 loop_end=536575 sample=../Audio/Lucky/(2014223 172429)/Lucky-BNEQ.aif
+<group> key=45 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=395234 loop_end=463080 sample=../Audio/Lucky/(2014223 172429)/Lucky-2KRC.aif
+<group> key=46 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=439647 loop_end=498395 sample=../Audio/Lucky/(2014223 172429)/Lucky-QIV7.aif
+<group> key=47 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=431823 loop_end=615607 sample=../Audio/Lucky/(2014223 172429)/Lucky-VK6E.aif
+<group> key=48 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=446864 loop_end=607637 sample=../Audio/Lucky/(2014223 172429)/Lucky-TZ9U.aif
+<group> key=49 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=396072 loop_end=475709 sample=../Audio/Lucky/(2014223 172429)/Lucky-PU43.aif
+<group> key=50 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=544567 loop_end=640274 sample=../Audio/Lucky/(2014223 172429)/Lucky-45RL.aif
+<group> key=51 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=418985 loop_end=477267 sample=../Audio/Lucky/(2014223 172429)/Lucky-LI9U.aif
+<group> key=52 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=394667 loop_end=617246 sample=../Audio/Lucky/(2014223 172429)/Lucky-2JXU.aif
+<group> key=53 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=387612 loop_end=454745 sample=../Audio/Lucky/(2014223 172429)/Lucky-099Q.aif
+<group> key=54 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=489839 loop_end=564680 sample=../Audio/Lucky/(2014223 172429)/Lucky-GAXC.aif
+<group> key=55 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=431684 loop_end=616345 sample=../Audio/Lucky/(2014223 172429)/Lucky-NB2R.aif
+<group> key=56 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=445940 loop_end=638457 sample=../Audio/Lucky/(2014223 172429)/Lucky-Q45W.aif
+<group> key=57 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=484015 loop_end=632526 sample=../Audio/Lucky/(2014223 172429)/Lucky-7L5B.aif
+<group> key=58 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=536264 loop_end=615764 sample=../Audio/Lucky/(2014223 172429)/Lucky-576F.aif
+<group> key=59 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=520962 loop_end=615738 sample=../Audio/Lucky/(2014223 172429)/Lucky-Z983.aif
+<group> key=60 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=463050 loop_end=637332 sample=../Audio/Lucky/(2014223 172429)/Lucky-0DIZ.aif
+<group> key=61 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=534113 loop_end=601534 sample=../Audio/Lucky/(2014223 172429)/Lucky-FVIF.aif
+<group> key=62 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=572102 loop_end=644340 sample=../Audio/Lucky/(2014223 172429)/Lucky-CD8F.aif
+<group> key=63 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=425158 loop_end=586778 sample=../Audio/Lucky/(2014223 172429)/Lucky-SMDL.aif
+<group> key=64 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=498713 loop_end=558088 sample=../Audio/Lucky/(2014223 172429)/Lucky-UG9J.aif
+<group> key=65 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=564983 loop_end=622952 sample=../Audio/Lucky/(2014223 172429)/Lucky-6WWV.aif
+<group> key=66 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=425618 loop_end=631645 sample=../Audio/Lucky/(2014223 172429)/Lucky-0XPT.aif
+<group> key=67 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=401901 loop_end=528143 sample=../Audio/Lucky/(2014223 172429)/Lucky-7ZJZ.aif
+<group> key=68 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=453481 loop_end=601609 sample=../Audio/Lucky/(2014223 172429)/Lucky-UOXL.aif
+<group> key=69 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=498879 loop_end=586256 sample=../Audio/Lucky/(2014223 172429)/Lucky-A50F.aif
+<group> key=70 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=505312 loop_end=579643 sample=../Audio/Lucky/(2014223 172429)/Lucky-2XF9.aif
+<group> key=71 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=431572 loop_end=491186 sample=../Audio/Lucky/(2014223 172429)/Lucky-94SO.aif
+<group> key=72 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=476794 loop_end=579661 sample=../Audio/Lucky/(2014223 172429)/Lucky-504H.aif
+<group> key=73 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=555213 loop_end=623694 sample=../Audio/Lucky/(2014223 172429)/Lucky-CNO8.aif
+<group> key=74 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=381196 loop_end=438619 sample=../Audio/Lucky/(2014223 172429)/Lucky-0UIY.aif
+<group> key=75 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=476187 loop_end=593247 sample=../Audio/Lucky/(2014223 172429)/Lucky-TXR9.aif
+<group> key=76 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=528876 loop_end=624433 sample=../Audio/Lucky/(2014223 172429)/Lucky-OOP4.aif
+<group> key=77 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=373091 loop_end=456691 sample=../Audio/Lucky/(2014223 172429)/Lucky-HNN8.aif
+<group> key=78 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=409979 loop_end=498792 sample=../Audio/Lucky/(2014223 172429)/Lucky-DAX2.aif
+<group> key=79 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=425338 loop_end=616378 sample=../Audio/Lucky/(2014223 172429)/Lucky-XCAO.aif
+<group> key=80 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=410567 loop_end=586955 sample=../Audio/Lucky/(2014223 172429)/Lucky-TN9S.aif
+<group> key=81 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=461185 loop_end=607662 sample=../Audio/Lucky/(2014223 172429)/Lucky-XSW0.aif
+<group> key=82 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=403688 loop_end=512343 sample=../Audio/Lucky/(2014223 172429)/Lucky-A2RA.aif
+<group> key=83 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=375041 loop_end=637321 sample=../Audio/Lucky/(2014223 172429)/Lucky-YGPW.aif
+<group>lokey=84 hikey=116 pitch_keycenter=84 pan=10 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=454608 loop_end=512393 sample=../Audio/Lucky/(2014223 172429)/Lucky-S8UJ.aif

@@ -1,0 +1,335 @@
+// this file was generated from MultiAttack.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=755 loop_end=122452 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-LLMW.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=597 loop_end=118359 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-F67W.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=546 loop_end=119601 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-HWCR.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=58670 loop_end=140640 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-DK2O.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=4713 loop_end=131671 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-36KP.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=9770 loop_end=141986 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-7TPA.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=7637 loop_end=43152 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OXOI.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16816 loop_end=49673 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-X95O.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=679 loop_end=64022 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-SLYD.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=81749 loop_end=144236 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-4H55.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=19065 loop_end=65132 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-SH16.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=1321 loop_end=48548 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-RWHJ.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=66927 loop_end=140579 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-KJJT.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=9933 loop_end=123537 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-994G.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=19838 loop_end=122277 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-M91L.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=67297 loop_end=140993 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-9KI2.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=598 loop_end=100816 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-QONJ.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=649 loop_end=92607 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-YBW7.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=1124 loop_end=135856 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-BXTH.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=1572 loop_end=52754 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-89OT.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=81488 loop_end=127349 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-TMPI.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=7483 loop_end=45446 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-3W21.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=16684 loop_end=63845 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-0649.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=18918 loop_end=56588 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OZT6.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=35387 loop_end=138761 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OYF2.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=386 loop_end=102732 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-F99P.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=60742 loop_end=126361 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-8CUS.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=1125 loop_end=48331 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-TI1F.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=4814 loop_end=107141 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-0153.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=34193 loop_end=73071 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-GEJQ.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=14482 loop_end=52264 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-KQAO.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88585 loop_end=124161 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-SNRS.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=80 loop_end=57042 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-6JWJ.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=86947 loop_end=123627 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-JI3B.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=326 loop_end=62342 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-YFNS.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=16468 loop_end=143441 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-3IO9.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=5796 loop_end=101350 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-VGUD.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=9123 loop_end=111481 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-PGX2.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=24025 loop_end=87044 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-DTDU.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=58247 loop_end=93938 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-3SBN.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=38676 loop_end=126847 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-EALR.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=482 loop_end=44534 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-IHXK.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=66 loop_end=135399 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-IPPN.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=1600 loop_end=66047 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-TZ41.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=4391 loop_end=39768 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-UQ1K.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=10002 loop_end=116499 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-Q66T.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=10786 loop_end=40514 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-WCWS.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34903 loop_end=65365 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-W2FY.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=701 loop_end=86766 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-PXT3.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=792 loop_end=84063 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-7ZYI.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=24661 loop_end=142438 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-8ILV.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=1587 loop_end=86734 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-XON1.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=4768 loop_end=90820 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-65JM.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=58482 loop_end=143579 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-JP81.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=23960 loop_end=91858 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-VAWV.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=40371 loop_end=74039 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-QAIX.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=493 loop_end=82811 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-RBDN.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=595 loop_end=77434 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-SZWJ.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=630 loop_end=104040 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-S427.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=1250 loop_end=78949 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-0POO.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=33786 loop_end=123035 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OVMU.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=32075 loop_end=87686 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OUI8.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=22066 loop_end=51199 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-AZBM.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=37359 loop_end=85932 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-JIA8.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=602 loop_end=78552 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-AAT9.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=639 loop_end=78545 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-USRZ.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=589 loop_end=98067 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-F8BQ.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=67026 loop_end=142781 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-2D49.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=64077 loop_end=141098 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-PKH8.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=66042 loop_end=140592 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-YIAS.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=80990 loop_end=134301 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-VOO6.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34433 loop_end=63688 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-N51K.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=90106 loop_end=125546 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-5KAV.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=121 loop_end=70914 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-Y9CJ.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=1019 loop_end=142566 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-VLON.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=53914 loop_end=131333 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-NMWP.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=5589 loop_end=77222 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-INV7.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=20765 loop_end=138746 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-FR2K.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=68244 loop_end=113869 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-41UT.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=49536 loop_end=95591 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-2HE9.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=6138 loop_end=141965 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-EW9B.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=15974 loop_end=143668 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-MZ9T.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=77328 loop_end=141144 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-CRWG.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=94308 loop_end=142499 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-LROE.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=77469 loop_end=144262 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-UOJ4.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=71864 loop_end=138259 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-ZYWQ.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=71978 loop_end=140214 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-C1KY.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=21276 loop_end=51552 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-U8HL.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=11567 loop_end=138357 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OWN1.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=12932 loop_end=141098 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-BH2D.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=3633 loop_end=136743 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-ZWQ4.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=89360 loop_end=133500 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OZGC.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=6479 loop_end=134694 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-FOB1.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=92655 loop_end=128098 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-G6ZV.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=82972 loop_end=143228 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-IOWH.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=32568 loop_end=97038 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-31V9.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=26132 loop_end=142506 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-307E.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=87243 loop_end=124943 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-LZ7R.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=96876 loop_end=133266 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-NT0F.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=20668 loop_end=142966 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-72C4.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=5274 loop_end=135029 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-DKQA.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=40050 loop_end=122026 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-JW25.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=17624 loop_end=142648 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-K8ZY.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20782 loop_end=83261 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OG7D.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=15038 loop_end=131706 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-WPGL.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=270 loop_end=39055 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-L9UY.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=27229 loop_end=142641 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-D57D.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=64416 loop_end=122438 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-IR7J.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=25042 loop_end=144210 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-RJZN.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=13568 loop_end=46031 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-EDK9.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=56877 loop_end=90850 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-W3L2.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=11616 loop_end=41367 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-CEYL.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=21592 loop_end=130525 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-QID3.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=27570 loop_end=135938 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-JV9L.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=36280 loop_end=144054 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-AI1Q.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=71611 loop_end=124628 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-DS6H.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=35104 loop_end=142895 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-PT1P.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=78448 loop_end=112643 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-RYNH.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=69615 loop_end=105545 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-PAAA.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=49808 loop_end=85763 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-BJCF.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=33176 loop_end=134904 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-ZHYD.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=35093 loop_end=134600 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-Z92K.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=35969 loop_end=137691 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-UBF9.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=39263 loop_end=140422 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OKZL.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=39946 loop_end=142769 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-9NI9.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=71502 loop_end=102112 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-7DHH.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=40756 loop_end=73615 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-2LZB.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=12012 loop_end=41483 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-GO37.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=46399 loop_end=140321 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-ZASN.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=35602 loop_end=130056 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-Q2UH.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=45113 loop_end=142686 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-VF3H.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=46192 loop_end=142743 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-WO7M.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=46706 loop_end=144268 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-XIFE.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=36374 loop_end=69665 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-MV12.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=90198 loop_end=137970 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-8FE1.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=36917 loop_end=132487 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-8SMN.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=29637 loop_end=121735 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-54K4.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=30529 loop_end=121151 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-G205.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=21137 loop_end=112256 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-2XO1.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=55088 loop_end=143246 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-EAEL.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=45840 loop_end=136958 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-PFDR.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=9891 loop_end=138423 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-RI4E.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=51269 loop_end=84985 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-H8SJ.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=8793 loop_end=40924 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-U2TY.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=15487 loop_end=101480 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-X38U.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=49245 loop_end=136642 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-WVD4.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=57057 loop_end=142585 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-WU68.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=53525 loop_end=139519 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-O5XT.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=44715 loop_end=128857 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-KYWL.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=51629 loop_end=139501 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-RBH7.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=75103 loop_end=142464 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-6C0F.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=7474 loop_end=49521 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-0LB3.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=29810 loop_end=114044 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-T281.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=25466 loop_end=106201 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-P2R0.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=25329 loop_end=106494 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-NUWF.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=37717 loop_end=119760 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-1MJJ.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=48967 loop_end=129710 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-5WH5.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=63223 loop_end=143970 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-ACYD.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=99729 loop_end=140916 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-DSYE.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=26539 loop_end=66480 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-W3D6.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=19477 loop_end=97334 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-TMSZ.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=13396 loop_end=92089 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-I74Z.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=14384 loop_end=90190 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-NBH1.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=38765 loop_end=116621 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-1YUT.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=64418 loop_end=141439 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-F5PD.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=63432 loop_end=137986 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-M5MI.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=67753 loop_end=141474 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-IODD.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20769 loop_end=58660 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-ATGA.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=33909 loop_end=106620 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-328E.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=23259 loop_end=94014 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-2R1Z.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=56501 loop_end=129201 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-1BV0.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=82714 loop_end=119069 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-FJKO.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=65832 loop_end=135414 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-XEPL.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=54694 loop_end=128196 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-YPK9.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=71716 loop_end=143651 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-N47B.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=30538 loop_end=67296 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-9CLF.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=33656 loop_end=101178 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-AHAQ.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=65464 loop_end=132979 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-LNKK.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=22824 loop_end=90347 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-KQMG.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=51913 loop_end=119802 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-C2BF.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=42004 loop_end=110269 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OOZF.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=56265 loop_end=124528 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-ZX7R.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=104210 loop_end=141278 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-7XSC.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=39842 loop_end=73632 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-45DP.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=50619 loop_end=115049 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-HVMK.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=67434 loop_end=130805 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-A8NI.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=23402 loop_end=87835 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-HXZI.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=76721 loop_end=140105 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-G0B6.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=68938 loop_end=132320 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-TMFD.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=70521 loop_end=135298 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-D2JI.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=79559 loop_end=144334 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-O0K6.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17235 loop_end=49963 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-0C7Y.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=80600 loop_end=142062 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-T7QW.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=34681 loop_end=94832 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OAQU.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=35721 loop_end=96204 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-DRGW.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=46160 loop_end=106642 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-KLHR.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=74865 loop_end=136652 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-VF7Y.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=71063 loop_end=131881 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-NYL9.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=81971 loop_end=142459 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-MYY5.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=27011 loop_end=57094 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-0QK1.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=38614 loop_end=96632 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-5G1X.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=69551 loop_end=126950 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-FXFI.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=67096 loop_end=123865 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-HFV4.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=64134 loop_end=123698 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-GWNP.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=63348 loop_end=119819 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-N5V8.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=77749 loop_end=132971 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-5V4A.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=72849 loop_end=130254 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-X3WP.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=10123 loop_end=67506 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-3407.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=22251 loop_end=76717 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-ACUP.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=91862 loop_end=144288 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-0XK8.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=72928 loop_end=127395 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-MBFS.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=69521 loop_end=122814 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-LIZB.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=64454 loop_end=118627 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-QCB8.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=87308 loop_end=142365 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-F0U5.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=88192 loop_end=141784 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-POBQ.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15198 loop_end=71425 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-LH8K.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=38085 loop_end=89222 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-X6TX.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=55044 loop_end=105635 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-MXVN.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=23301 loop_end=73602 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-63MC.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=37946 loop_end=141879 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OV47.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=62364 loop_end=113773 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-PTB2.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=77725 loop_end=128858 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-D0CU.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=79970 loop_end=131106 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-QDLZ.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15862 loop_end=66446 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-HK2W.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=29691 loop_end=126737 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-ZBZZ.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=84628 loop_end=131067 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-BAFH.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=89172 loop_end=137438 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-B9H4.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=94405 loop_end=142407 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-CSKG.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=39895 loop_end=87897 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-N7I7.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=96085 loop_end=144356 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-NH04.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=85061 loop_end=133331 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-6P6U.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15228 loop_end=63744 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-9S6P.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=47787 loop_end=94075 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-0K1T.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=14502 loop_end=60796 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-D8BE.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=36792 loop_end=81848 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-C9S9.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=74905 loop_end=120707 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-2HAG.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=66523 loop_end=111584 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-Y56A.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=99225 loop_end=144292 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-2CIP.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=79791 loop_end=126088 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-9H6T.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16304 loop_end=62344 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-7RG5.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=32913 loop_end=74988 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-LFIL.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=97213 loop_end=140671 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-WIAT.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=36635 loop_end=80795 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-HCTI.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=61628 loop_end=103697 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-NWXZ.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=66571 loop_end=109795 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-SIEM.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=90036 loop_end=133030 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-WU8C.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=98212 loop_end=141208 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-UF16.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=104539 loop_end=141258 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-CYFF.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=13320 loop_end=54347 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OLOV.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=50960 loop_end=133006 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-YZ9A.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=44889 loop_end=85913 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-X4JZ.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=98442 loop_end=138371 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-E1CB.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=100262 loop_end=140197 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-UNS8.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=70862 loop_end=111662 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-M2KF.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=81988 loop_end=120831 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-4DQ9.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=13562 loop_end=53687 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-Y03O.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=91309 loop_end=130234 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-KZTY.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=84987 loop_end=122878 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-YYC9.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=40863 loop_end=115618 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-ELE9.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=105200 loop_end=142886 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-L35G.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=57278 loop_end=95177 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-CBN6.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=79132 loop_end=117850 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-W354.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=106462 loop_end=144358 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-GLAG.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=27524 loop_end=65438 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-904X.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=58913 loop_end=94873 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-7I6S.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=35741 loop_end=71509 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-BK0V.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=94402 loop_end=130167 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-KH3K.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=53059 loop_end=89026 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-FW0M.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=102194 loop_end=137180 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OJVJ.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=82005 loop_end=117972 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-X1HZ.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=98342 loop_end=133329 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-DSAN.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16608 loop_end=53336 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-R7IE.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=99683 loop_end=133265 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-RCZH.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=68506 loop_end=103367 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-AY3L.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=80049 loop_end=113806 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-RBGB.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=99227 loop_end=132985 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-MCNL.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=75616 loop_end=109559 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-4DYY.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=77787 loop_end=111548 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-9POA.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=105200 loop_end=138957 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-714Z.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=32544 loop_end=66509 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-21PT.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=77784 loop_end=110519 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-APTZ.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=90186 loop_end=122917 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-2MCG.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=26676 loop_end=58543 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-F9C1.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=41915 loop_end=74649 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-2QJT.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=72803 loop_end=104493 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-Y8J6.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=61299 loop_end=94028 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-3ZBZ.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=91148 loop_end=123020 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OZQ0.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17519 loop_end=50250 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-QDPC.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=018 amp_velcurve_018=1 loop_mode=loop_sustain loop_start=80801 loop_end=110545 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-X36L.aif
+	<region> lovel=019 hivel=035 amp_velcurve_035=1 loop_mode=loop_sustain loop_start=15313 loop_end=46042 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-H40I.aif
+	<region> lovel=035 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=104351 loop_end=134758 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-OT7R.aif
+	<region> lovel=050 hivel=065 amp_velcurve_065=1 loop_mode=loop_sustain loop_start=63450 loop_end=93688 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-AR3X.aif
+	<region> lovel=066 hivel=081 amp_velcurve_081=1 loop_mode=loop_sustain loop_start=45209 loop_end=135269 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-76OW.aif
+	<region> lovel=082 hivel=098 amp_velcurve_098=1 loop_mode=loop_sustain loop_start=69550 loop_end=100119 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-O64T.aif
+	<region> lovel=099 hivel=113 amp_velcurve_113=1 loop_mode=loop_sustain loop_start=106342 loop_end=137076 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-UK1F.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17876 loop_end=49254 sample=../Audio/MultiAttack/(201431 221055)/MultiAttack-6O8C.aif
