@@ -1,0 +1,3395 @@
+
+<alchemypreset>
+Version = 166
+Name = plsfm-af
+Product = Alchemy
+Author = Unknown Artist
+UserData = 
+PresetId = 0
+Attribs = 
+Tags = 
+Comments = 
+Stars = 0
+Quality = 3
+SrchAttr = 
+SrchText = 
+SrchCols = 
+DataLoc = 
+PrsetLoc = 
+LegSpGai = 0
+LegBtRed = 0
+LegPorta = 0
+LegClip = 0
+LegSpVol = 0
+LegArpSu = 0
+LegAdGai = 0
+LegGrFB = 0
+LegEfAmp = 0
+Browse1 = Genre
+Browse2 = Timbre
+GuiMode = 2
+SnapUpd = 1
+RmOctKey = -1
+
+<perform>
+PerNum = 7
+PerCur = 0
+SnapUpd = 1
+PerOctav = 0
+PerModWl = 6
+PerTime = 0.000
+_RemixX = 0.000
+_RemixY = 1.000
+Cont1Lbl = 1
+Cont2Lbl = 2
+Cont3Lbl = 3
+Cont4Lbl = 4
+Cont5Lbl = 5
+Cont6Lbl = 6
+Cont7Lbl = 7
+Cont8Lbl = 8
+_XyPad1x = 
+_XyPad1y = 
+_XyPad2x = 
+_XyPad2y = 
+_Contrl1 = 0.000
+_Contrl2 = 0.000
+_Contrl3 = 0.000
+_Contrl4 = 0.000
+_Contrl5 = 0.000
+_Contrl6 = 0.000
+_Contrl7 = 0.000
+_Contrl8 = 0.000
+_XyPad1x = 0.000
+_XyPad1y = 0.000
+_XyPad2x = 0.000
+_XyPad2y = 0.000
+_EnvAtt = 0.000
+_EnvDec = 0.000
+_EnvSust = 0.000
+_EnvRel = 0.000
+PerVol = 0.794
+_Contrl1 = 0.000
+_Contrl2 = 0.000
+_Contrl3 = 0.000
+_Contrl4 = 0.000
+_Contrl5 = 0.000
+_Contrl6 = 0.000
+_Contrl7 = 0.000
+_Contrl8 = 0.000
+_XyPad1x = 0.000
+_XyPad1y = 0.000
+_XyPad2x = 0.000
+_XyPad2y = 0.000
+_EnvAtt = 0.000
+_EnvDec = 0.000
+_EnvSust = 0.000
+_EnvRel = 0.000
+PerVol = 0.794
+_Contrl1 = 0.000
+_Contrl2 = 0.000
+_Contrl3 = 0.000
+_Contrl4 = 0.000
+_Contrl5 = 0.000
+_Contrl6 = 0.000
+_Contrl7 = 0.000
+_Contrl8 = 0.000
+_XyPad1x = 0.000
+_XyPad1y = 0.000
+_XyPad2x = 0.000
+_XyPad2y = 0.000
+_EnvAtt = 0.000
+_EnvDec = 0.000
+_EnvSust = 0.000
+_EnvRel = 0.000
+PerVol = 0.794
+_Contrl1 = 0.000
+_Contrl2 = 0.000
+_Contrl3 = 0.000
+_Contrl4 = 0.000
+_Contrl5 = 0.000
+_Contrl6 = 0.000
+_Contrl7 = 0.000
+_Contrl8 = 0.000
+_XyPad1x = 0.000
+_XyPad1y = 0.000
+_XyPad2x = 0.000
+_XyPad2y = 0.000
+_EnvAtt = 0.000
+_EnvDec = 0.000
+_EnvSust = 0.000
+_EnvRel = 0.000
+PerVol = 0.794
+_Contrl1 = 0.000
+_Contrl2 = 0.000
+_Contrl3 = 0.000
+_Contrl4 = 0.000
+_Contrl5 = 0.000
+_Contrl6 = 0.000
+_Contrl7 = 0.000
+_Contrl8 = 0.000
+_XyPad1x = 0.000
+_XyPad1y = 0.000
+_XyPad2x = 0.000
+_XyPad2y = 0.000
+_EnvAtt = 0.000
+_EnvDec = 0.000
+_EnvSust = 0.000
+_EnvRel = 0.000
+PerVol = 0.794
+_Contrl1 = 0.000
+_Contrl2 = 0.000
+_Contrl3 = 0.000
+_Contrl4 = 0.000
+_Contrl5 = 0.000
+_Contrl6 = 0.000
+_Contrl7 = 0.000
+_Contrl8 = 0.000
+_XyPad1x = 0.000
+_XyPad1y = 0.000
+_XyPad2x = 0.000
+_XyPad2y = 0.000
+_EnvAtt = 0.000
+_EnvDec = 0.000
+_EnvSust = 0.000
+_EnvRel = 0.000
+PerVol = 0.794
+_Contrl1 = 0.000
+_Contrl2 = 0.000
+_Contrl3 = 0.000
+_Contrl4 = 0.000
+_Contrl5 = 0.000
+_Contrl6 = 0.000
+_Contrl7 = 0.000
+_Contrl8 = 0.000
+_XyPad1x = 0.000
+_XyPad1y = 0.000
+_XyPad2x = 0.000
+_XyPad2y = 0.000
+_EnvAtt = 0.000
+_EnvDec = 0.000
+_EnvSust = 0.000
+_EnvRel = 0.000
+PerVol = 0.794
+_Contrl1 = 0.000
+_Contrl2 = 0.000
+_Contrl3 = 0.000
+_Contrl4 = 0.000
+_Contrl5 = 0.000
+_Contrl6 = 0.000
+_Contrl7 = 0.000
+_Contrl8 = 0.000
+_XyPad1x = 0.000
+_XyPad1y = 0.000
+_XyPad2x = 0.000
+_XyPad2y = 0.000
+_EnvAtt = 0.000
+_EnvDec = 0.000
+_EnvSust = 0.000
+_EnvRel = 0.000
+PerVol = 0.794
+_Contrl1 = 0.000
+_Contrl2 = 0.000
+_Contrl3 = 0.000
+_Contrl4 = 0.000
+_Contrl5 = 0.000
+_Contrl6 = 0.000
+_Contrl7 = 0.000
+_Contrl8 = 0.000
+_XyPad1x = 0.000
+_XyPad1y = 0.000
+_XyPad2x = 0.000
+_XyPad2y = 0.000
+_EnvAtt = 0.000
+_EnvDec = 0.000
+_EnvSust = 0.000
+_EnvRel = 0.000
+PerVol = 0.794
+RemxRate = 1.000
+Lbl1Ato = 1
+Lbl2Ato = 1
+Lbl3Ato = 1
+Lbl4Ato = 1
+Lbl5Ato = 1
+Lbl6Ato = 1
+Lbl7Ato = 1
+Lbl8Ato = 1
+Lbl9Ato = 1
+Lbl10Ato = 1
+Lbl11Ato = 1
+Lbl12Ato = 1
+Ctl1Lock = 0
+Ctl2Lock = 0
+Ctl3Lock = 0
+Ctl4Lock = 0
+Ctl5Lock = 0
+Ctl6Lock = 0
+Ctl7Lock = 0
+Ctl8Lock = 0
+Xy1xLock = 0
+Xy1yLock = 0
+Xy2xLock = 0
+Xy2yLock = 0
+AtkLock = 0
+DcyLock = 0
+SusLock = 0
+RelLock = 0
+Pad1Lbl = 1
+Pad2Lbl = 2
+Pad3Lbl = 3
+Pad4Lbl = 4
+Pad5Lbl = 5
+Pad6Lbl = 6
+Pad7Lbl = 7
+Pad8Lbl = 8
+PAhdLbl1 = Attack
+PAhdLbl2 = Decay
+PAhdLbl3 = Sustain
+PAhdLbl4 = Release
+
+<filters>
+F1On = 1
+F1Type = 0
+F1Ver = 1
+F1Fat = 0
+F1Cut = 1.0000
+F1Res = 0.0000
+F1Drive = 0.0000
+F1FxMix = 1.0000
+F2On = 0
+F2Type = 0
+F2Ver = 1
+F2Fat = 0
+F2Cut = 1.0000
+F2Res = 0.0000
+F2Drive = 0.0000
+F2FxMix = 1.0000
+FSerMix = 0.0000
+F1EfxRot = 0
+F2EfxRot = 0
+
+<master>
+PerSrcVc = 0
+PlayMode = 0
+S1PlayMd = 0
+S2PlayMd = 0
+S3PlayMd = 0
+S4PlayMd = 0
+NmVoices = 8
+S1NmVoc = 8
+S2NmVoc = 8
+S3NmVoc = 8
+S4NmVoc = 8
+NmViPho3 = 2
+NmViPho4 = 3
+NmViPad1 = 3
+NmViPad2 = 8
+Priority = 0
+S1Priori = 0
+S2Priori = 0
+S3Priori = 0
+S4Priori = 0
+PortMode = 0
+S1PortMd = 0
+S2PortMd = 0
+S3PortMd = 0
+S4PortMd = 0
+PbUp = 2
+S1PbUp = 2
+S2PbUp = 2
+S3PbUp = 2
+S4PbUp = 2
+PbDown = -2
+S1PbDown = -2
+S2PbDown = -2
+S3PbDown = -2
+S4PbDown = -2
+PbDownLk = 0
+S1PbDLk = 0
+S2PbDLk = 0
+S3PbDLk = 0
+S4PbDLk = 0
+TunFile = Alchemy/Libraries/Tuning/Basic/Default.tun
+Amp = 1.0000 0.0000 2
+  Type = 2
+  Id = 0
+  ModMap = 0
+  Depth = 1.0000
+  Type = 5
+  Id = 0
+  ModMap = 0
+  Depth = 0.7500
+Pan = 0.5000
+TuneCrs = 0.5000
+TuneFine = 0.5000
+Porto = 0.0000
+S1Porta = 0.0000
+S2Porta = 0.0000
+S3Porta = 0.0000
+S4Porta = 0.0000
+Volume = 0.6300
+
+<arp>
+ArpAmp = 1.0000 0.0000 1
+  Type = 8
+  Id = 0
+  ModMap = 0
+  Depth = 1.0000
+ArpPan = 0.5000
+ArpTCrs = 0.5000
+ArpTFine = 0.5000
+ArpSrc = 0.0000
+ArpSourc = 0
+LegArpKl = 0
+LegV1Arp = 0
+ArpRate = 0.6774
+ArpShuff = 0.0000
+ArpSustn = 0.5000
+ArpTrig = 1
+ArpQuant = 0
+ArpMode = 0.0000
+ArpOct = 0.0000
+ArpKVel = 0.5000
+ArpSplit = 1.0000
+ArpLatch = 0.0000
+ArpCur = 0.0000
+ArpSync = 1
+ArpRate = 0.6774
+ArpShuff = 0.0000
+ArpSustn = 0.5000
+ArpTrig = 1
+ArpQuant = 0
+ArpMode = 0.0000
+ArpOct = 0.0000
+ArpKVel = 0.5000
+ArpSplit = 1.0000
+ArpLatch = 0.0000
+ArpCur = 0.0000
+ArpSync = 1
+ArpRate = 0.6774
+ArpShuff = 0.0000
+ArpSustn = 0.5000
+ArpTrig = 1
+ArpQuant = 0
+ArpMode = 0.0000
+ArpOct = 0.0000
+ArpKVel = 0.5000
+ArpSplit = 1.0000
+ArpLatch = 0.0000
+ArpCur = 0.0000
+ArpSync = 1
+ArpRate = 0.6774
+ArpShuff = 0.0000
+ArpSustn = 0.5000
+ArpTrig = 1
+ArpQuant = 0
+ArpMode = 0.0000
+ArpOct = 0.0000
+ArpKVel = 0.5000
+ArpSplit = 1.0000
+ArpLatch = 0.0000
+ArpCur = 0.0000
+ArpSync = 1
+ArpRate = 0.6774
+ArpShuff = 0.0000
+ArpSustn = 0.5000
+ArpTrig = 1
+ArpQuant = 0
+ArpMode = 0.0000
+ArpOct = 0.0000
+ArpKVel = 0.5000
+ArpSplit = 1.0000
+ArpLatch = 0.0000
+ArpCur = 0.0000
+ArpSync = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+arpNumSteps = 16
+ArpDefault = 1
+
+<morph>
+MorAll = 2
+S1MorOn = 1
+S2MorOn = 1
+S3MorOn = 1
+S4MorOn = 1
+MorLock = 1
+MorLinMd = 2
+MorAllX = 0.5000
+MorAllY = 0.5000
+MorTimeX = 0.5000
+MorTimeY = 0.5000
+MorPtchX = 0.5000
+MorPtchY = 0.5000
+MorAddX = 0.5000
+MorAddY = 0.5000
+MorSpecX = 0.5000
+MorSpecY = 0.5000
+MorFiltX = 0.5000
+MorFiltY = 0.5000
+LegLogN = 0.000
+LegXfad = 0.000
+LegMorph = 0
+LegPchMr = 0
+EPXfade = 1
+
+<effects>
+Slt1On = 0
+Slt2On = 0
+Slt3On = 0
+Slt4On = 0
+Slt5On = 0
+Slt6On = 0
+Slt7On = 0
+Slt8On = 0
+Slt9On = 0
+Slt10On = 0
+Slt11On = 0
+Slt12On = 0
+Slt13On = 0
+Slt14On = 0
+Slt15On = 0
+Slt16On = 0
+Slt1On = 0
+Slt2On = 0
+Slt3On = 0
+Slt4On = 0
+Slt5On = 0
+Slt6On = 0
+Slt7On = 0
+Slt8On = 0
+Slt9On = 0
+Slt10On = 0
+Slt11On = 0
+Slt12On = 0
+Slt13On = 0
+Slt14On = 0
+Slt15On = 0
+Slt16On = 0
+Slt1On = 0
+Slt2On = 0
+Slt3On = 0
+Slt4On = 0
+Slt5On = 0
+Slt6On = 0
+Slt7On = 0
+Slt8On = 0
+Slt9On = 0
+Slt10On = 0
+Slt11On = 0
+Slt12On = 0
+Slt13On = 0
+Slt14On = 0
+Slt15On = 0
+Slt16On = 0
+Slt1On = 0
+Slt2On = 0
+Slt3On = 0
+Slt4On = 0
+Slt5On = 0
+Slt6On = 0
+Slt7On = 0
+Slt8On = 0
+Slt9On = 0
+Slt10On = 0
+Slt11On = 0
+Slt12On = 0
+Slt13On = 0
+Slt14On = 0
+Slt15On = 0
+Slt16On = 0
+Slt1On = 0
+Slt2On = 0
+Slt3On = 0
+Slt4On = 0
+Slt5On = 0
+Slt6On = 0
+Slt7On = 0
+Slt8On = 0
+Slt9On = 0
+Slt10On = 0
+Slt11On = 0
+Slt12On = 0
+Slt13On = 0
+Slt14On = 0
+Slt15On = 0
+Slt16On = 0
+NumEffects = 0
+LegacyMap1 = -1
+LegacyMap2 = -1
+LegacyMap3 = -1
+LegacyMap4 = -1
+LegacyMap5 = -1
+LegacyMap6 = -1
+LegacyMap7 = -1
+LegacyMap8 = -1
+LegacyMap9 = -1
+LegacyMap10 = -1
+LegacyMap11 = -1
+LegacyMap12 = -1
+LegacyMap13 = -1
+LegacyMap14 = -1
+LegacyMap15 = -1
+LegacyMap16 = -1
+LegacyMap17 = -1
+LegacyMap18 = -1
+LegacyMap19 = -1
+LegacyMap20 = -1
+LegacyMap21 = -1
+LegacyMap22 = -1
+EfxMastA = 1.0000
+EfxMastB = 1.0000
+EfxMastC = 1.0000
+EfxMastD = 1.0000
+
+<source>
+SOn = 1
+SKeyTrk = 1
+SMorph = 0
+SStereo = 0
+SFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/EXS24/Pleasing FM.exs
+SAdOn = 1
+SAdMode = 1
+SAdShpe = Alchemy/Libraries/WaveOsc/Basic/Sine.raw
+SAdShMd = 0
+SAdAmpS = 
+SAdPanS = 
+SAdPitS = 
+SAdE1On = 0
+SAdEfT1 = 2
+SAdE2On = 0
+SAdEfT2 = 5
+SAdE3On = 0
+SAdEfT3 = 0
+SVAOn = 0
+SVAShpe = Alchemy/Libraries/WaveOsc/Basic/Saw.raw
+SNsOn = 0
+SNsShpe = Alchemy/Libraries/WaveNoise/White.wav
+SSpOn = 0
+SSpMode = 0
+SSpKtrk = 1
+SSpAmpS = Off
+SSpE1On = 0
+SSpEfT1 = 0
+SSpE2On = 0
+SSpEfT2 = 0
+SGrOn = 0
+SGrMode = 0
+SGrWind = Alchemy/Libraries/Window/Tukey.csv
+SGrSRev = 0
+SFiPar = 0
+SF1On = 0
+SF2On = 0
+SF3On = 0
+SF1Type = 0
+SF2Type = 0
+SF3Type = 0
+SF1Ver = 1
+SF2Ver = 1
+SF3Ver = 1
+SF1Fat = 0
+SF2Fat = 0
+SF3Fat = 0
+SAmp = 0.7950
+SPan = 0.5000
+STunCrs = 0.5000
+STunFin = 0.5000
+SPos = 0.0000
+SStrtch = 0.1433
+SFilMix = 0.0000
+SAdVol = 0.7950
+SAdSym = 0.5000
+SAdPVar = 0.0000
+SAdNOsc = 0.6508
+SAdPtch = 0.5000
+SAdAmp = 0.5000
+SAdPan = 0.5000
+SAdDet = 0.500
+SAdEP1 = 1.0000
+SAdEP2 = 0.0000
+SAdEP3 = 0.5000
+SAdEP4 = 0.5000
+SAdEP5 = 0.5000
+SAdEP6 = 0.0000
+SAdEP7 = 0.0000
+SAdEP8 = 0.0000
+SAdEP9 = 0.0000
+SAdEP10 = 0.0000
+SAdEP11 = 0.0000
+SAdEP12 = 0.0000
+SVAVol = 0.7950
+SVASym = 0.5000
+SVAPhas = 1.0000
+SVAUnis = 0.5000
+SVANOsc = 0.0000
+SVASync = 0.0000
+SNsVol = 0.7950
+SNsHp = 0.0000
+SNsLp = 1.0000
+SSpVol = 0.7950
+SSpAmp = 0.5000
+SSpHp = 0.0000
+SSpLp = 1.0000
+SSpEP1 = 0.0000
+SSpEP2 = 0.0000
+SSpEP3 = 0.0000
+SSpEP4 = 0.0000
+SSpEP5 = 0.0000
+SSpEP6 = 0.0000
+SSpEP7 = 0.0000
+SSpEP8 = 0.0000
+SGrVol = 0.7950
+SGrSize = 0.5000
+SGrDens = 0.4000
+SGrRTim = 0.0300
+SGrRPan = 0.0000
+SGrTaps = 0.0000
+SGrSpac = 1.0000
+SGrStOf = 0.5000
+SSampVl = 0.7950
+SFmtASh = 0.5059
+SFmtASi = 0.7631
+SFmtASm = 0.6996
+SFmtSSh = 0.5000
+SFmtSSi = 0.5000
+SFmtSCe = 0.0000
+SFmtSSe = 0.0000
+SFmtAKT = 0.5027
+SFmtACe = 0.4734
+SFmtAOn = 0
+SFmtSOn = 0
+SFmtSS1 = Alchemy/Libraries/Formant/Vowel1 A.csv
+SFmtSS2 = Alchemy/Libraries/Formant/Vowel1 E.csv
+SFmtSS3 = Alchemy/Libraries/Formant/Vowel1 I.csv
+SFmtSS4 = Alchemy/Libraries/Formant/Vowel1 U.csv
+SIntKSw = 0.0000
+SWait = 0.0000
+SF1Cut = 1.0000
+SF1Res = 0.0000
+SF1Drv = 0.0000
+SF2Cut = 1.0000
+SF2Res = 0.0000
+SF2Drv = 0.0000
+SF3Cut = 1.0000
+SF3Res = 0.0000
+SF3Drv = 0.0000
+SPCorAm = 1.0000
+SPCorSp = 1.0000
+SPCorOn = 0
+SPCorMd = 0
+SAEfxRot = 0
+SBEfxRot = 0
+SCEfxRot = 0
+SDEfxRot = 0
+ZnNum = 61
+GpNum = 1
+GpName = Group
+GpTrig = 1
+GpFadTim = 0.000
+GpPoly = 0
+StNum = 1
+StType = 0
+StLgcOp = 0
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0000-0-QN2Z-A.aaz
+ZnKey = 36
+ZnLoKey = 36
+ZnHiKey = 36
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 700
+ZnSmpEnd = 151105
+ZnWarpMk = 4 1
+0.0000000000000000	0.1944673955440521	0.1944673955440521	3.4105215072631836	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1944673955440521	0.1944673955440521	3.4105215072631836	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0001-0-Z0UJ-A.aaz
+ZnKey = 37
+ZnLoKey = 37
+ZnHiKey = 37
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 584
+ZnSmpEnd = 150849
+ZnWarpMk = 4 1
+0.0000000000000000	0.2205899655818939	0.2205899655818939	3.4073469638824463	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2205899655818939	0.2205899655818939	3.4073469638824463	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0002-0-HQLS-A.aaz
+ZnKey = 38
+ZnLoKey = 38
+ZnHiKey = 38
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 600
+ZnSmpEnd = 151217
+ZnWarpMk = 4 1
+0.0000000000000000	0.1988211572170258	0.1988211572170258	3.4153287410736084	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1988211572170258	0.1988211572170258	3.4153287410736084	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0003-0-UE54-A.aaz
+ZnKey = 39
+ZnLoKey = 39
+ZnHiKey = 39
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 469
+ZnSmpEnd = 151117
+ZnWarpMk = 4 1
+0.0000000000000000	0.1828573644161224	0.1828573644161224	3.4160318374633789	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1828573644161224	0.1828573644161224	3.4160318374633789	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0004-0-27SI-A.aaz
+ZnKey = 40
+ZnLoKey = 40
+ZnHiKey = 40
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 544
+ZnSmpEnd = 150789
+ZnWarpMk = 4 1
+0.0000000000000000	0.1915648877620697	0.1915648877620697	3.4068934917449951	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1915648877620697	0.1915648877620697	3.4068934917449951	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0005-0-KNS0-A.aaz
+ZnKey = 41
+ZnLoKey = 41
+ZnHiKey = 41
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 490
+ZnSmpEnd = 150453
+ZnWarpMk = 4 1
+0.0000000000000000	0.1843086183071136	0.1843086183071136	3.4004988670349121	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1843086183071136	0.1843086183071136	3.4004988670349121	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0006-0-FXKR-A.aaz
+ZnKey = 42
+ZnLoKey = 42
+ZnHiKey = 42
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 370
+ZnSmpEnd = 159744
+ZnWarpMk = 4 1
+0.0000000000000000	0.2060774266719818	0.2060774266719818	3.6139001846313477	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2060774266719818	0.2060774266719818	3.6139001846313477	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0007-0-7EGZ-A.aaz
+ZnKey = 43
+ZnLoKey = 43
+ZnHiKey = 43
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 745
+ZnSmpEnd = 150832
+ZnWarpMk = 4 1
+0.0000000000000000	0.0000000000000000	3.4033107757568359	3.4033107757568359	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.0000000000000000	3.4033107757568359	3.4033107757568359	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0008-0-G3TE-A.aaz
+ZnKey = 44
+ZnLoKey = 44
+ZnHiKey = 44
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 518
+ZnSmpEnd = 160768
+ZnWarpMk = 4 1
+0.0000000000000000	0.1828573644161224	0.1828573644161224	3.6337642669677734	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1828573644161224	0.1828573644161224	3.6337642669677734	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0009-0-BBJ0-A.aaz
+ZnKey = 45
+ZnLoKey = 45
+ZnHiKey = 45
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 556
+ZnSmpEnd = 159744
+ZnWarpMk = 4 1
+0.0000000000000000	0.2336512506008148	0.2336512506008148	3.6096825599670410	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2336512506008148	0.2336512506008148	3.6096825599670410	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0010-0-5FJ6-A.aaz
+ZnKey = 46
+ZnLoKey = 46
+ZnHiKey = 46
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 513
+ZnSmpEnd = 150423
+ZnWarpMk = 4 1
+0.0000000000000000	0.1959186494350433	0.1959186494350433	3.3992969989776611	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1959186494350433	0.1959186494350433	3.3992969989776611	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0011-0-AEFF-A.aaz
+ZnKey = 47
+ZnLoKey = 47
+ZnHiKey = 47
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 615
+ZnSmpEnd = 150826
+ZnWarpMk = 4 1
+0.0000000000000000	0.2278462350368500	0.2278462350368500	3.4061224460601807	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2278462350368500	0.2278462350368500	3.4061224460601807	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0012-0-TTI3-A.aaz
+ZnKey = 48
+ZnLoKey = 48
+ZnHiKey = 48
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 408
+ZnSmpEnd = 150663
+ZnWarpMk = 4 1
+0.0000000000000000	0.2220412194728851	0.2220412194728851	3.4071202278137207	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2220412194728851	0.2220412194728851	3.4071202278137207	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0013-0-BSY9-A.aaz
+ZnKey = 49
+ZnLoKey = 49
+ZnHiKey = 49
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 576
+ZnSmpEnd = 150744
+ZnWarpMk = 4 1
+0.0000000000000000	0.1814061105251312	0.1814061105251312	3.4051473140716553	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1814061105251312	0.1814061105251312	3.4051473140716553	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0014-0-MLWM-A.aaz
+ZnKey = 50
+ZnLoKey = 50
+ZnHiKey = 50
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 371
+ZnSmpEnd = 151402
+ZnWarpMk = 4 1
+0.0000000000000000	0.2612250745296478	0.2612250745296478	3.4247164726257324	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2612250745296478	0.2612250745296478	3.4247164726257324	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0015-0-NI5R-A.aaz
+ZnKey = 51
+ZnLoKey = 51
+ZnHiKey = 51
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 635
+ZnSmpEnd = 151024
+ZnWarpMk = 4 1
+0.0000000000000000	0.2380050122737885	0.2380050122737885	3.4101586341857910	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2380050122737885	0.2380050122737885	3.4101586341857910	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0016-0-AJLI-A.aaz
+ZnKey = 52
+ZnLoKey = 52
+ZnHiKey = 52
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 388
+ZnSmpEnd = 151438
+ZnWarpMk = 4 1
+0.0000000000000000	0.1639910638332367	0.1639910638332367	3.4251472949981689	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1639910638332367	0.1639910638332367	3.4251472949981689	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0017-0-4XX9-A.aaz
+ZnKey = 53
+ZnLoKey = 53
+ZnHiKey = 53
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 731
+ZnSmpEnd = 150765
+ZnWarpMk = 4 1
+0.0000000000000000	0.2089799344539642	0.2089799344539642	3.4021089076995850	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2089799344539642	0.2089799344539642	3.4021089076995850	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0018-0-M8MR-A.aaz
+ZnKey = 54
+ZnLoKey = 54
+ZnHiKey = 54
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 581
+ZnSmpEnd = 151337
+ZnWarpMk = 4 1
+0.0000000000000000	0.1683448255062103	0.1683448255062103	3.4184806346893311	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1683448255062103	0.1683448255062103	3.4184806346893311	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0019-0-9IQN-A.aaz
+ZnKey = 55
+ZnLoKey = 55
+ZnHiKey = 55
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 494
+ZnSmpEnd = 151146
+ZnWarpMk = 4 1
+0.0000000000000000	0.2205899655818939	0.2205899655818939	3.4161224365234375	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2205899655818939	0.2205899655818939	3.4161224365234375	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0020-0-2PGO-A.aaz
+ZnKey = 56
+ZnLoKey = 56
+ZnHiKey = 56
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 649
+ZnSmpEnd = 150961
+ZnWarpMk = 4 1
+0.0000000000000000	0.2060774266719818	0.2060774266719818	3.4084126949310303	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2060774266719818	0.2060774266719818	3.4084126949310303	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0021-0-A9AG-A.aaz
+ZnKey = 57
+ZnLoKey = 57
+ZnHiKey = 57
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 559
+ZnSmpEnd = 151071
+ZnWarpMk = 4 1
+0.0000000000000000	0.2176874577999115	0.2176874577999115	3.4129478931427002	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2176874577999115	0.2176874577999115	3.4129478931427002	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0022-0-TT4B-A.aaz
+ZnKey = 58
+ZnLoKey = 58
+ZnHiKey = 58
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 814
+ZnSmpEnd = 151371
+ZnWarpMk = 4 1
+0.0000000000000000	0.2249437272548676	0.2249437272548676	3.4139683246612549	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2249437272548676	0.2249437272548676	3.4139683246612549	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0023-0-7VHD-A.aaz
+ZnKey = 59
+ZnLoKey = 59
+ZnHiKey = 59
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 626
+ZnSmpEnd = 151471
+ZnWarpMk = 4 1
+0.0000000000000000	0.2104311883449554	0.2104311883449554	3.4204988479614258	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2104311883449554	0.2104311883449554	3.4204988479614258	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0024-0-135V-A.aaz
+ZnKey = 60
+ZnLoKey = 60
+ZnHiKey = 60
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 398
+ZnSmpEnd = 150653
+ZnWarpMk = 4 1
+0.0000000000000000	0.2278462350368500	0.2278462350368500	3.4071202278137207	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2278462350368500	0.2278462350368500	3.4071202278137207	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0025-0-ZILM-A.aaz
+ZnKey = 61
+ZnLoKey = 61
+ZnHiKey = 61
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 690
+ZnSmpEnd = 150866
+ZnWarpMk = 4 1
+0.0000000000000000	0.1814061105251312	0.1814061105251312	3.4053287506103516	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1814061105251312	0.1814061105251312	3.4053287506103516	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0026-0-L0X2-A.aaz
+ZnKey = 62
+ZnLoKey = 62
+ZnHiKey = 62
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 450
+ZnSmpEnd = 151083
+ZnWarpMk = 4 1
+0.0000000000000000	0.0000000000000000	3.4156916141510010	3.4156916141510010	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.0000000000000000	3.4156916141510010	3.4156916141510010	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0027-0-V40E-A.aaz
+ZnKey = 63
+ZnLoKey = 63
+ZnHiKey = 63
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 753
+ZnSmpEnd = 151538
+ZnWarpMk = 4 1
+0.0000000000000000	0.1930161416530609	0.1930161416530609	3.4191384315490723	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1930161416530609	0.1930161416530609	3.4191384315490723	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0028-0-RF1S-A.aaz
+ZnKey = 64
+ZnLoKey = 64
+ZnHiKey = 64
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 417
+ZnSmpEnd = 151301
+ZnWarpMk = 4 1
+0.0000000000000000	0.2046261727809906	0.2046261727809906	3.4213831424713135	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2046261727809906	0.2046261727809906	3.4213831424713135	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0029-0-J7JO-A.aaz
+ZnKey = 65
+ZnLoKey = 65
+ZnHiKey = 65
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 661
+ZnSmpEnd = 150777
+ZnWarpMk = 4 1
+0.0000000000000000	0.1393197476863861	0.1393197476863861	3.4039683341979980	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1393197476863861	0.1393197476863861	3.4039683341979980	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0030-0-5FK4-A.aaz
+ZnKey = 66
+ZnLoKey = 66
+ZnHiKey = 66
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 711
+ZnSmpEnd = 150678
+ZnWarpMk = 4 1
+0.0000000000000000	0.1654423177242279	0.1654423177242279	3.4005894660949707	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1654423177242279	0.1654423177242279	3.4005894660949707	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0031-0-5023-A.aaz
+ZnKey = 67
+ZnLoKey = 67
+ZnHiKey = 67
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 570
+ZnSmpEnd = 151152
+ZnWarpMk = 4 1
+0.0000000000000000	0.2031749188899994	0.2031749188899994	3.4145350456237793	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2031749188899994	0.2031749188899994	3.4145350456237793	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0032-0-LBPN-A.aaz
+ZnKey = 68
+ZnLoKey = 68
+ZnHiKey = 68
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 555
+ZnSmpEnd = 159744
+ZnWarpMk = 4 1
+0.0000000000000000	0.1451247632503510	0.1451247632503510	3.6097052097320557	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1451247632503510	0.1451247632503510	3.6097052097320557	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0033-0-LA96-A.aaz
+ZnKey = 69
+ZnLoKey = 69
+ZnHiKey = 69
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 559
+ZnSmpEnd = 151073
+ZnWarpMk = 4 1
+0.0000000000000000	0.2162362039089203	0.2162362039089203	3.4129931926727295	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2162362039089203	0.2162362039089203	3.4129931926727295	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0034-0-W201-A.aaz
+ZnKey = 70
+ZnLoKey = 70
+ZnHiKey = 70
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 381
+ZnSmpEnd = 151030
+ZnWarpMk = 4 1
+0.0000000000000000	0.2786401212215424	0.2786401212215424	3.4160544872283936	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2786401212215424	0.2786401212215424	3.4160544872283936	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0035-0-G9KE-A.aaz
+ZnKey = 71
+ZnLoKey = 71
+ZnHiKey = 71
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 634
+ZnSmpEnd = 150934
+ZnWarpMk = 4 1
+0.0000000000000000	0.2263949811458588	0.2263949811458588	3.4081406593322754	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2263949811458588	0.2263949811458588	3.4081406593322754	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0036-0-NBWY-A.aaz
+ZnKey = 72
+ZnLoKey = 72
+ZnHiKey = 72
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 473
+ZnSmpEnd = 150709
+ZnWarpMk = 4 1
+0.0000000000000000	0.1596373021602631	0.1596373021602631	3.4066894054412842	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1596373021602631	0.1596373021602631	3.4066894054412842	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0037-0-8M6U-A.aaz
+ZnKey = 73
+ZnLoKey = 73
+ZnHiKey = 73
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 650
+ZnSmpEnd = 150467
+ZnWarpMk = 4 1
+0.0000000000000000	0.1407710015773773	0.1407710015773773	3.3971881866455078	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1407710015773773	0.1407710015773773	3.3971881866455078	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0038-0-U0X7-A.aaz
+ZnKey = 74
+ZnLoKey = 74
+ZnHiKey = 74
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 421
+ZnSmpEnd = 160256
+ZnWarpMk = 4 1
+0.0000000000000000	0.2017236649990082	0.2017236649990082	3.6243536472320557	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2017236649990082	0.2017236649990082	3.6243536472320557	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0039-0-DWRD-A.aaz
+ZnKey = 75
+ZnLoKey = 75
+ZnHiKey = 75
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 688
+ZnSmpEnd = 151231
+ZnWarpMk = 4 1
+0.0000000000000000	0.1756010949611664	0.1756010949611664	3.4136507511138916	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1756010949611664	0.1756010949611664	3.4136507511138916	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0040-0-5SI9-A.aaz
+ZnKey = 76
+ZnLoKey = 76
+ZnHiKey = 76
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 594
+ZnSmpEnd = 150567
+ZnWarpMk = 4 1
+0.0000000000000000	0.1930161416530609	0.1930161416530609	3.4007256031036377	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1930161416530609	0.1930161416530609	3.4007256031036377	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0041-0-HOT7-A.aaz
+ZnKey = 77
+ZnLoKey = 77
+ZnHiKey = 77
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 755
+ZnSmpEnd = 150729
+ZnWarpMk = 4 1
+0.0000000000000000	0.1407710015773773	0.1407710015773773	3.4007482528686523	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1407710015773773	0.1407710015773773	3.4007482528686523	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0042-0-P519-A.aaz
+ZnKey = 78
+ZnLoKey = 78
+ZnHiKey = 78
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 683
+ZnSmpEnd = 151190
+ZnWarpMk = 4 1
+0.0000000000000000	0.1915648877620697	0.1915648877620697	3.4128344058990479	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1915648877620697	0.1915648877620697	3.4128344058990479	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0043-0-9WDO-A.aaz
+ZnKey = 79
+ZnLoKey = 79
+ZnHiKey = 79
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 677
+ZnSmpEnd = 160768
+ZnWarpMk = 4 1
+0.0000000000000000	0.1915648877620697	0.1915648877620697	3.6301586627960205	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1915648877620697	0.1915648877620697	3.6301586627960205	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0044-0-WPS1-A.aaz
+ZnKey = 80
+ZnLoKey = 80
+ZnHiKey = 80
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 579
+ZnSmpEnd = 159744
+ZnWarpMk = 4 1
+0.0000000000000000	0.1799548566341400	0.1799548566341400	3.6091609001159668	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1799548566341400	0.1799548566341400	3.6091609001159668	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0045-0-EI63-A.aaz
+ZnKey = 81
+ZnLoKey = 81
+ZnHiKey = 81
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 459
+ZnSmpEnd = 150896
+ZnWarpMk = 4 1
+0.0000000000000000	0.1741498410701752	0.1741498410701752	3.4112472534179688	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1741498410701752	0.1741498410701752	3.4112472534179688	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0046-0-ZUSY-A.aaz
+ZnKey = 82
+ZnLoKey = 82
+ZnHiKey = 82
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 446
+ZnSmpEnd = 151014
+ZnWarpMk = 4 1
+0.0000000000000000	0.1944673955440521	0.1944673955440521	3.4142177104949951	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1944673955440521	0.1944673955440521	3.4142177104949951	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0047-0-94H3-A.aaz
+ZnKey = 83
+ZnLoKey = 83
+ZnHiKey = 83
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 851
+ZnSmpEnd = 151261
+ZnWarpMk = 4 1
+0.0000000000000000	0.1059410050511360	0.1059410050511360	3.4106349945068359	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1059410050511360	0.1059410050511360	3.4106349945068359	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0048-0-2YDA-A.aaz
+ZnKey = 84
+ZnLoKey = 84
+ZnHiKey = 84
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 785
+ZnSmpEnd = 151071
+ZnWarpMk = 4 1
+0.0000000000000000	0.2089799344539642	0.2089799344539642	3.4078230857849121	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2089799344539642	0.2089799344539642	3.4078230857849121	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0049-0-PAJC-A.aaz
+ZnKey = 85
+ZnLoKey = 85
+ZnHiKey = 85
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 652
+ZnSmpEnd = 151001
+ZnWarpMk = 4 1
+0.0000000000000000	0.1973699033260345	0.1973699033260345	3.4092516899108887	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1973699033260345	0.1973699033260345	3.4092516899108887	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0050-0-D3X9-A.aaz
+ZnKey = 86
+ZnLoKey = 86
+ZnHiKey = 86
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 438
+ZnSmpEnd = 160256
+ZnWarpMk = 4 1
+0.0000000000000000	0.1814061105251312	0.1814061105251312	3.6239683628082275	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1814061105251312	0.1814061105251312	3.6239683628082275	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0051-0-NYA1-A.aaz
+ZnKey = 87
+ZnLoKey = 87
+ZnHiKey = 87
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 417
+ZnSmpEnd = 150802
+ZnWarpMk = 4 1
+0.0000000000000000	0.1044897586107254	0.1044897586107254	3.4100680351257324	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1044897586107254	0.1044897586107254	3.4100680351257324	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0052-0-QCJ7-A.aaz
+ZnKey = 88
+ZnLoKey = 88
+ZnHiKey = 88
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 433
+ZnSmpEnd = 150621
+ZnWarpMk = 4 1
+0.0000000000000000	0.2409075200557709	0.2409075200557709	3.4056010246276855	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2409075200557709	0.2409075200557709	3.4056010246276855	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0053-0-TBQU-A.aaz
+ZnKey = 89
+ZnLoKey = 89
+ZnHiKey = 89
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 609
+ZnSmpEnd = 151222
+ZnWarpMk = 4 1
+0.0000000000000000	0.2612250745296478	0.2612250745296478	3.4152381420135498	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2612250745296478	0.2612250745296478	3.4152381420135498	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0054-0-CSPN-A.aaz
+ZnKey = 90
+ZnLoKey = 90
+ZnHiKey = 90
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 690
+ZnSmpEnd = 151291
+ZnWarpMk = 4 1
+0.0000000000000000	0.1364172399044037	0.1364172399044037	3.4149658679962158	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1364172399044037	0.1364172399044037	3.4149658679962158	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0055-0-TBH6-A.aaz
+ZnKey = 91
+ZnLoKey = 91
+ZnHiKey = 91
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 760
+ZnSmpEnd = 151173
+ZnWarpMk = 4 1
+0.0000000000000000	0.2046261727809906	0.2046261727809906	3.4107029438018799	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2046261727809906	0.2046261727809906	3.4107029438018799	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0056-0-3DFT-A.aaz
+ZnKey = 92
+ZnLoKey = 92
+ZnHiKey = 92
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 581
+ZnSmpEnd = 151123
+ZnWarpMk = 4 1
+0.0000000000000000	0.1959186494350433	0.1959186494350433	3.4136281013488770	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1959186494350433	0.1959186494350433	3.4136281013488770	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0057-0-PX3D-A.aaz
+ZnKey = 93
+ZnLoKey = 93
+ZnHiKey = 93
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 440
+ZnSmpEnd = 151406
+ZnWarpMk = 4 1
+0.0000000000000000	0.1814061105251312	0.1814061105251312	3.4232425689697266	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1814061105251312	0.1814061105251312	3.4232425689697266	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0058-0-JTT3-A.aaz
+ZnKey = 94
+ZnLoKey = 94
+ZnHiKey = 94
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 345
+ZnSmpEnd = 150588
+ZnWarpMk = 4 1
+0.0000000000000000	0.2234924733638763	0.2234924733638763	3.4068479537963867	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2234924733638763	0.2234924733638763	3.4068479537963867	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0059-0-XTSZ-A.aaz
+ZnKey = 95
+ZnLoKey = 95
+ZnHiKey = 95
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 537
+ZnSmpEnd = 160768
+ZnWarpMk = 4 1
+0.0000000000000000	0.1596373021602631	0.1596373021602631	3.6333334445953369	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.1596373021602631	0.1596373021602631	3.6333334445953369	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<zone>
+ZnFile = ~/Music/Audio Music Apps/Sampler Instruments/From Samples/Analog4/Elektron Analog Four/Alchemy/plsfm-afA0060-0-S672-A.aaz
+ZnKey = 96
+ZnLoKey = 96
+ZnHiKey = 96
+ZnLoVel = 1
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.000
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 0
+ZnGroup = 0
+ZnSmpOff = 710
+ZnSmpEnd = 151665
+ZnWarpMk = 4 1
+0.0000000000000000	0.2205899655818939	0.2205899655818939	3.4229931831359863	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	0.2205899655818939	0.2205899655818939	3.4229931831359863	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<source>
+SOn = 0
+SKeyTrk = 1
+SMorph = 0
+SStereo = 1
+SFile = 
+SAdOn = 0
+SAdMode = 0
+SAdShpe = Alchemy/Libraries/WaveOsc/Basic/Sine.raw
+SAdShMd = 0
+SAdAmpS = 
+SAdPanS = 
+SAdPitS = 
+SAdE1On = 1
+SAdEfT1 = 2
+SAdE2On = 0
+SAdEfT2 = 0
+SAdE3On = 0
+SAdEfT3 = 0
+SVAOn = 1
+SVAShpe = Alchemy/Libraries/WaveOsc/Basic/Saw.raw
+SNsOn = 0
+SNsShpe = Alchemy/Libraries/WaveNoise/White.wav
+SSpOn = 0
+SSpMode = 0
+SSpKtrk = 1
+SSpAmpS = Off
+SSpE1On = 0
+SSpEfT1 = 0
+SSpE2On = 0
+SSpEfT2 = 0
+SGrOn = 0
+SGrMode = 0
+SGrWind = Alchemy/Libraries/Window/Tukey.csv
+SGrSRev = 0
+SFiPar = 0
+SF1On = 0
+SF2On = 0
+SF3On = 0
+SF1Type = 0
+SF2Type = 0
+SF3Type = 0
+SF1Ver = 1
+SF2Ver = 1
+SF3Ver = 1
+SF1Fat = 0
+SF2Fat = 0
+SF3Fat = 0
+SAmp = 0.7950
+SPan = 0.5000
+STunCrs = 0.5000
+STunFin = 0.5000
+SPos = 0.0000
+SStrtch = 0.5000
+SFilMix = 0.0000
+SAdVol = 0.7950
+SAdSym = 0.5000
+SAdPVar = 0.0000
+SAdNOsc = 0.6815
+SAdPtch = 0.5000
+SAdAmp = 0.5000
+SAdPan = 0.5000
+SAdDet = 0.500
+SAdEP1 = 1.0000
+SAdEP2 = 0.0000
+SAdEP3 = 0.5000
+SAdEP4 = 0.5000
+SAdEP5 = 0.0000
+SAdEP6 = 0.0000
+SAdEP7 = 0.0000
+SAdEP8 = 0.0000
+SAdEP9 = 0.0000
+SAdEP10 = 0.0000
+SAdEP11 = 0.0000
+SAdEP12 = 0.0000
+SVAVol = 0.7950
+SVASym = 0.5000
+SVAPhas = 1.0000
+SVAUnis = 0.5000
+SVANOsc = 0.0000
+SVASync = 0.0000
+SNsVol = 0.7950
+SNsHp = 0.0000
+SNsLp = 1.0000
+SSpVol = 0.7950
+SSpAmp = 0.5000
+SSpHp = 0.0000
+SSpLp = 1.0000
+SSpEP1 = 0.0000
+SSpEP2 = 0.0000
+SSpEP3 = 0.0000
+SSpEP4 = 0.0000
+SSpEP5 = 0.0000
+SSpEP6 = 0.0000
+SSpEP7 = 0.0000
+SSpEP8 = 0.0000
+SGrVol = 0.7950
+SGrSize = 0.5000
+SGrDens = 0.4000
+SGrRTim = 0.0300
+SGrRPan = 0.0000
+SGrTaps = 0.0000
+SGrSpac = 1.0000
+SGrStOf = 0.5000
+SSampVl = 0.7950
+SFmtASh = 0.5000
+SFmtASi = 0.5000
+SFmtASm = 0.5000
+SFmtSSh = 0.5000
+SFmtSSi = 0.5000
+SFmtSCe = 0.0000
+SFmtSSe = 0.0000
+SFmtAKT = 1.0000
+SFmtACe = 0.0000
+SFmtAOn = 0
+SFmtSOn = 0
+SFmtSS1 = Alchemy/Libraries/Formant/Vowel1 A.csv
+SFmtSS2 = Alchemy/Libraries/Formant/Vowel1 E.csv
+SFmtSS3 = Alchemy/Libraries/Formant/Vowel1 I.csv
+SFmtSS4 = Alchemy/Libraries/Formant/Vowel1 U.csv
+SIntKSw = 0.0000
+SWait = 0.0000
+SF1Cut = 1.0000
+SF1Res = 0.0000
+SF1Drv = 0.0000
+SF2Cut = 1.0000
+SF2Res = 0.0000
+SF2Drv = 0.0000
+SF3Cut = 1.0000
+SF3Res = 0.0000
+SF3Drv = 0.0000
+SPCorAm = 1.0000
+SPCorSp = 1.0000
+SPCorOn = 0
+SPCorMd = 0
+SAEfxRot = 0
+SBEfxRot = 0
+SCEfxRot = 0
+SDEfxRot = 0
+ZnNum = 1
+GpNum = 1
+GpName = Group
+GpTrig = 1
+GpFadTim = 0.000
+GpPoly = 0
+StNum = 1
+StType = 0
+StLgcOp = 0
+
+<zone>
+ZnFile = 
+ZnKey = 60
+ZnLoKey = 0
+ZnHiKey = 127
+ZnLoVel = 0
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.100
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 1
+ZnGroup = 0
+ZnSmpOff = 0
+ZnSmpEnd = 0
+ZnWarpMk = 4 1
+0.0000000000000000	1.0000000000000000	1.4923076629638672	1.5000000000000000	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	1.0000000000000000	1.4923076629638672	1.5000000000000000	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<source>
+SOn = 0
+SKeyTrk = 1
+SMorph = 0
+SStereo = 1
+SFile = 
+SAdOn = 0
+SAdMode = 0
+SAdShpe = Alchemy/Libraries/WaveOsc/Basic/Sine.raw
+SAdShMd = 0
+SAdAmpS = 
+SAdPanS = 
+SAdPitS = 
+SAdE1On = 1
+SAdEfT1 = 2
+SAdE2On = 0
+SAdEfT2 = 0
+SAdE3On = 0
+SAdEfT3 = 0
+SVAOn = 1
+SVAShpe = Alchemy/Libraries/WaveOsc/Basic/Saw.raw
+SNsOn = 0
+SNsShpe = Alchemy/Libraries/WaveNoise/White.wav
+SSpOn = 0
+SSpMode = 0
+SSpKtrk = 1
+SSpAmpS = Off
+SSpE1On = 0
+SSpEfT1 = 0
+SSpE2On = 0
+SSpEfT2 = 0
+SGrOn = 0
+SGrMode = 0
+SGrWind = Alchemy/Libraries/Window/Tukey.csv
+SGrSRev = 0
+SFiPar = 0
+SF1On = 0
+SF2On = 0
+SF3On = 0
+SF1Type = 0
+SF2Type = 0
+SF3Type = 0
+SF1Ver = 1
+SF2Ver = 1
+SF3Ver = 1
+SF1Fat = 0
+SF2Fat = 0
+SF3Fat = 0
+SAmp = 0.7950
+SPan = 0.5000
+STunCrs = 0.5000
+STunFin = 0.5000
+SPos = 0.0000
+SStrtch = 0.5000
+SFilMix = 0.0000
+SAdVol = 0.7950
+SAdSym = 0.5000
+SAdPVar = 0.0000
+SAdNOsc = 0.6815
+SAdPtch = 0.5000
+SAdAmp = 0.5000
+SAdPan = 0.5000
+SAdDet = 0.500
+SAdEP1 = 1.0000
+SAdEP2 = 0.0000
+SAdEP3 = 0.5000
+SAdEP4 = 0.5000
+SAdEP5 = 0.0000
+SAdEP6 = 0.0000
+SAdEP7 = 0.0000
+SAdEP8 = 0.0000
+SAdEP9 = 0.0000
+SAdEP10 = 0.0000
+SAdEP11 = 0.0000
+SAdEP12 = 0.0000
+SVAVol = 0.7950
+SVASym = 0.5000
+SVAPhas = 1.0000
+SVAUnis = 0.5000
+SVANOsc = 0.0000
+SVASync = 0.0000
+SNsVol = 0.7950
+SNsHp = 0.0000
+SNsLp = 1.0000
+SSpVol = 0.7950
+SSpAmp = 0.5000
+SSpHp = 0.0000
+SSpLp = 1.0000
+SSpEP1 = 0.0000
+SSpEP2 = 0.0000
+SSpEP3 = 0.0000
+SSpEP4 = 0.0000
+SSpEP5 = 0.0000
+SSpEP6 = 0.0000
+SSpEP7 = 0.0000
+SSpEP8 = 0.0000
+SGrVol = 0.7950
+SGrSize = 0.5000
+SGrDens = 0.4000
+SGrRTim = 0.0300
+SGrRPan = 0.0000
+SGrTaps = 0.0000
+SGrSpac = 1.0000
+SGrStOf = 0.5000
+SSampVl = 0.7950
+SFmtASh = 0.5000
+SFmtASi = 0.5000
+SFmtASm = 0.5000
+SFmtSSh = 0.5000
+SFmtSSi = 0.5000
+SFmtSCe = 0.0000
+SFmtSSe = 0.0000
+SFmtAKT = 1.0000
+SFmtACe = 0.0000
+SFmtAOn = 0
+SFmtSOn = 0
+SFmtSS1 = Alchemy/Libraries/Formant/Vowel1 A.csv
+SFmtSS2 = Alchemy/Libraries/Formant/Vowel1 E.csv
+SFmtSS3 = Alchemy/Libraries/Formant/Vowel1 I.csv
+SFmtSS4 = Alchemy/Libraries/Formant/Vowel1 U.csv
+SIntKSw = 0.0000
+SWait = 0.0000
+SF1Cut = 1.0000
+SF1Res = 0.0000
+SF1Drv = 0.0000
+SF2Cut = 1.0000
+SF2Res = 0.0000
+SF2Drv = 0.0000
+SF3Cut = 1.0000
+SF3Res = 0.0000
+SF3Drv = 0.0000
+SPCorAm = 1.0000
+SPCorSp = 1.0000
+SPCorOn = 0
+SPCorMd = 0
+SAEfxRot = 0
+SBEfxRot = 0
+SCEfxRot = 0
+SDEfxRot = 0
+ZnNum = 1
+GpNum = 1
+GpName = Group
+GpTrig = 1
+GpFadTim = 0.000
+GpPoly = 0
+StNum = 1
+StType = 0
+StLgcOp = 0
+
+<zone>
+ZnFile = 
+ZnKey = 60
+ZnLoKey = 0
+ZnHiKey = 127
+ZnLoVel = 0
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.100
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 1
+ZnGroup = 0
+ZnSmpOff = 0
+ZnSmpEnd = 0
+ZnWarpMk = 4 1
+0.0000000000000000	1.0000000000000000	1.4923076629638672	1.5000000000000000	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	1.0000000000000000	1.4923076629638672	1.5000000000000000	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<source>
+SOn = 0
+SKeyTrk = 1
+SMorph = 0
+SStereo = 1
+SFile = 
+SAdOn = 0
+SAdMode = 0
+SAdShpe = Alchemy/Libraries/WaveOsc/Basic/Sine.raw
+SAdShMd = 0
+SAdAmpS = 
+SAdPanS = 
+SAdPitS = 
+SAdE1On = 1
+SAdEfT1 = 2
+SAdE2On = 0
+SAdEfT2 = 0
+SAdE3On = 0
+SAdEfT3 = 0
+SVAOn = 1
+SVAShpe = Alchemy/Libraries/WaveOsc/Basic/Saw.raw
+SNsOn = 0
+SNsShpe = Alchemy/Libraries/WaveNoise/White.wav
+SSpOn = 0
+SSpMode = 0
+SSpKtrk = 1
+SSpAmpS = Off
+SSpE1On = 0
+SSpEfT1 = 0
+SSpE2On = 0
+SSpEfT2 = 0
+SGrOn = 0
+SGrMode = 0
+SGrWind = Alchemy/Libraries/Window/Tukey.csv
+SGrSRev = 0
+SFiPar = 0
+SF1On = 0
+SF2On = 0
+SF3On = 0
+SF1Type = 0
+SF2Type = 0
+SF3Type = 0
+SF1Ver = 1
+SF2Ver = 1
+SF3Ver = 1
+SF1Fat = 0
+SF2Fat = 0
+SF3Fat = 0
+SAmp = 0.7950
+SPan = 0.5000
+STunCrs = 0.5000
+STunFin = 0.5000
+SPos = 0.0000
+SStrtch = 0.5000
+SFilMix = 0.0000
+SAdVol = 0.7950
+SAdSym = 0.5000
+SAdPVar = 0.0000
+SAdNOsc = 0.6815
+SAdPtch = 0.5000
+SAdAmp = 0.5000
+SAdPan = 0.5000
+SAdDet = 0.500
+SAdEP1 = 1.0000
+SAdEP2 = 0.0000
+SAdEP3 = 0.5000
+SAdEP4 = 0.5000
+SAdEP5 = 0.0000
+SAdEP6 = 0.0000
+SAdEP7 = 0.0000
+SAdEP8 = 0.0000
+SAdEP9 = 0.0000
+SAdEP10 = 0.0000
+SAdEP11 = 0.0000
+SAdEP12 = 0.0000
+SVAVol = 0.7950
+SVASym = 0.5000
+SVAPhas = 1.0000
+SVAUnis = 0.5000
+SVANOsc = 0.0000
+SVASync = 0.0000
+SNsVol = 0.7950
+SNsHp = 0.0000
+SNsLp = 1.0000
+SSpVol = 0.7950
+SSpAmp = 0.5000
+SSpHp = 0.0000
+SSpLp = 1.0000
+SSpEP1 = 0.0000
+SSpEP2 = 0.0000
+SSpEP3 = 0.0000
+SSpEP4 = 0.0000
+SSpEP5 = 0.0000
+SSpEP6 = 0.0000
+SSpEP7 = 0.0000
+SSpEP8 = 0.0000
+SGrVol = 0.7950
+SGrSize = 0.5000
+SGrDens = 0.4000
+SGrRTim = 0.0300
+SGrRPan = 0.0000
+SGrTaps = 0.0000
+SGrSpac = 1.0000
+SGrStOf = 0.5000
+SSampVl = 0.7950
+SFmtASh = 0.5000
+SFmtASi = 0.5000
+SFmtASm = 0.5000
+SFmtSSh = 0.5000
+SFmtSSi = 0.5000
+SFmtSCe = 0.0000
+SFmtSSe = 0.0000
+SFmtAKT = 1.0000
+SFmtACe = 0.0000
+SFmtAOn = 0
+SFmtSOn = 0
+SFmtSS1 = Alchemy/Libraries/Formant/Vowel1 A.csv
+SFmtSS2 = Alchemy/Libraries/Formant/Vowel1 E.csv
+SFmtSS3 = Alchemy/Libraries/Formant/Vowel1 I.csv
+SFmtSS4 = Alchemy/Libraries/Formant/Vowel1 U.csv
+SIntKSw = 0.0000
+SWait = 0.0000
+SF1Cut = 1.0000
+SF1Res = 0.0000
+SF1Drv = 0.0000
+SF2Cut = 1.0000
+SF2Res = 0.0000
+SF2Drv = 0.0000
+SF3Cut = 1.0000
+SF3Res = 0.0000
+SF3Drv = 0.0000
+SPCorAm = 1.0000
+SPCorSp = 1.0000
+SPCorOn = 0
+SPCorMd = 0
+SAEfxRot = 0
+SBEfxRot = 0
+SCEfxRot = 0
+SDEfxRot = 0
+ZnNum = 1
+GpNum = 1
+GpName = Group
+GpTrig = 1
+GpFadTim = 0.000
+GpPoly = 0
+StNum = 1
+StType = 0
+StLgcOp = 0
+
+<zone>
+ZnFile = 
+ZnKey = 60
+ZnLoKey = 0
+ZnHiKey = 127
+ZnLoVel = 0
+ZnHiVel = 127
+ZnFadeL = 0
+ZnFadeR = 0
+ZnFadeT = 0
+ZnFadeB = 0
+ZnFadMod = 1
+ZnLoopE = 2
+ZnLoopS = 1
+ZnLoopXE = 0
+ZnLoopXF = 0.100
+ZnVolume = 0.631
+ZnTunFin = 0.500
+ZnTunCrs = 0.500
+ZnPan = 0.500
+ZnLoopMd = 1
+ZnGroup = 0
+ZnSmpOff = 0
+ZnSmpEnd = 0
+ZnWarpMk = 4 1
+0.0000000000000000	1.0000000000000000	1.4923076629638672	1.5000000000000000	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+ZnSlceMk = 4 1
+0.0000000000000000	1.0000000000000000	1.4923076629638672	1.5000000000000000	
+0.0000000000000000	0.0000000000000000	0.0000000000000000	0.0000000000000000	
+
+<modulators>
+LfoNum = 1
+AhdNum = 1
+MsgNum = 1
+SeqNum = 1
+MmpNum = 1
+
+<lfo>
+LfoTrig = 0
+LfoBiPol = 1
+LfoShape = Alchemy/Libraries/WaveLfo/Basic/Sine.raw
+LfoSync = 1
+LfoRate = 0.5000
+LfoDelay = 0.0000
+LfoAttck = 0.0000
+LfoPhase = 0.0000
+LegLfoRG = 0
+LegLfRGS = 0
+
+<ahdsr>
+AhdTrig = 0
+AhdSync = 0
+AhdAttck = 0.0080
+AhdHold = 0.0000
+AhdDecay = 0.5000
+AhdSustn = 1.0000
+AhdRelse = 0.8288
+AhdAttcS = 1
+AhdDecaS = 3
+AhdRelsS = 3
+
+<mseg>
+MsgTrig = 0
+MsgSync = 0
+MsgSnap = 0
+MsgLoop = 2
+MsgLoopS = 1
+MsgLoopE = 1
+MsegEnv = 3 2
+0.00000000	1.50000000	2.00000000	
+1.00000000	1.00000000	0.00000000	
+0.50000000	0.50000000	0.50000000	
+
+<seq>
+SeqTrig = 0
+SeqQuant = 0
+SeqDur = 21
+SeqShuff = 0.0000
+SeqAttck = 0.0000
+SeqSustn = 0.5000
+SeqRelse = 0.0000
+SeqNStep = 16
+Value = 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 
+Tie =   0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     
+Length =1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 
+Swing = 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 
+
+<seq>
+SeqTrig = 1
+SeqQuant = 0
+SeqDur = 14
+SeqShuff = 0.000
+SeqAttck = 0.000
+SeqSustn = 0.500
+SeqRelse = 0.000
+SeqNStep = 7
+Value = 0.237 0.578 0.667 0.178 0.878 0.678 0.898
+Tie =   0     0     0     0     0     0     0     
+Length =1.000 1.000 1.000 1.000 1.000 1.000 1.000 
+Swing = 0.500 0.500 0.500 0.500 0.500 0.500 0.500 
+
+<modmap>
+MmpSnapX = 0
+MmpSnapY = 0
+MmpMode = 0
+MmpMap = 2 2
+0.00000000	1.00000000	
+0.00000000	1.00000000	
+0.50000000	0.50000000	
+
+<extensions>
+MidiMonoMode = 0
+MidiMonoPitchbendRange = 2
+MorAutoGain = 0
+LegacySpectralFX = 0
+LegacyCRStartEnd = 0
+S1LegacySpectralNoiseGain = 0
+S2LegacySpectralNoiseGain = 0
+S3LegacySpectralNoiseGain = 0
+S4LegacySpectralNoiseGain = 0
+LegMorphLinXF = 0
+PresetMilestone = 2
+HasMobileQualityMode = 1
+NewAddMagnetRange = 1
+MorTimeAlign = 1
+A-NsTun = 0.5000
+B-NsTun = 0.5000
+C-NsTun = 0.5000
+D-NsTun = 0.5000
+NewAdditiveEffects = 1
+NormalisedLfos = 1
+SAArpCycleReset = 1
+S1ArpCycleReset = 1
+S2ArpCycleReset = 1
+S3ArpCycleReset = 1
+S4ArpCycleReset = 1
+HasModTriggerModes = 1
+HasSteppedNoteProperties = 1
+MaxPartials = 600
+HasMidiModulators = 1
+MIDICtrlA = 1
+MIDICtrlB = 3
+MIDICtrlC = 73
+MIDICtrlD = 74
+HasSyncedLfoAttackAndDelay = 1
