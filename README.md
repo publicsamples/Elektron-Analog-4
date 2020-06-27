@@ -1,4 +1,4 @@
-# Elektron Analog Four Sample Library
+# Elektron Analog Four -
 
 A four voice analog groovebox with the classic Elektron sequencer. Bleepy bloopy madness.
 
@@ -6,6 +6,8 @@ A four voice analog groovebox with the classic Elektron sequencer. Bleepy bloopy
 -   **Formats:** EXS24, Kontakt, & SFZ
 -   **Approx Size:** 8GB
 -   **Info:** [elektron.se](https://www.elektron.se/legacy-products/)
+
+**Audio:** https://www.dropbox.com/sh/s8f3oe1b6nvoa4w/AAAMOPix7JvS1Ce69l7KEot0a?dl=0
 
 **Please note:** the audio part of this library is provided via Bittorrent. You will need to download this using the included .torrent file.
 
