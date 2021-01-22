@@ -1,76 +1,44 @@
-// this file was generated from Twisty brass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Twisty brass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=0 hikey=36 pitch_keycenter=36 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=356908 loop_end=483706 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-LKB7.aif
-<group> key=37 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=312761 loop_end=475524 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-BMO7.aif
-<group> key=38 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=333273 loop_end=399862 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-L8OD.aif
-<group> key=39 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=333503 loop_end=460758 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-9HPB.aif
-<group> key=40 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=335608 loop_end=416114 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-HMT3.aif
-<group> key=41 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=322975 loop_end=473335 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-4TNG.aif
-<group> key=42 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=316252 loop_end=477043 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-XNWM.aif
-<group> key=43 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=404059 loop_end=469971 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-7XBW.aif
-<group> key=44 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=339407 loop_end=467557 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-OSXG.aif
-<group> key=45 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=311624 loop_end=446718 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-25B3.aif
-<group> key=46 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=329847 loop_end=383924 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-UOM4.aif
-<group> key=47 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=315051 loop_end=422077 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-7D60.aif
-<group> key=48 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=321879 loop_end=384087 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-A5Y7.aif
-<group> key=49 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=362668 loop_end=409401 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-7KYT.aif
-<group> key=50 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=311311 loop_end=401310 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-AV1O.aif
-<group> key=51 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=309095 loop_end=479033 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-YUOM.aif
-<group> key=52 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=339295 loop_end=415221 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-EH37.aif
-<group> key=53 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=336011 loop_end=382504 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-ECJ2.aif
-<group> key=54 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=379404 loop_end=447991 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-NCB8.aif
-<group> key=55 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=341432 loop_end=418220 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-RGOD.aif
-<group> key=56 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=376328 loop_end=445862 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-PNF6.aif
-<group> key=57 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=353723 loop_end=411071 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-8O2T.aif
-<group> key=58 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=382670 loop_end=460435 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-9POA.aif
-<group> key=59 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=369071 loop_end=483918 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-EAPU.aif
-<group> key=60 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=385351 loop_end=460618 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-QWIM.aif
-<group> key=61 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=349541 loop_end=419323 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-R6VC.aif
-<group> key=62 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=336960 loop_end=468643 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-OT4B.aif
-<group> key=63 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=384805 loop_end=482091 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-MA3C.aif
-<group> key=64 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=341509 loop_end=384511 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-OXO5.aif
-<group> key=65 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=386589 loop_end=484063 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-RBKM.aif
-<group> key=66 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=330750 loop_end=481652 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-WJL1.aif
-<group> key=67 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=331931 loop_end=473693 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-VT7B.aif
-<group> key=68 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=361169 loop_end=475792 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-2TLP.aif
-<group> key=69 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=431474 loop_end=483365 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-LXIL.aif
-<group> key=70 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=348492 loop_end=411189 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-HIRY.aif
-<group> key=71 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=365766 loop_end=479538 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-0QJI.aif
-<group>lokey=72 hikey=124 pitch_keycenter=72 pan=-31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=417366 loop_end=476573 sample=../Audio/Twisty brass/(2014223 185831)/Twisty brass-VLOV.aif
+<control>
+default_path=../Audio/Twisty brass/(2014223 185831)/
+
+<group>        // Twisty brass
+<region> sample=Twisty brass-LKB7.aif amp_veltrack=0  key=36 lokey=0 hikey=36 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=356908 loop_end=483707
+<region> sample=Twisty brass-BMO7.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=312761 loop_end=475525
+<region> sample=Twisty brass-L8OD.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=333273 loop_end=399863
+<region> sample=Twisty brass-9HPB.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=333503 loop_end=460759
+<region> sample=Twisty brass-HMT3.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=335608 loop_end=416115
+<region> sample=Twisty brass-4TNG.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=322975 loop_end=473336
+<region> sample=Twisty brass-XNWM.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=316252 loop_end=477044
+<region> sample=Twisty brass-7XBW.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=404059 loop_end=469972
+<region> sample=Twisty brass-OSXG.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=339407 loop_end=467558
+<region> sample=Twisty brass-25B3.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=311624 loop_end=446719
+<region> sample=Twisty brass-UOM4.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=329847 loop_end=383925
+<region> sample=Twisty brass-7D60.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=315051 loop_end=422078
+<region> sample=Twisty brass-A5Y7.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=321879 loop_end=384088
+<region> sample=Twisty brass-7KYT.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=362668 loop_end=409402
+<region> sample=Twisty brass-AV1O.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=311311 loop_end=401311
+<region> sample=Twisty brass-YUOM.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=309095 loop_end=479034
+<region> sample=Twisty brass-EH37.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=339295 loop_end=415222
+<region> sample=Twisty brass-ECJ2.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=336011 loop_end=382505
+<region> sample=Twisty brass-NCB8.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=379404 loop_end=447992
+<region> sample=Twisty brass-RGOD.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=341432 loop_end=418221
+<region> sample=Twisty brass-PNF6.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=376328 loop_end=445863
+<region> sample=Twisty brass-8O2T.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=353723 loop_end=411072
+<region> sample=Twisty brass-9POA.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=382670 loop_end=460436
+<region> sample=Twisty brass-EAPU.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=369071 loop_end=483919
+<region> sample=Twisty brass-QWIM.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=385351 loop_end=460619
+<region> sample=Twisty brass-R6VC.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=349541 loop_end=419324
+<region> sample=Twisty brass-OT4B.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=336960 loop_end=468644
+<region> sample=Twisty brass-MA3C.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=384805 loop_end=482092
+<region> sample=Twisty brass-OXO5.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=341509 loop_end=384512
+<region> sample=Twisty brass-RBKM.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=386589 loop_end=484064
+<region> sample=Twisty brass-WJL1.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=330750 loop_end=481653
+<region> sample=Twisty brass-VT7B.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=331931 loop_end=473694
+<region> sample=Twisty brass-2TLP.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=361169 loop_end=475793
+<region> sample=Twisty brass-LXIL.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=431474 loop_end=483366
+<region> sample=Twisty brass-HIRY.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=348492 loop_end=411190
+<region> sample=Twisty brass-0QJI.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=365766 loop_end=479539
+<region> sample=Twisty brass-VLOV.aif amp_veltrack=0  key=72 lokey=72 hikey=124 lovel=1 hivel=127   volume=12 pan=-31 loop_mode=loop_continuous loop_start=417366 loop_end=476574

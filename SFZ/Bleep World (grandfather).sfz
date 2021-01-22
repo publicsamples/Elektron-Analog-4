@@ -1,76 +1,44 @@
-// this file was generated from Bleep World (grandfather).exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Bleep World (grandfather).exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=742 end=514688 sample=../Audio/Bleep World/Bleep World.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1017 end=516229 sample=../Audio/Bleep World/Bleep World_0001.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=828 end=515389 sample=../Audio/Bleep World/Bleep World_0002.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=874 sample=../Audio/Bleep World/Bleep World_0003.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 end=515200 sample=../Audio/Bleep World/Bleep World_0004.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=964 end=517251 sample=../Audio/Bleep World/Bleep World_0005.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=879 end=515480 sample=../Audio/Bleep World/Bleep World_0006.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=622 sample=../Audio/Bleep World/Bleep World_0007.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=892 sample=../Audio/Bleep World/Bleep World_0008.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=815 end=516224 sample=../Audio/Bleep World/Bleep World_0009.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=752 end=516224 sample=../Audio/Bleep World/Bleep World_0010.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=633 end=517248 sample=../Audio/Bleep World/Bleep World_0011.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=481 sample=../Audio/Bleep World/Bleep World_0012.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1242 end=517120 sample=../Audio/Bleep World/Bleep World_0013.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=487 end=516992 sample=../Audio/Bleep World/Bleep World_0014.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1275 sample=../Audio/Bleep World/Bleep World_0015.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 end=518528 sample=../Audio/Bleep World/Bleep World_0016.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 end=515968 sample=../Audio/Bleep World/Bleep World_0017.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=877 end=515968 sample=../Audio/Bleep World/Bleep World_0018.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=757 sample=../Audio/Bleep World/Bleep World_0019.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=639 sample=../Audio/Bleep World/Bleep World_0020.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1021 end=514950 sample=../Audio/Bleep World/Bleep World_0021.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1007 sample=../Audio/Bleep World/Bleep World_0022.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1017 end=516995 sample=../Audio/Bleep World/Bleep World_0023.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=635 sample=../Audio/Bleep World/Bleep World_0024.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=875 end=517504 sample=../Audio/Bleep World/Bleep World_0025.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1010 end=515200 sample=../Audio/Bleep World/Bleep World_0026.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1146 end=517760 sample=../Audio/Bleep World/Bleep World_0027.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1148 end=515981 sample=../Audio/Bleep World/Bleep World_0028.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1020 end=517760 sample=../Audio/Bleep World/Bleep World_0029.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1021 end=515081 sample=../Audio/Bleep World/Bleep World_0030.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1018 end=517132 sample=../Audio/Bleep World/Bleep World_0031.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1017 sample=../Audio/Bleep World/Bleep World_0032.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=894 end=517506 sample=../Audio/Bleep World/Bleep World_0033.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 end=516362 sample=../Audio/Bleep World/Bleep World_0034.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 end=517120 sample=../Audio/Bleep World/Bleep World_0035.aif
-<group>lokey=72 hikey=121 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1016 end=516224 sample=../Audio/Bleep World/Bleep World_0036.aif
+<control>
+default_path=../Audio/Bleep World/
+
+<group>        // Bleep World
+<region> sample=Bleep World.aif amp_veltrack=0  key=36 lokey=0 hikey=36 lovel=1 hivel=127   volume=12 offset=742 end=514688 loop_mode=no_loop
+<region> sample=Bleep World_0001.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=1 hivel=127   volume=12 offset=1017 end=516229 loop_mode=no_loop
+<region> sample=Bleep World_0002.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=1 hivel=127   volume=12 offset=828 end=515389 loop_mode=no_loop
+<region> sample=Bleep World_0003.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=1 hivel=127   volume=12 offset=874 loop_mode=no_loop
+<region> sample=Bleep World_0004.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=1 hivel=127   volume=12 offset=895 end=515200 loop_mode=no_loop
+<region> sample=Bleep World_0005.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=1 hivel=127   volume=12 offset=964 end=517251 loop_mode=no_loop
+<region> sample=Bleep World_0006.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=1 hivel=127   volume=12 offset=879 end=515480 loop_mode=no_loop
+<region> sample=Bleep World_0007.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=1 hivel=127   volume=12 offset=622 loop_mode=no_loop
+<region> sample=Bleep World_0008.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=1 hivel=127   volume=12 offset=892 loop_mode=no_loop
+<region> sample=Bleep World_0009.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=1 hivel=127   volume=12 offset=815 end=516224 loop_mode=no_loop
+<region> sample=Bleep World_0010.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=1 hivel=127   volume=12 offset=752 end=516224 loop_mode=no_loop
+<region> sample=Bleep World_0011.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=1 hivel=127   volume=12 offset=633 end=517248 loop_mode=no_loop
+<region> sample=Bleep World_0012.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=1 hivel=127   volume=12 offset=481 loop_mode=no_loop
+<region> sample=Bleep World_0013.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=1 hivel=127   volume=12 offset=1242 end=517120 loop_mode=no_loop
+<region> sample=Bleep World_0014.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=1 hivel=127   volume=12 offset=487 end=516992 loop_mode=no_loop
+<region> sample=Bleep World_0015.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=1 hivel=127   volume=12 offset=1275 loop_mode=no_loop
+<region> sample=Bleep World_0016.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=1 hivel=127   volume=12 offset=895 end=518528 loop_mode=no_loop
+<region> sample=Bleep World_0017.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=1 hivel=127   volume=12 offset=1151 end=515968 loop_mode=no_loop
+<region> sample=Bleep World_0018.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=1 hivel=127   volume=12 offset=877 end=515968 loop_mode=no_loop
+<region> sample=Bleep World_0019.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=1 hivel=127   volume=12 offset=757 loop_mode=no_loop
+<region> sample=Bleep World_0020.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=1 hivel=127   volume=12 offset=639 loop_mode=no_loop
+<region> sample=Bleep World_0021.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=1 hivel=127   volume=12 offset=1021 end=514950 loop_mode=no_loop
+<region> sample=Bleep World_0022.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=1 hivel=127   volume=12 offset=1007 loop_mode=no_loop
+<region> sample=Bleep World_0023.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=1 hivel=127   volume=12 offset=1017 end=516995 loop_mode=no_loop
+<region> sample=Bleep World_0024.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=1 hivel=127   volume=12 offset=635 loop_mode=no_loop
+<region> sample=Bleep World_0025.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=1 hivel=127   volume=12 offset=875 end=517504 loop_mode=no_loop
+<region> sample=Bleep World_0026.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=1 hivel=127   volume=12 offset=1010 end=515200 loop_mode=no_loop
+<region> sample=Bleep World_0027.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=1 hivel=127   volume=12 offset=1146 end=517760 loop_mode=no_loop
+<region> sample=Bleep World_0028.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=1 hivel=127   volume=12 offset=1148 end=515981 loop_mode=no_loop
+<region> sample=Bleep World_0029.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=1 hivel=127   volume=12 offset=1020 end=517760 loop_mode=no_loop
+<region> sample=Bleep World_0030.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=1 hivel=127   volume=12 offset=1021 end=515081 loop_mode=no_loop
+<region> sample=Bleep World_0031.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=1 hivel=127   volume=12 offset=1018 end=517132 loop_mode=no_loop
+<region> sample=Bleep World_0032.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=1 hivel=127   volume=12 offset=1017 loop_mode=no_loop
+<region> sample=Bleep World_0033.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=1 hivel=127   volume=12 offset=894 end=517506 loop_mode=no_loop
+<region> sample=Bleep World_0034.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=1 hivel=127   volume=12 offset=1023 end=516362 loop_mode=no_loop
+<region> sample=Bleep World_0035.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=1 hivel=127   volume=12 offset=1023 end=517120 loop_mode=no_loop
+<region> sample=Bleep World_0036.aif amp_veltrack=0  key=72 lokey=72 hikey=121 lovel=1 hivel=127   volume=12 offset=1016 end=516224 loop_mode=no_loop

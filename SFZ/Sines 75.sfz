@@ -1,76 +1,44 @@
-// this file was generated from Sines 75.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sines 75.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299863 loop_end=511684 sample=../Audio/Sines 75/(201432 0102)/Sines 75-4J9H.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150168 loop_end=361914 sample=../Audio/Sines 75/(201432 0102)/Sines 75-TKYZ.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149685 loop_end=361466 sample=../Audio/Sines 75/(201432 0102)/Sines 75-39ZY.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211839 loop_end=423880 sample=../Audio/Sines 75/(201432 0102)/Sines 75-IHDK.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149692 loop_end=361854 sample=../Audio/Sines 75/(201432 0102)/Sines 75-EO7T.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=53023 loop_end=546817 sample=../Audio/Sines 75/(201432 0102)/Sines 75-ZXY3.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150313 loop_end=361763 sample=../Audio/Sines 75/(201432 0102)/Sines 75-RBAW.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52913 loop_end=546815 sample=../Audio/Sines 75/(201432 0102)/Sines 75-R7NJ.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149207 loop_end=362325 sample=../Audio/Sines 75/(201432 0102)/Sines 75-Z9CZ.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52953 loop_end=546817 sample=../Audio/Sines 75/(201432 0102)/Sines 75-LAYZ.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273232 loop_end=484990 sample=../Audio/Sines 75/(201432 0102)/Sines 75-ERBD.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52879 loop_end=546808 sample=../Audio/Sines 75/(201432 0102)/Sines 75-QTQL.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52903 loop_end=546819 sample=../Audio/Sines 75/(201432 0102)/Sines 75-0IPM.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211682 loop_end=423374 sample=../Audio/Sines 75/(201432 0102)/Sines 75-D79L.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141304 loop_end=352911 sample=../Audio/Sines 75/(201432 0102)/Sines 75-VRY1.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=185096 loop_end=397065 sample=../Audio/Sines 75/(201432 0102)/Sines 75-MH35.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211863 loop_end=353008 sample=../Audio/Sines 75/(201432 0102)/Sines 75-ODYQ.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52882 loop_end=546813 sample=../Audio/Sines 75/(201432 0102)/Sines 75-Q4AQ.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211821 loop_end=423389 sample=../Audio/Sines 75/(201432 0102)/Sines 75-X670.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=396958 loop_end=538291 sample=../Audio/Sines 75/(201432 0102)/Sines 75-0VNR.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=70469 loop_end=282168 sample=../Audio/Sines 75/(201432 0102)/Sines 75-3EAI.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=185199 loop_end=396743 sample=../Audio/Sines 75/(201432 0102)/Sines 75-D9VT.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52822 loop_end=546801 sample=../Audio/Sines 75/(201432 0102)/Sines 75-WV3V.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=335112 loop_end=546786 sample=../Audio/Sines 75/(201432 0102)/Sines 75-4AMR.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285161 loop_end=496853 sample=../Audio/Sines 75/(201432 0102)/Sines 75-C4FX.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=185258 loop_end=397212 sample=../Audio/Sines 75/(201432 0102)/Sines 75-H2ER.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=334843 loop_end=546607 sample=../Audio/Sines 75/(201432 0102)/Sines 75-X8DU.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52867 loop_end=546803 sample=../Audio/Sines 75/(201432 0102)/Sines 75-4HLX.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248610 loop_end=460756 sample=../Audio/Sines 75/(201432 0102)/Sines 75-FMOX.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141203 loop_end=352860 sample=../Audio/Sines 75/(201432 0102)/Sines 75-1GTG.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=176120 loop_end=387798 sample=../Audio/Sines 75/(201432 0102)/Sines 75-8NKK.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=326581 loop_end=538267 sample=../Audio/Sines 75/(201432 0102)/Sines 75-3O6G.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=114654 loop_end=326436 sample=../Audio/Sines 75/(201432 0102)/Sines 75-7SBU.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=124402 loop_end=547784 sample=../Audio/Sines 75/(201432 0102)/Sines 75-I5DA.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=53203 loop_end=265093 sample=../Audio/Sines 75/(201432 0102)/Sines 75-R6NJ.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=185336 loop_end=326452 sample=../Audio/Sines 75/(201432 0102)/Sines 75-4SCX.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259137 loop_end=471064 sample=../Audio/Sines 75/(201432 0102)/Sines 75-DH40.aif
+<control>
+default_path=../Audio/Sines 75/(201432 0102)/
+
+<group>        // Sines 75
+<region> sample=Sines 75-4J9H.aif amp_veltrack=0  key=36 lokey=36 hikey=36 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=299863 loop_end=511685
+<region> sample=Sines 75-TKYZ.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=150168 loop_end=361915
+<region> sample=Sines 75-39ZY.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=149685 loop_end=361467
+<region> sample=Sines 75-IHDK.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=211839 loop_end=423881
+<region> sample=Sines 75-EO7T.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=149692 loop_end=361855
+<region> sample=Sines 75-ZXY3.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=53023 loop_end=546818
+<region> sample=Sines 75-RBAW.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=150313 loop_end=361764
+<region> sample=Sines 75-R7NJ.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=52913 loop_end=546816
+<region> sample=Sines 75-Z9CZ.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=149207 loop_end=362326
+<region> sample=Sines 75-LAYZ.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=52953 loop_end=546818
+<region> sample=Sines 75-ERBD.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=273232 loop_end=484991
+<region> sample=Sines 75-QTQL.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=52879 loop_end=546809
+<region> sample=Sines 75-0IPM.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=52903 loop_end=546820
+<region> sample=Sines 75-D79L.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=211682 loop_end=423375
+<region> sample=Sines 75-VRY1.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=141304 loop_end=352912
+<region> sample=Sines 75-MH35.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=185096 loop_end=397066
+<region> sample=Sines 75-ODYQ.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=211863 loop_end=353009
+<region> sample=Sines 75-Q4AQ.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=52882 loop_end=546814
+<region> sample=Sines 75-X670.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=211821 loop_end=423390
+<region> sample=Sines 75-0VNR.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=396958 loop_end=538292
+<region> sample=Sines 75-3EAI.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=70469 loop_end=282169
+<region> sample=Sines 75-D9VT.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=185199 loop_end=396744
+<region> sample=Sines 75-WV3V.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=52822 loop_end=546802
+<region> sample=Sines 75-4AMR.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=335112 loop_end=546787
+<region> sample=Sines 75-C4FX.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=285161 loop_end=496854
+<region> sample=Sines 75-H2ER.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=185258 loop_end=397213
+<region> sample=Sines 75-X8DU.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=334843 loop_end=546608
+<region> sample=Sines 75-4HLX.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=52867 loop_end=546804
+<region> sample=Sines 75-FMOX.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=248610 loop_end=460757
+<region> sample=Sines 75-1GTG.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=141203 loop_end=352861
+<region> sample=Sines 75-8NKK.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=176120 loop_end=387799
+<region> sample=Sines 75-3O6G.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=326581 loop_end=538268
+<region> sample=Sines 75-7SBU.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=114654 loop_end=326437
+<region> sample=Sines 75-I5DA.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=124402 loop_end=547785
+<region> sample=Sines 75-R6NJ.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=53203 loop_end=265094
+<region> sample=Sines 75-4SCX.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=185336 loop_end=326453
+<region> sample=Sines 75-DH40.aif amp_veltrack=0  key=72 lokey=72 hikey=72 lovel=1 hivel=127   loop_mode=loop_continuous loop_start=259137 loop_end=471065

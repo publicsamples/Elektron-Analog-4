@@ -1,335 +1,303 @@
-// this file was generated from Blip Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Blip Bass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=2 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=507 end=23183 sample=../Audio/Blip Bass/Blip Bass_0021.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=178 end=25371 sample=../Audio/Blip Bass/Blip Bass_0022.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=564 end=25288 sample=../Audio/Blip Bass/Blip Bass_0023.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=282 end=25663 sample=../Audio/Blip Bass/Blip Bass_0024.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=358 end=26037 sample=../Audio/Blip Bass/Blip Bass_0025.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=235 end=25608 sample=../Audio/Blip Bass/Blip Bass_0026.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=134 end=25957 sample=../Audio/Blip Bass/Blip Bass_0027.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=458 sample=../Audio/Blip Bass/Blip Bass_0028.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=314 sample=../Audio/Blip Bass/Blip Bass_0029.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=622 end=24832 sample=../Audio/Blip Bass/Blip Bass_0030.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=380 end=25840 sample=../Audio/Blip Bass/Blip Bass_0031.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=180 sample=../Audio/Blip Bass/Blip Bass_0032.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=310 sample=../Audio/Blip Bass/Blip Bass_0033.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=516 end=26337 sample=../Audio/Blip Bass/Blip Bass_0034.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=327 end=25993 sample=../Audio/Blip Bass/Blip Bass_0035.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=207 end=25472 sample=../Audio/Blip Bass/Blip Bass_0036.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=521 sample=../Audio/Blip Bass/Blip Bass_0037.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=638 sample=../Audio/Blip Bass/Blip Bass_0038.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=165 end=25373 sample=../Audio/Blip Bass/Blip Bass_0039.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=276 end=26141 sample=../Audio/Blip Bass/Blip Bass_0040.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=223 end=26160 sample=../Audio/Blip Bass/Blip Bass_0041.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=180 end=25728 sample=../Audio/Blip Bass/Blip Bass_0042.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=629 sample=../Audio/Blip Bass/Blip Bass_0043.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=353 end=25718 sample=../Audio/Blip Bass/Blip Bass_0044.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=434 end=21707 sample=../Audio/Blip Bass/Blip Bass_0045.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=304 end=25246 sample=../Audio/Blip Bass/Blip Bass_0046.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=191 end=25600 sample=../Audio/Blip Bass/Blip Bass_0047.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=621 end=26154 sample=../Audio/Blip Bass/Blip Bass_0048.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=475 end=26002 sample=../Audio/Blip Bass/Blip Bass_0049.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=283 end=25728 sample=../Audio/Blip Bass/Blip Bass_0050.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=156 end=25606 sample=../Audio/Blip Bass/Blip Bass_0051.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=290 end=25600 sample=../Audio/Blip Bass/Blip Bass_0052.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=530 end=22257 sample=../Audio/Blip Bass/Blip Bass_0053.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=194 end=25345 sample=../Audio/Blip Bass/Blip Bass_0054.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=619 end=25472 sample=../Audio/Blip Bass/Blip Bass_0055.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=606 end=25879 sample=../Audio/Blip Bass/Blip Bass_0056.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=244 end=25860 sample=../Audio/Blip Bass/Blip Bass_0057.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=333 end=25857 sample=../Audio/Blip Bass/Blip Bass_0058.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=551 end=26419 sample=../Audio/Blip Bass/Blip Bass_0059.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=509 end=25884 sample=../Audio/Blip Bass/Blip Bass_0060.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=539 end=22725 sample=../Audio/Blip Bass/Blip Bass_0061.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=285 end=25298 sample=../Audio/Blip Bass/Blip Bass_0062.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=631 end=25756 sample=../Audio/Blip Bass/Blip Bass_0063.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=267 end=26162 sample=../Audio/Blip Bass/Blip Bass_0064.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=561 end=26112 sample=../Audio/Blip Bass/Blip Bass_0065.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=306 end=25984 sample=../Audio/Blip Bass/Blip Bass_0066.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=475 sample=../Audio/Blip Bass/Blip Bass_0067.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=642 end=26205 sample=../Audio/Blip Bass/Blip Bass_0068.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=259 end=23040 sample=../Audio/Blip Bass/Blip Bass_0069.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=269 end=24897 sample=../Audio/Blip Bass/Blip Bass_0070.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=315 end=25552 sample=../Audio/Blip Bass/Blip Bass_0071.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=286 end=25838 sample=../Audio/Blip Bass/Blip Bass_0072.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=463 end=25964 sample=../Audio/Blip Bass/Blip Bass_0073.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=301 sample=../Audio/Blip Bass/Blip Bass_0074.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=544 end=25856 sample=../Audio/Blip Bass/Blip Bass_0075.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=278 end=26018 sample=../Audio/Blip Bass/Blip Bass_0076.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=257 sample=../Audio/Blip Bass/Blip Bass_0077.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=245 sample=../Audio/Blip Bass/Blip Bass_0078.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=375 sample=../Audio/Blip Bass/Blip Bass_0079.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=465 end=26418 sample=../Audio/Blip Bass/Blip Bass_0080.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=193 end=25767 sample=../Audio/Blip Bass/Blip Bass_0081.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=485 end=26083 sample=../Audio/Blip Bass/Blip Bass_0082.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=191 sample=../Audio/Blip Bass/Blip Bass_0083.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=617 end=26126 sample=../Audio/Blip Bass/Blip Bass_0084.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=301 end=21430 sample=../Audio/Blip Bass/Blip Bass_0085.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=152 end=25472 sample=../Audio/Blip Bass/Blip Bass_0086.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=366 sample=../Audio/Blip Bass/Blip Bass_0087.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=314 end=25728 sample=../Audio/Blip Bass/Blip Bass_0088.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=273 end=25868 sample=../Audio/Blip Bass/Blip Bass_0089.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=148 sample=../Audio/Blip Bass/Blip Bass_0090.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=192 end=25856 sample=../Audio/Blip Bass/Blip Bass_0091.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=374 end=25864 sample=../Audio/Blip Bass/Blip Bass_0092.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=616 end=21776 sample=../Audio/Blip Bass/Blip Bass_0093.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=159 sample=../Audio/Blip Bass/Blip Bass_0094.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=308 end=25567 sample=../Audio/Blip Bass/Blip Bass_0095.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=471 end=26145 sample=../Audio/Blip Bass/Blip Bass_0096.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=340 end=25856 sample=../Audio/Blip Bass/Blip Bass_0097.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=611 end=25984 sample=../Audio/Blip Bass/Blip Bass_0098.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=319 sample=../Audio/Blip Bass/Blip Bass_0099.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=537 end=25992 sample=../Audio/Blip Bass/Blip Bass_0100.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=487 sample=../Audio/Blip Bass/Blip Bass_0101.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=184 end=25723 sample=../Audio/Blip Bass/Blip Bass_0102.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=185 end=25600 sample=../Audio/Blip Bass/Blip Bass_0103.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=619 end=26310 sample=../Audio/Blip Bass/Blip Bass_0104.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=359 end=25906 sample=../Audio/Blip Bass/Blip Bass_0105.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=494 end=25984 sample=../Audio/Blip Bass/Blip Bass_0106.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=246 end=25800 sample=../Audio/Blip Bass/Blip Bass_0107.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=543 end=26125 sample=../Audio/Blip Bass/Blip Bass_0108.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=460 sample=../Audio/Blip Bass/Blip Bass_0109.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=550 end=24960 sample=../Audio/Blip Bass/Blip Bass_0110.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=200 end=25651 sample=../Audio/Blip Bass/Blip Bass_0111.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=159 end=25666 sample=../Audio/Blip Bass/Blip Bass_0112.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=247 sample=../Audio/Blip Bass/Blip Bass_0113.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=202 end=25728 sample=../Audio/Blip Bass/Blip Bass_0114.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=302 end=25600 sample=../Audio/Blip Bass/Blip Bass_0115.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=358 end=26061 sample=../Audio/Blip Bass/Blip Bass_0116.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=553 end=20995 sample=../Audio/Blip Bass/Blip Bass_0117.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=282 sample=../Audio/Blip Bass/Blip Bass_0118.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=189 end=25344 sample=../Audio/Blip Bass/Blip Bass_0119.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=570 sample=../Audio/Blip Bass/Blip Bass_0120.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=179 end=25856 sample=../Audio/Blip Bass/Blip Bass_0121.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=296 end=25878 sample=../Audio/Blip Bass/Blip Bass_0122.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=449 end=25924 sample=../Audio/Blip Bass/Blip Bass_0123.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=466 end=26053 sample=../Audio/Blip Bass/Blip Bass_0124.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=355 end=21059 sample=../Audio/Blip Bass/Blip Bass_0125.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=259 end=25383 sample=../Audio/Blip Bass/Blip Bass_0126.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=436 end=25915 sample=../Audio/Blip Bass/Blip Bass_0127.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=630 end=26154 sample=../Audio/Blip Bass/Blip Bass_0128.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=636 end=26170 sample=../Audio/Blip Bass/Blip Bass_0129.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=507 sample=../Audio/Blip Bass/Blip Bass_0130.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=550 sample=../Audio/Blip Bass/Blip Bass_0131.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=564 end=26033 sample=../Audio/Blip Bass/Blip Bass_0132.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=213 sample=../Audio/Blip Bass/Blip Bass_0133.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=487 end=25347 sample=../Audio/Blip Bass/Blip Bass_0134.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=440 sample=../Audio/Blip Bass/Blip Bass_0135.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=471 sample=../Audio/Blip Bass/Blip Bass_0136.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=267 sample=../Audio/Blip Bass/Blip Bass_0137.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=484 sample=../Audio/Blip Bass/Blip Bass_0138.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=378 end=25891 sample=../Audio/Blip Bass/Blip Bass_0139.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=448 end=25984 sample=../Audio/Blip Bass/Blip Bass_0140.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=451 end=22685 sample=../Audio/Blip Bass/Blip Bass_0141.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=531 sample=../Audio/Blip Bass/Blip Bass_0142.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=210 end=25863 sample=../Audio/Blip Bass/Blip Bass_0143.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=316 sample=../Audio/Blip Bass/Blip Bass_0144.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=563 end=26112 sample=../Audio/Blip Bass/Blip Bass_0145.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=640 end=26395 sample=../Audio/Blip Bass/Blip Bass_0146.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=281 end=25870 sample=../Audio/Blip Bass/Blip Bass_0147.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=613 sample=../Audio/Blip Bass/Blip Bass_0148.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=530 sample=../Audio/Blip Bass/Blip Bass_0149.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=574 end=25869 sample=../Audio/Blip Bass/Blip Bass_0150.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=445 end=26119 sample=../Audio/Blip Bass/Blip Bass_0151.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=593 end=26167 sample=../Audio/Blip Bass/Blip Bass_0152.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=322 end=25879 sample=../Audio/Blip Bass/Blip Bass_0153.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=440 end=26025 sample=../Audio/Blip Bass/Blip Bass_0154.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=276 end=25863 sample=../Audio/Blip Bass/Blip Bass_0155.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=275 end=25882 sample=../Audio/Blip Bass/Blip Bass_0156.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=500 end=22549 sample=../Audio/Blip Bass/Blip Bass_0157.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=280 end=25572 sample=../Audio/Blip Bass/Blip Bass_0158.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=254 end=25858 sample=../Audio/Blip Bass/Blip Bass_0159.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=577 sample=../Audio/Blip Bass/Blip Bass_0160.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=254 end=25801 sample=../Audio/Blip Bass/Blip Bass_0161.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=551 end=26080 sample=../Audio/Blip Bass/Blip Bass_0162.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=585 sample=../Audio/Blip Bass/Blip Bass_0163.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=628 end=26154 sample=../Audio/Blip Bass/Blip Bass_0164.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=279 end=22765 sample=../Audio/Blip Bass/Blip Bass_0165.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=530 end=25355 sample=../Audio/Blip Bass/Blip Bass_0166.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=489 end=25857 sample=../Audio/Blip Bass/Blip Bass_0167.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=189 end=25733 sample=../Audio/Blip Bass/Blip Bass_0168.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=281 sample=../Audio/Blip Bass/Blip Bass_0169.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=372 end=25856 sample=../Audio/Blip Bass/Blip Bass_0170.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=490 end=25952 sample=../Audio/Blip Bass/Blip Bass_0171.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=376 sample=../Audio/Blip Bass/Blip Bass_0172.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=537 sample=../Audio/Blip Bass/Blip Bass_0173.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=243 sample=../Audio/Blip Bass/Blip Bass_0174.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=193 end=25615 sample=../Audio/Blip Bass/Blip Bass_0175.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=138 end=25642 sample=../Audio/Blip Bass/Blip Bass_0176.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=532 end=26171 sample=../Audio/Blip Bass/Blip Bass_0177.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=580 end=25984 sample=../Audio/Blip Bass/Blip Bass_0178.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=335 end=26087 sample=../Audio/Blip Bass/Blip Bass_0179.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=180 end=25657 sample=../Audio/Blip Bass/Blip Bass_0180.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=572 end=22982 sample=../Audio/Blip Bass/Blip Bass_0181.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=320 end=25226 sample=../Audio/Blip Bass/Blip Bass_0182.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=581 end=26204 sample=../Audio/Blip Bass/Blip Bass_0183.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=346 sample=../Audio/Blip Bass/Blip Bass_0184.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=629 sample=../Audio/Blip Bass/Blip Bass_0185.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=172 sample=../Audio/Blip Bass/Blip Bass_0186.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=164 sample=../Audio/Blip Bass/Blip Bass_0187.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=184 sample=../Audio/Blip Bass/Blip Bass_0188.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=640 end=22834 sample=../Audio/Blip Bass/Blip Bass_0189.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=342 end=25344 sample=../Audio/Blip Bass/Blip Bass_0190.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=377 end=25856 sample=../Audio/Blip Bass/Blip Bass_0191.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=276 sample=../Audio/Blip Bass/Blip Bass_0192.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=364 end=25856 sample=../Audio/Blip Bass/Blip Bass_0193.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=441 end=25896 sample=../Audio/Blip Bass/Blip Bass_0194.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=596 end=26118 sample=../Audio/Blip Bass/Blip Bass_0195.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=601 end=26127 sample=../Audio/Blip Bass/Blip Bass_0196.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=626 end=21121 sample=../Audio/Blip Bass/Blip Bass_0197.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=162 end=24978 sample=../Audio/Blip Bass/Blip Bass_0198.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=623 end=26166 sample=../Audio/Blip Bass/Blip Bass_0199.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=368 end=26024 sample=../Audio/Blip Bass/Blip Bass_0200.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=306 sample=../Audio/Blip Bass/Blip Bass_0201.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=437 end=25877 sample=../Audio/Blip Bass/Blip Bass_0202.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=163 end=25765 sample=../Audio/Blip Bass/Blip Bass_0203.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=437 end=25857 sample=../Audio/Blip Bass/Blip Bass_0204.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=254 end=22677 sample=../Audio/Blip Bass/Blip Bass_0205.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=140 end=25058 sample=../Audio/Blip Bass/Blip Bass_0206.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=208 end=25621 sample=../Audio/Blip Bass/Blip Bass_0207.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=241 end=25778 sample=../Audio/Blip Bass/Blip Bass_0208.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=513 end=26125 sample=../Audio/Blip Bass/Blip Bass_0209.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=559 end=26178 sample=../Audio/Blip Bass/Blip Bass_0210.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=544 end=26050 sample=../Audio/Blip Bass/Blip Bass_0211.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=248 end=25903 sample=../Audio/Blip Bass/Blip Bass_0212.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=373 sample=../Audio/Blip Bass/Blip Bass_0213.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=634 end=25490 sample=../Audio/Blip Bass/Blip Bass_0214.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=340 end=25998 sample=../Audio/Blip Bass/Blip Bass_0215.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=317 sample=../Audio/Blip Bass/Blip Bass_0216.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=594 sample=../Audio/Blip Bass/Blip Bass_0217.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=149 end=25743 sample=../Audio/Blip Bass/Blip Bass_0218.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=490 end=26112 sample=../Audio/Blip Bass/Blip Bass_0219.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=329 end=25816 sample=../Audio/Blip Bass/Blip Bass_0220.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=636 end=22866 sample=../Audio/Blip Bass/Blip Bass_0221.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=165 sample=../Audio/Blip Bass/Blip Bass_0222.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=593 end=26051 sample=../Audio/Blip Bass/Blip Bass_0223.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=379 end=25816 sample=../Audio/Blip Bass/Blip Bass_0224.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=220 end=25728 sample=../Audio/Blip Bass/Blip Bass_0225.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=468 sample=../Audio/Blip Bass/Blip Bass_0226.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=602 sample=../Audio/Blip Bass/Blip Bass_0227.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=235 end=25886 sample=../Audio/Blip Bass/Blip Bass_0228.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=553 sample=../Audio/Blip Bass/Blip Bass_0229.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=149 end=24528 sample=../Audio/Blip Bass/Blip Bass_0230.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=368 end=25856 sample=../Audio/Blip Bass/Blip Bass_0231.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=288 end=25984 sample=../Audio/Blip Bass/Blip Bass_0232.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=329 end=26112 sample=../Audio/Blip Bass/Blip Bass_0233.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=246 sample=../Audio/Blip Bass/Blip Bass_0234.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=298 end=25912 sample=../Audio/Blip Bass/Blip Bass_0235.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=361 end=25857 sample=../Audio/Blip Bass/Blip Bass_0236.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=507 end=22589 sample=../Audio/Blip Bass/Blip Bass_0237.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=222 sample=../Audio/Blip Bass/Blip Bass_0238.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=147 end=25483 sample=../Audio/Blip Bass/Blip Bass_0239.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=529 end=26245 sample=../Audio/Blip Bass/Blip Bass_0240.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=271 sample=../Audio/Blip Bass/Blip Bass_0241.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=216 sample=../Audio/Blip Bass/Blip Bass_0242.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=217 end=25885 sample=../Audio/Blip Bass/Blip Bass_0243.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=335 end=25886 sample=../Audio/Blip Bass/Blip Bass_0244.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=467 sample=../Audio/Blip Bass/Blip Bass_0245.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=194 end=23808 sample=../Audio/Blip Bass/Blip Bass_0246.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=627 sample=../Audio/Blip Bass/Blip Bass_0247.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=217 end=25776 sample=../Audio/Blip Bass/Blip Bass_0248.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=586 end=26126 sample=../Audio/Blip Bass/Blip Bass_0249.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=297 end=25942 sample=../Audio/Blip Bass/Blip Bass_0250.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=450 end=25999 sample=../Audio/Blip Bass/Blip Bass_0251.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=283 end=25864 sample=../Audio/Blip Bass/Blip Bass_0252.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=580 end=22144 sample=../Audio/Blip Bass/Blip Bass_0253.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=255 end=25217 sample=../Audio/Blip Bass/Blip Bass_0254.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=277 sample=../Audio/Blip Bass/Blip Bass_0255.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=218 end=25743 sample=../Audio/Blip Bass/Blip Bass_0256.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=604 end=26240 sample=../Audio/Blip Bass/Blip Bass_0257.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=280 end=25959 sample=../Audio/Blip Bass/Blip Bass_0258.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=373 end=25859 sample=../Audio/Blip Bass/Blip Bass_0259.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=229 end=25803 sample=../Audio/Blip Bass/Blip Bass_0260.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=170 end=21202 sample=../Audio/Blip Bass/Blip Bass_0261.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=293 end=25317 sample=../Audio/Blip Bass/Blip Bass_0262.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=563 sample=../Audio/Blip Bass/Blip Bass_0263.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=365 sample=../Audio/Blip Bass/Blip Bass_0264.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=504 sample=../Audio/Blip Bass/Blip Bass_0265.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=330 sample=../Audio/Blip Bass/Blip Bass_0266.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=439 end=26138 sample=../Audio/Blip Bass/Blip Bass_0267.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=230 end=25893 sample=../Audio/Blip Bass/Blip Bass_0268.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=445 end=20566 sample=../Audio/Blip Bass/Blip Bass_0269.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=602 sample=../Audio/Blip Bass/Blip Bass_0270.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=585 end=25984 sample=../Audio/Blip Bass/Blip Bass_0271.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=515 sample=../Audio/Blip Bass/Blip Bass_0272.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=500 sample=../Audio/Blip Bass/Blip Bass_0273.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=171 end=25640 sample=../Audio/Blip Bass/Blip Bass_0274.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=183 end=25728 sample=../Audio/Blip Bass/Blip Bass_0275.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=513 sample=../Audio/Blip Bass/Blip Bass_0276.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=635 end=22278 sample=../Audio/Blip Bass/Blip Bass_0277.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=482 end=25134 sample=../Audio/Blip Bass/Blip Bass_0278.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=249 end=25728 sample=../Audio/Blip Bass/Blip Bass_0279.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=139 end=25856 sample=../Audio/Blip Bass/Blip Bass_0280.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=160 sample=../Audio/Blip Bass/Blip Bass_0281.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=255 end=25775 sample=../Audio/Blip Bass/Blip Bass_0282.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=552 sample=../Audio/Blip Bass/Blip Bass_0283.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=577 end=26129 sample=../Audio/Blip Bass/Blip Bass_0284.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=551 end=21632 sample=../Audio/Blip Bass/Blip Bass_0285.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=344 end=25344 sample=../Audio/Blip Bass/Blip Bass_0286.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=278 end=25856 sample=../Audio/Blip Bass/Blip Bass_0287.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=242 end=25873 sample=../Audio/Blip Bass/Blip Bass_0288.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=462 sample=../Audio/Blip Bass/Blip Bass_0289.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=507 end=25991 sample=../Audio/Blip Bass/Blip Bass_0290.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=392 end=26004 sample=../Audio/Blip Bass/Blip Bass_0291.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=220 end=25621 sample=../Audio/Blip Bass/Blip Bass_0292.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=188 end=19331 sample=../Audio/Blip Bass/Blip Bass_0293.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=266 end=25142 sample=../Audio/Blip Bass/Blip Bass_0294.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=308 end=25875 sample=../Audio/Blip Bass/Blip Bass_0295.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=484 end=26123 sample=../Audio/Blip Bass/Blip Bass_0296.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=284 end=25890 sample=../Audio/Blip Bass/Blip Bass_0297.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=555 end=26182 sample=../Audio/Blip Bass/Blip Bass_0298.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=501 end=26207 sample=../Audio/Blip Bass/Blip Bass_0299.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=204 end=25916 sample=../Audio/Blip Bass/Blip Bass_0300.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=138 end=20628 sample=../Audio/Blip Bass/Blip Bass_0301.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=623 end=25512 sample=../Audio/Blip Bass/Blip Bass_0302.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=582 end=26240 sample=../Audio/Blip Bass/Blip Bass_0303.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=174 end=25742 sample=../Audio/Blip Bass/Blip Bass_0304.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=544 end=26114 sample=../Audio/Blip Bass/Blip Bass_0305.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=521 end=26144 sample=../Audio/Blip Bass/Blip Bass_0306.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=428 end=26015 sample=../Audio/Blip Bass/Blip Bass_0307.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=458 end=26114 sample=../Audio/Blip Bass/Blip Bass_0308.aif
-<group>lokey=72 hikey=110 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=204 end=21265 sample=../Audio/Blip Bass/Blip Bass_0309.aif
-	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=542 end=25390 sample=../Audio/Blip Bass/Blip Bass_0310.aif
-	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=371 sample=../Audio/Blip Bass/Blip Bass_0311.aif
-	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=136 end=25612 sample=../Audio/Blip Bass/Blip Bass_0312.aif
-	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=241 end=25904 sample=../Audio/Blip Bass/Blip Bass_0313.aif
-	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=165 end=25761 sample=../Audio/Blip Bass/Blip Bass_0314.aif
-	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=615 sample=../Audio/Blip Bass/Blip Bass_0315.aif
-	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=344 end=25777 sample=../Audio/Blip Bass/Blip Bass_0316.aif
+<control>
+default_path=../Audio/Blip Bass/
+
+<group>        // Blip Bass
+<region> sample=Blip Bass_0021.aif amp_veltrack=0  key=36 lokey=2 hikey=36 lovel=1 hivel=16 offset=507 end=23183 loop_mode=no_loop
+<region> sample=Blip Bass_0022.aif amp_veltrack=0  key=36 lokey=2 hikey=36 lovel=17 hivel=32 offset=178 end=25371 loop_mode=no_loop
+<region> sample=Blip Bass_0023.aif amp_veltrack=0  key=36 lokey=2 hikey=36 lovel=33 hivel=48 offset=564 end=25288 loop_mode=no_loop
+<region> sample=Blip Bass_0024.aif amp_veltrack=0  key=36 lokey=2 hikey=36 lovel=49 hivel=64 offset=282 end=25663 loop_mode=no_loop
+<region> sample=Blip Bass_0025.aif amp_veltrack=0  key=36 lokey=2 hikey=36 lovel=65 hivel=79 offset=358 end=26037 loop_mode=no_loop
+<region> sample=Blip Bass_0026.aif amp_veltrack=0  key=36 lokey=2 hikey=36 lovel=80 hivel=95 offset=235 end=25608 loop_mode=no_loop
+<region> sample=Blip Bass_0027.aif amp_veltrack=0  key=36 lokey=2 hikey=36 lovel=96 hivel=111 offset=134 end=25957 loop_mode=no_loop
+<region> sample=Blip Bass_0028.aif amp_veltrack=0  key=36 lokey=2 hikey=36 lovel=112 hivel=127   offset=458 loop_mode=no_loop
+<region> sample=Blip Bass_0029.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=1 hivel=16 offset=314 loop_mode=no_loop
+<region> sample=Blip Bass_0030.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=17 hivel=32 offset=622 end=24832 loop_mode=no_loop
+<region> sample=Blip Bass_0031.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=33 hivel=48 offset=380 end=25840 loop_mode=no_loop
+<region> sample=Blip Bass_0032.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=49 hivel=64 offset=180 loop_mode=no_loop
+<region> sample=Blip Bass_0033.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=65 hivel=79 offset=310 loop_mode=no_loop
+<region> sample=Blip Bass_0034.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=80 hivel=95 offset=516 end=26337 loop_mode=no_loop
+<region> sample=Blip Bass_0035.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=96 hivel=111 offset=327 end=25993 loop_mode=no_loop
+<region> sample=Blip Bass_0036.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=112 hivel=127   offset=207 end=25472 loop_mode=no_loop
+<region> sample=Blip Bass_0037.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=1 hivel=16 offset=521 loop_mode=no_loop
+<region> sample=Blip Bass_0038.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=17 hivel=32 offset=638 loop_mode=no_loop
+<region> sample=Blip Bass_0039.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=33 hivel=48 offset=165 end=25373 loop_mode=no_loop
+<region> sample=Blip Bass_0040.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=49 hivel=64 offset=276 end=26141 loop_mode=no_loop
+<region> sample=Blip Bass_0041.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=65 hivel=79 offset=223 end=26160 loop_mode=no_loop
+<region> sample=Blip Bass_0042.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=80 hivel=95 offset=180 end=25728 loop_mode=no_loop
+<region> sample=Blip Bass_0043.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=96 hivel=111 offset=629 loop_mode=no_loop
+<region> sample=Blip Bass_0044.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=112 hivel=127   offset=353 end=25718 loop_mode=no_loop
+<region> sample=Blip Bass_0045.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=1 hivel=16 offset=434 end=21707 loop_mode=no_loop
+<region> sample=Blip Bass_0046.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=17 hivel=32 offset=304 end=25246 loop_mode=no_loop
+<region> sample=Blip Bass_0047.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=33 hivel=48 offset=191 end=25600 loop_mode=no_loop
+<region> sample=Blip Bass_0048.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=49 hivel=64 offset=621 end=26154 loop_mode=no_loop
+<region> sample=Blip Bass_0049.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=65 hivel=79 offset=475 end=26002 loop_mode=no_loop
+<region> sample=Blip Bass_0050.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=80 hivel=95 offset=283 end=25728 loop_mode=no_loop
+<region> sample=Blip Bass_0051.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=96 hivel=111 offset=156 end=25606 loop_mode=no_loop
+<region> sample=Blip Bass_0052.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=112 hivel=127   offset=290 end=25600 loop_mode=no_loop
+<region> sample=Blip Bass_0053.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=1 hivel=16 offset=530 end=22257 loop_mode=no_loop
+<region> sample=Blip Bass_0054.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=17 hivel=32 offset=194 end=25345 loop_mode=no_loop
+<region> sample=Blip Bass_0055.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=33 hivel=48 offset=619 end=25472 loop_mode=no_loop
+<region> sample=Blip Bass_0056.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=49 hivel=64 offset=606 end=25879 loop_mode=no_loop
+<region> sample=Blip Bass_0057.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=65 hivel=79 offset=244 end=25860 loop_mode=no_loop
+<region> sample=Blip Bass_0058.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=80 hivel=95 offset=333 end=25857 loop_mode=no_loop
+<region> sample=Blip Bass_0059.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=96 hivel=111 offset=551 end=26419 loop_mode=no_loop
+<region> sample=Blip Bass_0060.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=112 hivel=127   offset=509 end=25884 loop_mode=no_loop
+<region> sample=Blip Bass_0061.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=1 hivel=16 offset=539 end=22725 loop_mode=no_loop
+<region> sample=Blip Bass_0062.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=17 hivel=32 offset=285 end=25298 loop_mode=no_loop
+<region> sample=Blip Bass_0063.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=33 hivel=48 offset=631 end=25756 loop_mode=no_loop
+<region> sample=Blip Bass_0064.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=49 hivel=64 offset=267 end=26162 loop_mode=no_loop
+<region> sample=Blip Bass_0065.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=65 hivel=79 offset=561 end=26112 loop_mode=no_loop
+<region> sample=Blip Bass_0066.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=80 hivel=95 offset=306 end=25984 loop_mode=no_loop
+<region> sample=Blip Bass_0067.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=96 hivel=111 offset=475 loop_mode=no_loop
+<region> sample=Blip Bass_0068.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=112 hivel=127   offset=642 end=26205 loop_mode=no_loop
+<region> sample=Blip Bass_0069.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=1 hivel=16 offset=259 end=23040 loop_mode=no_loop
+<region> sample=Blip Bass_0070.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=17 hivel=32 offset=269 end=24897 loop_mode=no_loop
+<region> sample=Blip Bass_0071.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=33 hivel=48 offset=315 end=25552 loop_mode=no_loop
+<region> sample=Blip Bass_0072.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=49 hivel=64 offset=286 end=25838 loop_mode=no_loop
+<region> sample=Blip Bass_0073.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=65 hivel=79 offset=463 end=25964 loop_mode=no_loop
+<region> sample=Blip Bass_0074.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=80 hivel=95 offset=301 loop_mode=no_loop
+<region> sample=Blip Bass_0075.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=96 hivel=111 offset=544 end=25856 loop_mode=no_loop
+<region> sample=Blip Bass_0076.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=112 hivel=127   offset=278 end=26018 loop_mode=no_loop
+<region> sample=Blip Bass_0077.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=1 hivel=16 offset=257 loop_mode=no_loop
+<region> sample=Blip Bass_0078.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=17 hivel=32 offset=245 loop_mode=no_loop
+<region> sample=Blip Bass_0079.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=33 hivel=48 offset=375 loop_mode=no_loop
+<region> sample=Blip Bass_0080.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=49 hivel=64 offset=465 end=26418 loop_mode=no_loop
+<region> sample=Blip Bass_0081.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=65 hivel=79 offset=193 end=25767 loop_mode=no_loop
+<region> sample=Blip Bass_0082.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=80 hivel=95 offset=485 end=26083 loop_mode=no_loop
+<region> sample=Blip Bass_0083.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=96 hivel=111 offset=191 loop_mode=no_loop
+<region> sample=Blip Bass_0084.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=112 hivel=127   offset=617 end=26126 loop_mode=no_loop
+<region> sample=Blip Bass_0085.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=1 hivel=16 offset=301 end=21430 loop_mode=no_loop
+<region> sample=Blip Bass_0086.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=17 hivel=32 offset=152 end=25472 loop_mode=no_loop
+<region> sample=Blip Bass_0087.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=33 hivel=48 offset=366 loop_mode=no_loop
+<region> sample=Blip Bass_0088.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=49 hivel=64 offset=314 end=25728 loop_mode=no_loop
+<region> sample=Blip Bass_0089.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=65 hivel=79 offset=273 end=25868 loop_mode=no_loop
+<region> sample=Blip Bass_0090.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=80 hivel=95 offset=148 loop_mode=no_loop
+<region> sample=Blip Bass_0091.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=96 hivel=111 offset=192 end=25856 loop_mode=no_loop
+<region> sample=Blip Bass_0092.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=112 hivel=127   offset=374 end=25864 loop_mode=no_loop
+<region> sample=Blip Bass_0093.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=1 hivel=16 offset=616 end=21776 loop_mode=no_loop
+<region> sample=Blip Bass_0094.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=17 hivel=32 offset=159 loop_mode=no_loop
+<region> sample=Blip Bass_0095.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=33 hivel=48 offset=308 end=25567 loop_mode=no_loop
+<region> sample=Blip Bass_0096.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=49 hivel=64 offset=471 end=26145 loop_mode=no_loop
+<region> sample=Blip Bass_0097.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=65 hivel=79 offset=340 end=25856 loop_mode=no_loop
+<region> sample=Blip Bass_0098.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=80 hivel=95 offset=611 end=25984 loop_mode=no_loop
+<region> sample=Blip Bass_0099.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=96 hivel=111 offset=319 loop_mode=no_loop
+<region> sample=Blip Bass_0100.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=112 hivel=127   offset=537 end=25992 loop_mode=no_loop
+<region> sample=Blip Bass_0101.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=1 hivel=16 offset=487 loop_mode=no_loop
+<region> sample=Blip Bass_0102.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=17 hivel=32 offset=184 end=25723 loop_mode=no_loop
+<region> sample=Blip Bass_0103.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=33 hivel=48 offset=185 end=25600 loop_mode=no_loop
+<region> sample=Blip Bass_0104.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=49 hivel=64 offset=619 end=26310 loop_mode=no_loop
+<region> sample=Blip Bass_0105.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=65 hivel=79 offset=359 end=25906 loop_mode=no_loop
+<region> sample=Blip Bass_0106.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=80 hivel=95 offset=494 end=25984 loop_mode=no_loop
+<region> sample=Blip Bass_0107.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=96 hivel=111 offset=246 end=25800 loop_mode=no_loop
+<region> sample=Blip Bass_0108.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=112 hivel=127   offset=543 end=26125 loop_mode=no_loop
+<region> sample=Blip Bass_0109.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=1 hivel=16 offset=460 loop_mode=no_loop
+<region> sample=Blip Bass_0110.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=17 hivel=32 offset=550 end=24960 loop_mode=no_loop
+<region> sample=Blip Bass_0111.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=33 hivel=48 offset=200 end=25651 loop_mode=no_loop
+<region> sample=Blip Bass_0112.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=49 hivel=64 offset=159 end=25666 loop_mode=no_loop
+<region> sample=Blip Bass_0113.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=65 hivel=79 offset=247 loop_mode=no_loop
+<region> sample=Blip Bass_0114.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=80 hivel=95 offset=202 end=25728 loop_mode=no_loop
+<region> sample=Blip Bass_0115.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=96 hivel=111 offset=302 end=25600 loop_mode=no_loop
+<region> sample=Blip Bass_0116.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=112 hivel=127   offset=358 end=26061 loop_mode=no_loop
+<region> sample=Blip Bass_0117.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=1 hivel=16 offset=553 end=20995 loop_mode=no_loop
+<region> sample=Blip Bass_0118.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=17 hivel=32 offset=282 loop_mode=no_loop
+<region> sample=Blip Bass_0119.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=33 hivel=48 offset=189 end=25344 loop_mode=no_loop
+<region> sample=Blip Bass_0120.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=49 hivel=64 offset=570 loop_mode=no_loop
+<region> sample=Blip Bass_0121.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=65 hivel=79 offset=179 end=25856 loop_mode=no_loop
+<region> sample=Blip Bass_0122.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=80 hivel=95 offset=296 end=25878 loop_mode=no_loop
+<region> sample=Blip Bass_0123.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=96 hivel=111 offset=449 end=25924 loop_mode=no_loop
+<region> sample=Blip Bass_0124.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=112 hivel=127   offset=466 end=26053 loop_mode=no_loop
+<region> sample=Blip Bass_0125.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=1 hivel=16 offset=355 end=21059 loop_mode=no_loop
+<region> sample=Blip Bass_0126.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=17 hivel=32 offset=259 end=25383 loop_mode=no_loop
+<region> sample=Blip Bass_0127.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=33 hivel=48 offset=436 end=25915 loop_mode=no_loop
+<region> sample=Blip Bass_0128.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=49 hivel=64 offset=630 end=26154 loop_mode=no_loop
+<region> sample=Blip Bass_0129.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=65 hivel=79 offset=636 end=26170 loop_mode=no_loop
+<region> sample=Blip Bass_0130.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=80 hivel=95 offset=507 loop_mode=no_loop
+<region> sample=Blip Bass_0131.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=96 hivel=111 offset=550 loop_mode=no_loop
+<region> sample=Blip Bass_0132.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=112 hivel=127   offset=564 end=26033 loop_mode=no_loop
+<region> sample=Blip Bass_0133.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=1 hivel=16 offset=213 loop_mode=no_loop
+<region> sample=Blip Bass_0134.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=17 hivel=32 offset=487 end=25347 loop_mode=no_loop
+<region> sample=Blip Bass_0135.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=33 hivel=48 offset=440 loop_mode=no_loop
+<region> sample=Blip Bass_0136.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=49 hivel=64 offset=471 loop_mode=no_loop
+<region> sample=Blip Bass_0137.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=65 hivel=79 offset=267 loop_mode=no_loop
+<region> sample=Blip Bass_0138.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=80 hivel=95 offset=484 loop_mode=no_loop
+<region> sample=Blip Bass_0139.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=96 hivel=111 offset=378 end=25891 loop_mode=no_loop
+<region> sample=Blip Bass_0140.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=112 hivel=127   offset=448 end=25984 loop_mode=no_loop
+<region> sample=Blip Bass_0141.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=1 hivel=16 offset=451 end=22685 loop_mode=no_loop
+<region> sample=Blip Bass_0142.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=17 hivel=32 offset=531 loop_mode=no_loop
+<region> sample=Blip Bass_0143.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=33 hivel=48 offset=210 end=25863 loop_mode=no_loop
+<region> sample=Blip Bass_0144.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=49 hivel=64 offset=316 loop_mode=no_loop
+<region> sample=Blip Bass_0145.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=65 hivel=79 offset=563 end=26112 loop_mode=no_loop
+<region> sample=Blip Bass_0146.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=80 hivel=95 offset=640 end=26395 loop_mode=no_loop
+<region> sample=Blip Bass_0147.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=96 hivel=111 offset=281 end=25870 loop_mode=no_loop
+<region> sample=Blip Bass_0148.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=112 hivel=127   offset=613 loop_mode=no_loop
+<region> sample=Blip Bass_0149.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=1 hivel=16 offset=530 loop_mode=no_loop
+<region> sample=Blip Bass_0150.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=17 hivel=32 offset=574 end=25869 loop_mode=no_loop
+<region> sample=Blip Bass_0151.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=33 hivel=48 offset=445 end=26119 loop_mode=no_loop
+<region> sample=Blip Bass_0152.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=49 hivel=64 offset=593 end=26167 loop_mode=no_loop
+<region> sample=Blip Bass_0153.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=65 hivel=79 offset=322 end=25879 loop_mode=no_loop
+<region> sample=Blip Bass_0154.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=80 hivel=95 offset=440 end=26025 loop_mode=no_loop
+<region> sample=Blip Bass_0155.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=96 hivel=111 offset=276 end=25863 loop_mode=no_loop
+<region> sample=Blip Bass_0156.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=112 hivel=127   offset=275 end=25882 loop_mode=no_loop
+<region> sample=Blip Bass_0157.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=1 hivel=16 offset=500 end=22549 loop_mode=no_loop
+<region> sample=Blip Bass_0158.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=17 hivel=32 offset=280 end=25572 loop_mode=no_loop
+<region> sample=Blip Bass_0159.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=33 hivel=48 offset=254 end=25858 loop_mode=no_loop
+<region> sample=Blip Bass_0160.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=49 hivel=64 offset=577 loop_mode=no_loop
+<region> sample=Blip Bass_0161.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=65 hivel=79 offset=254 end=25801 loop_mode=no_loop
+<region> sample=Blip Bass_0162.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=80 hivel=95 offset=551 end=26080 loop_mode=no_loop
+<region> sample=Blip Bass_0163.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=96 hivel=111 offset=585 loop_mode=no_loop
+<region> sample=Blip Bass_0164.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=112 hivel=127   offset=628 end=26154 loop_mode=no_loop
+<region> sample=Blip Bass_0165.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=1 hivel=16 offset=279 end=22765 loop_mode=no_loop
+<region> sample=Blip Bass_0166.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=17 hivel=32 offset=530 end=25355 loop_mode=no_loop
+<region> sample=Blip Bass_0167.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=33 hivel=48 offset=489 end=25857 loop_mode=no_loop
+<region> sample=Blip Bass_0168.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=49 hivel=64 offset=189 end=25733 loop_mode=no_loop
+<region> sample=Blip Bass_0169.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=65 hivel=79 offset=281 loop_mode=no_loop
+<region> sample=Blip Bass_0170.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=80 hivel=95 offset=372 end=25856 loop_mode=no_loop
+<region> sample=Blip Bass_0171.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=96 hivel=111 offset=490 end=25952 loop_mode=no_loop
+<region> sample=Blip Bass_0172.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=112 hivel=127   offset=376 loop_mode=no_loop
+<region> sample=Blip Bass_0173.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=1 hivel=16 offset=537 loop_mode=no_loop
+<region> sample=Blip Bass_0174.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=17 hivel=32 offset=243 loop_mode=no_loop
+<region> sample=Blip Bass_0175.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=33 hivel=48 offset=193 end=25615 loop_mode=no_loop
+<region> sample=Blip Bass_0176.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=49 hivel=64 offset=138 end=25642 loop_mode=no_loop
+<region> sample=Blip Bass_0177.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=65 hivel=79 offset=532 end=26171 loop_mode=no_loop
+<region> sample=Blip Bass_0178.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=80 hivel=95 offset=580 end=25984 loop_mode=no_loop
+<region> sample=Blip Bass_0179.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=96 hivel=111 offset=335 end=26087 loop_mode=no_loop
+<region> sample=Blip Bass_0180.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=112 hivel=127   offset=180 end=25657 loop_mode=no_loop
+<region> sample=Blip Bass_0181.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=1 hivel=16 offset=572 end=22982 loop_mode=no_loop
+<region> sample=Blip Bass_0182.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=17 hivel=32 offset=320 end=25226 loop_mode=no_loop
+<region> sample=Blip Bass_0183.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=33 hivel=48 offset=581 end=26204 loop_mode=no_loop
+<region> sample=Blip Bass_0184.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=49 hivel=64 offset=346 loop_mode=no_loop
+<region> sample=Blip Bass_0185.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=65 hivel=79 offset=629 loop_mode=no_loop
+<region> sample=Blip Bass_0186.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=80 hivel=95 offset=172 loop_mode=no_loop
+<region> sample=Blip Bass_0187.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=96 hivel=111 offset=164 loop_mode=no_loop
+<region> sample=Blip Bass_0188.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=112 hivel=127   offset=184 loop_mode=no_loop
+<region> sample=Blip Bass_0189.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=1 hivel=16 offset=640 end=22834 loop_mode=no_loop
+<region> sample=Blip Bass_0190.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=17 hivel=32 offset=342 end=25344 loop_mode=no_loop
+<region> sample=Blip Bass_0191.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=33 hivel=48 offset=377 end=25856 loop_mode=no_loop
+<region> sample=Blip Bass_0192.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=49 hivel=64 offset=276 loop_mode=no_loop
+<region> sample=Blip Bass_0193.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=65 hivel=79 offset=364 end=25856 loop_mode=no_loop
+<region> sample=Blip Bass_0194.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=80 hivel=95 offset=441 end=25896 loop_mode=no_loop
+<region> sample=Blip Bass_0195.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=96 hivel=111 offset=596 end=26118 loop_mode=no_loop
+<region> sample=Blip Bass_0196.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=112 hivel=127   offset=601 end=26127 loop_mode=no_loop
+<region> sample=Blip Bass_0197.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=1 hivel=16 offset=626 end=21121 loop_mode=no_loop
+<region> sample=Blip Bass_0198.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=17 hivel=32 offset=162 end=24978 loop_mode=no_loop
+<region> sample=Blip Bass_0199.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=33 hivel=48 offset=623 end=26166 loop_mode=no_loop
+<region> sample=Blip Bass_0200.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=49 hivel=64 offset=368 end=26024 loop_mode=no_loop
+<region> sample=Blip Bass_0201.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=65 hivel=79 offset=306 loop_mode=no_loop
+<region> sample=Blip Bass_0202.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=80 hivel=95 offset=437 end=25877 loop_mode=no_loop
+<region> sample=Blip Bass_0203.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=96 hivel=111 offset=163 end=25765 loop_mode=no_loop
+<region> sample=Blip Bass_0204.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=112 hivel=127   offset=437 end=25857 loop_mode=no_loop
+<region> sample=Blip Bass_0205.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=1 hivel=16 offset=254 end=22677 loop_mode=no_loop
+<region> sample=Blip Bass_0206.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=17 hivel=32 offset=140 end=25058 loop_mode=no_loop
+<region> sample=Blip Bass_0207.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=33 hivel=48 offset=208 end=25621 loop_mode=no_loop
+<region> sample=Blip Bass_0208.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=49 hivel=64 offset=241 end=25778 loop_mode=no_loop
+<region> sample=Blip Bass_0209.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=65 hivel=79 offset=513 end=26125 loop_mode=no_loop
+<region> sample=Blip Bass_0210.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=80 hivel=95 offset=559 end=26178 loop_mode=no_loop
+<region> sample=Blip Bass_0211.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=96 hivel=111 offset=544 end=26050 loop_mode=no_loop
+<region> sample=Blip Bass_0212.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=112 hivel=127   offset=248 end=25903 loop_mode=no_loop
+<region> sample=Blip Bass_0213.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=1 hivel=16 offset=373 loop_mode=no_loop
+<region> sample=Blip Bass_0214.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=17 hivel=32 offset=634 end=25490 loop_mode=no_loop
+<region> sample=Blip Bass_0215.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=33 hivel=48 offset=340 end=25998 loop_mode=no_loop
+<region> sample=Blip Bass_0216.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=49 hivel=64 offset=317 loop_mode=no_loop
+<region> sample=Blip Bass_0217.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=65 hivel=79 offset=594 loop_mode=no_loop
+<region> sample=Blip Bass_0218.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=80 hivel=95 offset=149 end=25743 loop_mode=no_loop
+<region> sample=Blip Bass_0219.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=96 hivel=111 offset=490 end=26112 loop_mode=no_loop
+<region> sample=Blip Bass_0220.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=112 hivel=127   offset=329 end=25816 loop_mode=no_loop
+<region> sample=Blip Bass_0221.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=1 hivel=16 offset=636 end=22866 loop_mode=no_loop
+<region> sample=Blip Bass_0222.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=17 hivel=32 offset=165 loop_mode=no_loop
+<region> sample=Blip Bass_0223.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=33 hivel=48 offset=593 end=26051 loop_mode=no_loop
+<region> sample=Blip Bass_0224.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=49 hivel=64 offset=379 end=25816 loop_mode=no_loop
+<region> sample=Blip Bass_0225.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=65 hivel=79 offset=220 end=25728 loop_mode=no_loop
+<region> sample=Blip Bass_0226.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=80 hivel=95 offset=468 loop_mode=no_loop
+<region> sample=Blip Bass_0227.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=96 hivel=111 offset=602 loop_mode=no_loop
+<region> sample=Blip Bass_0228.aif amp_veltrack=0  key=61 lokey=61 hikey=61 lovel=112 hivel=127   offset=235 end=25886 loop_mode=no_loop
+<region> sample=Blip Bass_0229.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=1 hivel=16 offset=553 loop_mode=no_loop
+<region> sample=Blip Bass_0230.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=17 hivel=32 offset=149 end=24528 loop_mode=no_loop
+<region> sample=Blip Bass_0231.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=33 hivel=48 offset=368 end=25856 loop_mode=no_loop
+<region> sample=Blip Bass_0232.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=49 hivel=64 offset=288 end=25984 loop_mode=no_loop
+<region> sample=Blip Bass_0233.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=65 hivel=79 offset=329 end=26112 loop_mode=no_loop
+<region> sample=Blip Bass_0234.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=80 hivel=95 offset=246 loop_mode=no_loop
+<region> sample=Blip Bass_0235.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=96 hivel=111 offset=298 end=25912 loop_mode=no_loop
+<region> sample=Blip Bass_0236.aif amp_veltrack=0  key=62 lokey=62 hikey=62 lovel=112 hivel=127   offset=361 end=25857 loop_mode=no_loop
+<region> sample=Blip Bass_0237.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=1 hivel=16 offset=507 end=22589 loop_mode=no_loop
+<region> sample=Blip Bass_0238.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=17 hivel=32 offset=222 loop_mode=no_loop
+<region> sample=Blip Bass_0239.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=33 hivel=48 offset=147 end=25483 loop_mode=no_loop
+<region> sample=Blip Bass_0240.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=49 hivel=64 offset=529 end=26245 loop_mode=no_loop
+<region> sample=Blip Bass_0241.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=65 hivel=79 offset=271 loop_mode=no_loop
+<region> sample=Blip Bass_0242.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=80 hivel=95 offset=216 loop_mode=no_loop
+<region> sample=Blip Bass_0243.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=96 hivel=111 offset=217 end=25885 loop_mode=no_loop
+<region> sample=Blip Bass_0244.aif amp_veltrack=0  key=63 lokey=63 hikey=63 lovel=112 hivel=127   offset=335 end=25886 loop_mode=no_loop
+<region> sample=Blip Bass_0245.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=1 hivel=16 offset=467 loop_mode=no_loop
+<region> sample=Blip Bass_0246.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=17 hivel=32 offset=194 end=23808 loop_mode=no_loop
+<region> sample=Blip Bass_0247.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=33 hivel=48 offset=627 loop_mode=no_loop
+<region> sample=Blip Bass_0248.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=49 hivel=64 offset=217 end=25776 loop_mode=no_loop
+<region> sample=Blip Bass_0249.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=65 hivel=79 offset=586 end=26126 loop_mode=no_loop
+<region> sample=Blip Bass_0250.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=80 hivel=95 offset=297 end=25942 loop_mode=no_loop
+<region> sample=Blip Bass_0251.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=96 hivel=111 offset=450 end=25999 loop_mode=no_loop
+<region> sample=Blip Bass_0252.aif amp_veltrack=0  key=64 lokey=64 hikey=64 lovel=112 hivel=127   offset=283 end=25864 loop_mode=no_loop
+<region> sample=Blip Bass_0253.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=1 hivel=16 offset=580 end=22144 loop_mode=no_loop
+<region> sample=Blip Bass_0254.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=17 hivel=32 offset=255 end=25217 loop_mode=no_loop
+<region> sample=Blip Bass_0255.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=33 hivel=48 offset=277 loop_mode=no_loop
+<region> sample=Blip Bass_0256.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=49 hivel=64 offset=218 end=25743 loop_mode=no_loop
+<region> sample=Blip Bass_0257.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=65 hivel=79 offset=604 end=26240 loop_mode=no_loop
+<region> sample=Blip Bass_0258.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=80 hivel=95 offset=280 end=25959 loop_mode=no_loop
+<region> sample=Blip Bass_0259.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=96 hivel=111 offset=373 end=25859 loop_mode=no_loop
+<region> sample=Blip Bass_0260.aif amp_veltrack=0  key=65 lokey=65 hikey=65 lovel=112 hivel=127   offset=229 end=25803 loop_mode=no_loop
+<region> sample=Blip Bass_0261.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=1 hivel=16 offset=170 end=21202 loop_mode=no_loop
+<region> sample=Blip Bass_0262.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=17 hivel=32 offset=293 end=25317 loop_mode=no_loop
+<region> sample=Blip Bass_0263.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=33 hivel=48 offset=563 loop_mode=no_loop
+<region> sample=Blip Bass_0264.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=49 hivel=64 offset=365 loop_mode=no_loop
+<region> sample=Blip Bass_0265.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=65 hivel=79 offset=504 loop_mode=no_loop
+<region> sample=Blip Bass_0266.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=80 hivel=95 offset=330 loop_mode=no_loop
+<region> sample=Blip Bass_0267.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=96 hivel=111 offset=439 end=26138 loop_mode=no_loop
+<region> sample=Blip Bass_0268.aif amp_veltrack=0  key=66 lokey=66 hikey=66 lovel=112 hivel=127   offset=230 end=25893 loop_mode=no_loop
+<region> sample=Blip Bass_0269.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=1 hivel=16 offset=445 end=20566 loop_mode=no_loop
+<region> sample=Blip Bass_0270.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=17 hivel=32 offset=602 loop_mode=no_loop
+<region> sample=Blip Bass_0271.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=33 hivel=48 offset=585 end=25984 loop_mode=no_loop
+<region> sample=Blip Bass_0272.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=49 hivel=64 offset=515 loop_mode=no_loop
+<region> sample=Blip Bass_0273.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=65 hivel=79 offset=500 loop_mode=no_loop
+<region> sample=Blip Bass_0274.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=80 hivel=95 offset=171 end=25640 loop_mode=no_loop
+<region> sample=Blip Bass_0275.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=96 hivel=111 offset=183 end=25728 loop_mode=no_loop
+<region> sample=Blip Bass_0276.aif amp_veltrack=0  key=67 lokey=67 hikey=67 lovel=112 hivel=127   offset=513 loop_mode=no_loop
+<region> sample=Blip Bass_0277.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=1 hivel=16 offset=635 end=22278 loop_mode=no_loop
+<region> sample=Blip Bass_0278.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=17 hivel=32 offset=482 end=25134 loop_mode=no_loop
+<region> sample=Blip Bass_0279.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=33 hivel=48 offset=249 end=25728 loop_mode=no_loop
+<region> sample=Blip Bass_0280.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=49 hivel=64 offset=139 end=25856 loop_mode=no_loop
+<region> sample=Blip Bass_0281.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=65 hivel=79 offset=160 loop_mode=no_loop
+<region> sample=Blip Bass_0282.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=80 hivel=95 offset=255 end=25775 loop_mode=no_loop
+<region> sample=Blip Bass_0283.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=96 hivel=111 offset=552 loop_mode=no_loop
+<region> sample=Blip Bass_0284.aif amp_veltrack=0  key=68 lokey=68 hikey=68 lovel=112 hivel=127   offset=577 end=26129 loop_mode=no_loop
+<region> sample=Blip Bass_0285.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=1 hivel=16 offset=551 end=21632 loop_mode=no_loop
+<region> sample=Blip Bass_0286.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=17 hivel=32 offset=344 end=25344 loop_mode=no_loop
+<region> sample=Blip Bass_0287.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=33 hivel=48 offset=278 end=25856 loop_mode=no_loop
+<region> sample=Blip Bass_0288.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=49 hivel=64 offset=242 end=25873 loop_mode=no_loop
+<region> sample=Blip Bass_0289.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=65 hivel=79 offset=462 loop_mode=no_loop
+<region> sample=Blip Bass_0290.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=80 hivel=95 offset=507 end=25991 loop_mode=no_loop
+<region> sample=Blip Bass_0291.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=96 hivel=111 offset=392 end=26004 loop_mode=no_loop
+<region> sample=Blip Bass_0292.aif amp_veltrack=0  key=69 lokey=69 hikey=69 lovel=112 hivel=127   offset=220 end=25621 loop_mode=no_loop
+<region> sample=Blip Bass_0293.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=1 hivel=16 offset=188 end=19331 loop_mode=no_loop
+<region> sample=Blip Bass_0294.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=17 hivel=32 offset=266 end=25142 loop_mode=no_loop
+<region> sample=Blip Bass_0295.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=33 hivel=48 offset=308 end=25875 loop_mode=no_loop
+<region> sample=Blip Bass_0296.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=49 hivel=64 offset=484 end=26123 loop_mode=no_loop
+<region> sample=Blip Bass_0297.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=65 hivel=79 offset=284 end=25890 loop_mode=no_loop
+<region> sample=Blip Bass_0298.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=80 hivel=95 offset=555 end=26182 loop_mode=no_loop
+<region> sample=Blip Bass_0299.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=96 hivel=111 offset=501 end=26207 loop_mode=no_loop
+<region> sample=Blip Bass_0300.aif amp_veltrack=0  key=70 lokey=70 hikey=70 lovel=112 hivel=127   offset=204 end=25916 loop_mode=no_loop
+<region> sample=Blip Bass_0301.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=1 hivel=16 offset=138 end=20628 loop_mode=no_loop
+<region> sample=Blip Bass_0302.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=17 hivel=32 offset=623 end=25512 loop_mode=no_loop
+<region> sample=Blip Bass_0303.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=33 hivel=48 offset=582 end=26240 loop_mode=no_loop
+<region> sample=Blip Bass_0304.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=49 hivel=64 offset=174 end=25742 loop_mode=no_loop
+<region> sample=Blip Bass_0305.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=65 hivel=79 offset=544 end=26114 loop_mode=no_loop
+<region> sample=Blip Bass_0306.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=80 hivel=95 offset=521 end=26144 loop_mode=no_loop
+<region> sample=Blip Bass_0307.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=96 hivel=111 offset=428 end=26015 loop_mode=no_loop
+<region> sample=Blip Bass_0308.aif amp_veltrack=0  key=71 lokey=71 hikey=71 lovel=112 hivel=127   offset=458 end=26114 loop_mode=no_loop
+<region> sample=Blip Bass_0309.aif amp_veltrack=0  key=72 lokey=72 hikey=110 lovel=1 hivel=16 offset=204 end=21265 loop_mode=no_loop
+<region> sample=Blip Bass_0310.aif amp_veltrack=0  key=72 lokey=72 hikey=110 lovel=17 hivel=32 offset=542 end=25390 loop_mode=no_loop
+<region> sample=Blip Bass_0311.aif amp_veltrack=0  key=72 lokey=72 hikey=110 lovel=33 hivel=48 offset=371 loop_mode=no_loop
+<region> sample=Blip Bass_0312.aif amp_veltrack=0  key=72 lokey=72 hikey=110 lovel=49 hivel=64 offset=136 end=25612 loop_mode=no_loop
+<region> sample=Blip Bass_0313.aif amp_veltrack=0  key=72 lokey=72 hikey=110 lovel=65 hivel=79 offset=241 end=25904 loop_mode=no_loop
+<region> sample=Blip Bass_0314.aif amp_veltrack=0  key=72 lokey=72 hikey=110 lovel=80 hivel=95 offset=165 end=25761 loop_mode=no_loop
+<region> sample=Blip Bass_0315.aif amp_veltrack=0  key=72 lokey=72 hikey=110 lovel=96 hivel=111 offset=615 loop_mode=no_loop
+<region> sample=Blip Bass_0316.aif amp_veltrack=0  key=72 lokey=72 hikey=110 lovel=112 hivel=127   offset=344 end=25777 loop_mode=no_loop

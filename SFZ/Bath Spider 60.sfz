@@ -1,100 +1,56 @@
-// this file was generated from Bath Spider 60.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Bath Spider 60.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=12 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=385 end=755263 sample=../Audio/Bath Spider 60/Bath Spider 60.aif
-<group> key=13 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=284 end=757078 sample=../Audio/Bath Spider 60/Bath Spider 60_0001.aif
-<group> key=14 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=192 end=756488 sample=../Audio/Bath Spider 60/Bath Spider 60_0002.aif
-<group> key=15 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=180 sample=../Audio/Bath Spider 60/Bath Spider 60_0003.aif
-<group> key=16 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=266 end=755867 sample=../Audio/Bath Spider 60/Bath Spider 60_0004.aif
-<group> key=17 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=556 sample=../Audio/Bath Spider 60/Bath Spider 60_0005.aif
-<group> key=18 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=216 sample=../Audio/Bath Spider 60/Bath Spider 60_0006.aif
-<group> key=19 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=451 end=755627 sample=../Audio/Bath Spider 60/Bath Spider 60_0007.aif
-<group> key=20 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=243 sample=../Audio/Bath Spider 60/Bath Spider 60_0008.aif
-<group> key=21 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=554 sample=../Audio/Bath Spider 60/Bath Spider 60_0009.aif
-<group> key=22 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=482 sample=../Audio/Bath Spider 60/Bath Spider 60_0010.aif
-<group> key=23 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=238 sample=../Audio/Bath Spider 60/Bath Spider 60_0011.aif
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=409 end=756309 sample=../Audio/Bath Spider 60/Bath Spider 60_0012.aif
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=464 sample=../Audio/Bath Spider 60/Bath Spider 60_0013.aif
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=507 end=750859 sample=../Audio/Bath Spider 60/Bath Spider 60_0014.aif
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=125 end=741651 sample=../Audio/Bath Spider 60/Bath Spider 60_0015.aif
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=355 sample=../Audio/Bath Spider 60/Bath Spider 60_0016.aif
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=481 end=756072 sample=../Audio/Bath Spider 60/Bath Spider 60_0017.aif
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=399 sample=../Audio/Bath Spider 60/Bath Spider 60_0018.aif
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=419 sample=../Audio/Bath Spider 60/Bath Spider 60_0019.aif
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=411 end=756852 sample=../Audio/Bath Spider 60/Bath Spider 60_0020.aif
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=480 end=756442 sample=../Audio/Bath Spider 60/Bath Spider 60_0021.aif
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=466 end=756528 sample=../Audio/Bath Spider 60/Bath Spider 60_0022.aif
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=487 end=756596 sample=../Audio/Bath Spider 60/Bath Spider 60_0023.aif
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=487 sample=../Audio/Bath Spider 60/Bath Spider 60_0024.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=412 end=757013 sample=../Audio/Bath Spider 60/Bath Spider 60_0025.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=471 end=755643 sample=../Audio/Bath Spider 60/Bath Spider 60_0026.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=496 end=757221 sample=../Audio/Bath Spider 60/Bath Spider 60_0027.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=426 sample=../Audio/Bath Spider 60/Bath Spider 60_0028.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=468 end=757045 sample=../Audio/Bath Spider 60/Bath Spider 60_0029.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=406 sample=../Audio/Bath Spider 60/Bath Spider 60_0030.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=487 sample=../Audio/Bath Spider 60/Bath Spider 60_0031.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=473 sample=../Audio/Bath Spider 60/Bath Spider 60_0032.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=464 end=742219 sample=../Audio/Bath Spider 60/Bath Spider 60_0033.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=455 end=756204 sample=../Audio/Bath Spider 60/Bath Spider 60_0034.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=433 end=720512 sample=../Audio/Bath Spider 60/Bath Spider 60_0035.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=483 sample=../Audio/Bath Spider 60/Bath Spider 60_0036.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=480 sample=../Audio/Bath Spider 60/Bath Spider 60_0037.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=465 sample=../Audio/Bath Spider 60/Bath Spider 60_0038.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=414 sample=../Audio/Bath Spider 60/Bath Spider 60_0039.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=443 sample=../Audio/Bath Spider 60/Bath Spider 60_0040.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=485 end=714368 sample=../Audio/Bath Spider 60/Bath Spider 60_0041.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=526 sample=../Audio/Bath Spider 60/Bath Spider 60_0042.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=474 sample=../Audio/Bath Spider 60/Bath Spider 60_0043.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=478 end=757090 sample=../Audio/Bath Spider 60/Bath Spider 60_0044.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=438 end=756891 sample=../Audio/Bath Spider 60/Bath Spider 60_0045.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=468 end=756215 sample=../Audio/Bath Spider 60/Bath Spider 60_0046.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=413 sample=../Audio/Bath Spider 60/Bath Spider 60_0047.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=458 end=757333 sample=../Audio/Bath Spider 60/Bath Spider 60_0048.aif
+<control>
+default_path=../Audio/Bath Spider 60/
+
+<group>        // Bath Spider 60
+<region> sample=Bath Spider 60.aif amp_veltrack=0  key=12 lokey=12 hikey=12 lovel=1 hivel=127   offset=385 end=755263 loop_mode=no_loop
+<region> sample=Bath Spider 60_0001.aif amp_veltrack=0  key=13 lokey=13 hikey=13 lovel=1 hivel=127   offset=284 end=757078 loop_mode=no_loop
+<region> sample=Bath Spider 60_0002.aif amp_veltrack=0  key=14 lokey=14 hikey=14 lovel=1 hivel=127   offset=192 end=756488 loop_mode=no_loop
+<region> sample=Bath Spider 60_0003.aif amp_veltrack=0  key=15 lokey=15 hikey=15 lovel=1 hivel=127   offset=180 loop_mode=no_loop
+<region> sample=Bath Spider 60_0004.aif amp_veltrack=0  key=16 lokey=16 hikey=16 lovel=1 hivel=127   offset=266 end=755867 loop_mode=no_loop
+<region> sample=Bath Spider 60_0005.aif amp_veltrack=0  key=17 lokey=17 hikey=17 lovel=1 hivel=127   offset=556 loop_mode=no_loop
+<region> sample=Bath Spider 60_0006.aif amp_veltrack=0  key=18 lokey=18 hikey=18 lovel=1 hivel=127   offset=216 loop_mode=no_loop
+<region> sample=Bath Spider 60_0007.aif amp_veltrack=0  key=19 lokey=19 hikey=19 lovel=1 hivel=127   offset=451 end=755627 loop_mode=no_loop
+<region> sample=Bath Spider 60_0008.aif amp_veltrack=0  key=20 lokey=20 hikey=20 lovel=1 hivel=127   offset=243 loop_mode=no_loop
+<region> sample=Bath Spider 60_0009.aif amp_veltrack=0  key=21 lokey=21 hikey=21 lovel=1 hivel=127   offset=554 loop_mode=no_loop
+<region> sample=Bath Spider 60_0010.aif amp_veltrack=0  key=22 lokey=22 hikey=22 lovel=1 hivel=127   offset=482 loop_mode=no_loop
+<region> sample=Bath Spider 60_0011.aif amp_veltrack=0  key=23 lokey=23 hikey=23 lovel=1 hivel=127   offset=238 loop_mode=no_loop
+<region> sample=Bath Spider 60_0012.aif amp_veltrack=0  key=24 lokey=24 hikey=24 lovel=1 hivel=127   offset=409 end=756309 loop_mode=no_loop
+<region> sample=Bath Spider 60_0013.aif amp_veltrack=0  key=25 lokey=25 hikey=25 lovel=1 hivel=127   offset=464 loop_mode=no_loop
+<region> sample=Bath Spider 60_0014.aif amp_veltrack=0  key=26 lokey=26 hikey=26 lovel=1 hivel=127   offset=507 end=750859 loop_mode=no_loop
+<region> sample=Bath Spider 60_0015.aif amp_veltrack=0  key=27 lokey=27 hikey=27 lovel=1 hivel=127   offset=125 end=741651 loop_mode=no_loop
+<region> sample=Bath Spider 60_0016.aif amp_veltrack=0  key=28 lokey=28 hikey=28 lovel=1 hivel=127   offset=355 loop_mode=no_loop
+<region> sample=Bath Spider 60_0017.aif amp_veltrack=0  key=29 lokey=29 hikey=29 lovel=1 hivel=127   offset=481 end=756072 loop_mode=no_loop
+<region> sample=Bath Spider 60_0018.aif amp_veltrack=0  key=30 lokey=30 hikey=30 lovel=1 hivel=127   offset=399 loop_mode=no_loop
+<region> sample=Bath Spider 60_0019.aif amp_veltrack=0  key=31 lokey=31 hikey=31 lovel=1 hivel=127   offset=419 loop_mode=no_loop
+<region> sample=Bath Spider 60_0020.aif amp_veltrack=0  key=32 lokey=32 hikey=32 lovel=1 hivel=127   offset=411 end=756852 loop_mode=no_loop
+<region> sample=Bath Spider 60_0021.aif amp_veltrack=0  key=33 lokey=33 hikey=33 lovel=1 hivel=127   offset=480 end=756442 loop_mode=no_loop
+<region> sample=Bath Spider 60_0022.aif amp_veltrack=0  key=34 lokey=34 hikey=34 lovel=1 hivel=127   offset=466 end=756528 loop_mode=no_loop
+<region> sample=Bath Spider 60_0023.aif amp_veltrack=0  key=35 lokey=35 hikey=35 lovel=1 hivel=127   offset=487 end=756596 loop_mode=no_loop
+<region> sample=Bath Spider 60_0024.aif amp_veltrack=0  key=36 lokey=36 hikey=36 lovel=1 hivel=127   offset=487 loop_mode=no_loop
+<region> sample=Bath Spider 60_0025.aif amp_veltrack=0  key=37 lokey=37 hikey=37 lovel=1 hivel=127   offset=412 end=757013 loop_mode=no_loop
+<region> sample=Bath Spider 60_0026.aif amp_veltrack=0  key=38 lokey=38 hikey=38 lovel=1 hivel=127   offset=471 end=755643 loop_mode=no_loop
+<region> sample=Bath Spider 60_0027.aif amp_veltrack=0  key=39 lokey=39 hikey=39 lovel=1 hivel=127   offset=496 end=757221 loop_mode=no_loop
+<region> sample=Bath Spider 60_0028.aif amp_veltrack=0  key=40 lokey=40 hikey=40 lovel=1 hivel=127   offset=426 loop_mode=no_loop
+<region> sample=Bath Spider 60_0029.aif amp_veltrack=0  key=41 lokey=41 hikey=41 lovel=1 hivel=127   offset=468 end=757045 loop_mode=no_loop
+<region> sample=Bath Spider 60_0030.aif amp_veltrack=0  key=42 lokey=42 hikey=42 lovel=1 hivel=127   offset=406 loop_mode=no_loop
+<region> sample=Bath Spider 60_0031.aif amp_veltrack=0  key=43 lokey=43 hikey=43 lovel=1 hivel=127   offset=487 loop_mode=no_loop
+<region> sample=Bath Spider 60_0032.aif amp_veltrack=0  key=44 lokey=44 hikey=44 lovel=1 hivel=127   offset=473 loop_mode=no_loop
+<region> sample=Bath Spider 60_0033.aif amp_veltrack=0  key=45 lokey=45 hikey=45 lovel=1 hivel=127   offset=464 end=742219 loop_mode=no_loop
+<region> sample=Bath Spider 60_0034.aif amp_veltrack=0  key=46 lokey=46 hikey=46 lovel=1 hivel=127   offset=455 end=756204 loop_mode=no_loop
+<region> sample=Bath Spider 60_0035.aif amp_veltrack=0  key=47 lokey=47 hikey=47 lovel=1 hivel=127   offset=433 end=720512 loop_mode=no_loop
+<region> sample=Bath Spider 60_0036.aif amp_veltrack=0  key=48 lokey=48 hikey=48 lovel=1 hivel=127   offset=483 loop_mode=no_loop
+<region> sample=Bath Spider 60_0037.aif amp_veltrack=0  key=49 lokey=49 hikey=49 lovel=1 hivel=127   offset=480 loop_mode=no_loop
+<region> sample=Bath Spider 60_0038.aif amp_veltrack=0  key=50 lokey=50 hikey=50 lovel=1 hivel=127   offset=465 loop_mode=no_loop
+<region> sample=Bath Spider 60_0039.aif amp_veltrack=0  key=51 lokey=51 hikey=51 lovel=1 hivel=127   offset=414 loop_mode=no_loop
+<region> sample=Bath Spider 60_0040.aif amp_veltrack=0  key=52 lokey=52 hikey=52 lovel=1 hivel=127   offset=443 loop_mode=no_loop
+<region> sample=Bath Spider 60_0041.aif amp_veltrack=0  key=53 lokey=53 hikey=53 lovel=1 hivel=127   offset=485 end=714368 loop_mode=no_loop
+<region> sample=Bath Spider 60_0042.aif amp_veltrack=0  key=54 lokey=54 hikey=54 lovel=1 hivel=127   offset=526 loop_mode=no_loop
+<region> sample=Bath Spider 60_0043.aif amp_veltrack=0  key=55 lokey=55 hikey=55 lovel=1 hivel=127   offset=474 loop_mode=no_loop
+<region> sample=Bath Spider 60_0044.aif amp_veltrack=0  key=56 lokey=56 hikey=56 lovel=1 hivel=127   offset=478 end=757090 loop_mode=no_loop
+<region> sample=Bath Spider 60_0045.aif amp_veltrack=0  key=57 lokey=57 hikey=57 lovel=1 hivel=127   offset=438 end=756891 loop_mode=no_loop
+<region> sample=Bath Spider 60_0046.aif amp_veltrack=0  key=58 lokey=58 hikey=58 lovel=1 hivel=127   offset=468 end=756215 loop_mode=no_loop
+<region> sample=Bath Spider 60_0047.aif amp_veltrack=0  key=59 lokey=59 hikey=59 lovel=1 hivel=127   offset=413 loop_mode=no_loop
+<region> sample=Bath Spider 60_0048.aif amp_veltrack=0  key=60 lokey=60 hikey=60 lovel=1 hivel=127   offset=458 end=757333 loop_mode=no_loop
