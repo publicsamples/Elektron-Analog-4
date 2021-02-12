@@ -6,6 +6,7 @@ A four voice analog groovebox with the classic Elektron sequencer. Bleepy bloopy
 -   **Formats:** EXS24, Kontakt, & SFZ
 -   **Approx Size:** 8GB
 -   **Info:** [elektron.se](https://www.elektron.se/legacy-products/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/a4.html)
 
 **Audio:** https://www.dropbox.com/sh/s8f3oe1b6nvoa4w/AAAMOPix7JvS1Ce69l7KEot0a?dl=0
 
