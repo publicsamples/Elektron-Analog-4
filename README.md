@@ -8,9 +8,7 @@ A four voice analog groovebox with the classic Elektron sequencer. Bleepy bloopy
 -   **Info:** [elektron.se](https://www.elektron.se/legacy-products/)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/a4.html)
 
-**Audio:** https://www.dropbox.com/sh/s8f3oe1b6nvoa4w/AAAMOPix7JvS1Ce69l7KEot0a?dl=0
-
-**Please note:** the audio part of this library is provided via Bittorrent. You will need to download this using the included .torrent file.
+**[Download Audio](https://github.com/publicsamples/Elektron-Analog-4/releases/tag/1.0)**
 
 
 # Loading
