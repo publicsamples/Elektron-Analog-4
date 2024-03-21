@@ -1,5 +1,5 @@
 
-# Elektron Analog Four -
+# Elektron Analog Four 
 
 A four voice analog groovebox with the classic Elektron sequencer. Bleepy bloopy madness.
 
